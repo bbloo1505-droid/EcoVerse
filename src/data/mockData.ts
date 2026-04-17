@@ -26,7 +26,7 @@ export const opportunities: Opportunity[] = [
     type: "Internship",
     deadline: "Closes in 6 days",
     image:
-      "https://images.unsplash.com/photo-1582967788606-a171c1080cb0?auto=format&fit=crop&w=1200&q=80",
+      "https://images.unsplash.com/photo-1526481280695-3c4690d5e2ac?auto=format&fit=crop&w=1200&q=80",
     summary: "Field and data support role focused on reef monitoring and restoration.",
     tags: ["Paid", "Field Work", "Student Friendly"],
   },
@@ -38,7 +38,7 @@ export const opportunities: Opportunity[] = [
     type: "Graduate",
     deadline: "Closes in 10 days",
     image:
-      "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?auto=format&fit=crop&w=1200&q=80",
+      "https://images.unsplash.com/photo-1506973035872-a4f23adf7d27?auto=format&fit=crop&w=1200&q=80",
     summary: "Support ESG reporting, stakeholder analysis, and emissions data projects.",
     tags: ["Hybrid", "Graduate", "Consulting"],
   },
@@ -50,7 +50,7 @@ export const opportunities: Opportunity[] = [
     type: "Volunteer",
     deadline: "Always open",
     image:
-      "https://images.unsplash.com/photo-1472396961693-142e6e269027?auto=format&fit=crop&w=1200&q=80",
+      "https://images.unsplash.com/photo-1469474968028-56623f02e42e?auto=format&fit=crop&w=1200&q=80",
     summary: "Coordinate local restoration volunteers and habitat maintenance days.",
     tags: ["Volunteer", "Community", "Weekend"],
   },
@@ -65,7 +65,7 @@ export const events: Event[] = [
     format: "Hybrid",
     location: "Sydney + Online",
     image:
-      "https://images.unsplash.com/photo-1515187029135-18ee286d815b?auto=format&fit=crop&w=1200&q=80",
+      "https://images.unsplash.com/photo-1524293581917-878a6d017c71?auto=format&fit=crop&w=1200&q=80",
     summary: "Industry panel on skills pathways for graduates entering consulting.",
   },
   {
@@ -76,7 +76,7 @@ export const events: Event[] = [
     format: "In person",
     location: "Canberra, ACT",
     image:
-      "https://images.unsplash.com/photo-1511578314322-379afb476865?auto=format&fit=crop&w=1200&q=80",
+      "https://images.unsplash.com/photo-1545044846-351ba102b6d5?auto=format&fit=crop&w=1200&q=80",
     summary: "Meet policy professionals and learn how to break into impact careers.",
   },
 ];
@@ -88,7 +88,7 @@ export const articles: Article[] = [
     source: "Environment Australia News",
     lastVerified: "Verified today",
     image:
-      "https://images.unsplash.com/photo-1500382017468-9049fed747ef?auto=format&fit=crop&w=1200&q=80",
+      "https://images.unsplash.com/photo-1472396961693-142e6e269027?auto=format&fit=crop&w=1200&q=80",
     summary: "Councils announced fresh funding rounds for regeneration and biodiversity.",
   },
   {
@@ -97,7 +97,7 @@ export const articles: Article[] = [
     source: "Sustainability Careers AU",
     lastVerified: "Verified 3 hours ago",
     image:
-      "https://images.unsplash.com/photo-1497215842964-222b430dc094?auto=format&fit=crop&w=1200&q=80",
+      "https://images.unsplash.com/photo-1492321936769-b49830bc1d1e?auto=format&fit=crop&w=1200&q=80",
     summary: "Firms are increasingly hiring graduates with mixed policy and analytics skills.",
   },
 ];

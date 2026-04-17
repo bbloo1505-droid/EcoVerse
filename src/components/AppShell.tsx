@@ -20,11 +20,6 @@ export function AppShell({
   return (
     <div className="app-shell-outer">
       <div className="app-shell">
-        <div className="status-bar">
-          <span>9:41</span>
-          <span>EcoVerse</span>
-          <span>5G 92%</span>
-        </div>
         <header className="top-nav">
           <div>
             <p className="brand">EcoVerse</p>
