@@ -5,6 +5,8 @@ import { EventCard } from '@/components/cards/EventCard';
 import { NewsCard } from '@/components/cards/NewsCard';
 import { MentorCard } from '@/components/cards/MentorCard';
 import { useEcoverseContent } from '@/context/EcoverseContentContext';
+import { useAuth } from '@/context/AuthContext';
+import { useProfile } from '@/context/ProfileContext';
 import { useTodayHeroBackground } from '@/hooks/useTodayHeroBackground';
 
 function Section({ title, to, children }: { title: string; to: string; children: React.ReactNode }) {
@@ -23,7 +25,17 @@ function Section({ title, to, children }: { title: string; to: string; children:
 
 export default function Home() {
   const { opportunities, events, news, mentors } = useEcoverseContent();
+  const { user } = useAuth();
+  const { profile } = useProfile();
   const hero = useTodayHeroBackground();
+  const displayName =
+    profile.displayName.trim() ||
+    (typeof user?.user_metadata?.full_name === 'string' ? user.user_metadata.full_name.trim() : '') ||
+    (user?.email?.split('@')[0] ?? 'there');
+  const primaryInterests = profile.interests.slice(0, 2);
+  const recommendationLine = primaryInterests.length
+    ? `Fresh opportunities matched your interests in ${primaryInterests.join(' and ')}.`
+    : 'Set your interests in onboarding to improve recommendation quality.';
 
   return (
     <div className="container-app py-6 sm:py-10 space-y-10">
@@ -44,8 +56,8 @@ export default function Home() {
         <div className="relative z-10 flex items-start justify-between gap-4 flex-wrap">
           <div>
             <span className="eyebrow inline-flex items-center gap-1.5"><Sparkles className="h-3.5 w-3.5" /> Personalised for you</span>
-            <h1 className="mt-2 font-display text-2xl sm:text-3xl font-bold">Good afternoon, Ella 🌱</h1>
-            <p className="mt-1 text-sm text-text-secondary">3 new opportunities matched your interests in <span className="font-medium text-foreground">Conservation</span> and <span className="font-medium text-foreground">Climate Policy</span>.</p>
+            <h1 className="mt-2 font-display text-2xl sm:text-3xl font-bold">Good afternoon, {displayName} 🌱</h1>
+            <p className="mt-1 text-sm text-text-secondary">{recommendationLine}</p>
             {hero.imageUrl && hero.caption ? (
               <p className="mt-2 text-xs text-text-secondary max-w-xl">{hero.caption}</p>
             ) : null}

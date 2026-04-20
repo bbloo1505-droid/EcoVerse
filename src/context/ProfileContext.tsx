@@ -9,12 +9,24 @@ import {
 } from "react";
 import type { EcoverseProfile } from "@/types/profile";
 import { defaultProfile } from "@/types/profile";
+import { useAuth } from "@/context/AuthContext";
 
-const STORAGE_KEY = "ecoverse_profile_v1";
+export const PROFILE_STORAGE_KEY = "ecoverse_profile_v1";
+export const ONBOARDING_SEEN_KEY = "ecoverse_onboarding_seen_v1";
+
+function inferredNameFromEmail(email: string | null | undefined): string {
+  const local = (email || "").split("@")[0]?.trim();
+  if (!local) return "";
+  return local
+    .split(/[._-]+/)
+    .filter(Boolean)
+    .map((x) => x.charAt(0).toUpperCase() + x.slice(1))
+    .join(" ");
+}
 
 function loadStored(): EcoverseProfile {
   try {
-    const raw = localStorage.getItem(STORAGE_KEY);
+    const raw = localStorage.getItem(PROFILE_STORAGE_KEY);
     if (!raw) return defaultProfile();
     const parsed = JSON.parse(raw) as Partial<EcoverseProfile>;
     return { ...defaultProfile(), ...parsed, updatedAt: parsed.updatedAt || new Date().toISOString() };
@@ -25,7 +37,7 @@ function loadStored(): EcoverseProfile {
 
 function saveStored(p: EcoverseProfile) {
   try {
-    localStorage.setItem(STORAGE_KEY, JSON.stringify({ ...p, updatedAt: new Date().toISOString() }));
+    localStorage.setItem(PROFILE_STORAGE_KEY, JSON.stringify({ ...p, updatedAt: new Date().toISOString() }));
   } catch {
     /* ignore quota */
   }
@@ -41,11 +53,24 @@ type ProfileContextValue = {
 const ProfileContext = createContext<ProfileContextValue | null>(null);
 
 export function ProfileProvider({ children }: { children: ReactNode }) {
+  const { user } = useAuth();
   const [profile, setProfileState] = useState<EcoverseProfile>(() => loadStored());
 
   useEffect(() => {
     saveStored(profile);
   }, [profile]);
+
+  useEffect(() => {
+    if (!user) return;
+    const googleName = typeof user.user_metadata?.full_name === "string" ? user.user_metadata.full_name.trim() : "";
+    const fallbackName = inferredNameFromEmail(user.email);
+    const nextName = googleName || fallbackName;
+    if (!nextName) return;
+    setProfileState((prev) => {
+      if (prev.displayName.trim()) return prev;
+      return { ...prev, displayName: nextName, updatedAt: new Date().toISOString() };
+    });
+  }, [user]);
 
   const setProfile = useCallback((next: EcoverseProfile | ((prev: EcoverseProfile) => EcoverseProfile)) => {
     setProfileState(next);

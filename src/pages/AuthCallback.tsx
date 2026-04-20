@@ -2,6 +2,7 @@ import { useEffect, useRef } from "react";
 import { useNavigate } from "react-router-dom";
 import { Leaf } from "lucide-react";
 import { supabase } from "@/lib/supabase";
+import { ONBOARDING_SEEN_KEY, PROFILE_STORAGE_KEY } from "@/context/ProfileContext";
 
 /**
  * OAuth (and magic-link) return URL. Supabase exchanges the code/hash here; then we redirect into the app.
@@ -10,6 +11,18 @@ import { supabase } from "@/lib/supabase";
 export default function AuthCallback() {
   const navigate = useNavigate();
   const done = useRef(false);
+
+  const postAuthPath = () => {
+    try {
+      const seen = localStorage.getItem(ONBOARDING_SEEN_KEY) === "1";
+      const raw = localStorage.getItem(PROFILE_STORAGE_KEY);
+      const parsed = raw ? (JSON.parse(raw) as { targetCareer?: string; interests?: string[] }) : null;
+      const hasContext = Boolean(parsed?.targetCareer?.trim()) || Boolean(parsed?.interests?.length);
+      return seen || hasContext ? "/home" : "/onboarding";
+    } catch {
+      return "/home";
+    }
+  };
 
   useEffect(() => {
     const client = supabase;
@@ -25,18 +38,18 @@ export default function AuthCallback() {
     };
 
     void client.auth.getSession().then(({ data: { session } }) => {
-      if (session) go("/home");
+      if (session) go(postAuthPath());
     });
 
     const {
       data: { subscription },
     } = client.auth.onAuthStateChange((event, session) => {
-      if (event === "SIGNED_IN" && session) go("/home");
+      if (event === "SIGNED_IN" && session) go(postAuthPath());
     });
 
     const fallback = window.setTimeout(() => {
       void client.auth.getSession().then(({ data: { session } }) => {
-        if (session) go("/home");
+        if (session) go(postAuthPath());
         else go("/login");
       });
     }, 15000);

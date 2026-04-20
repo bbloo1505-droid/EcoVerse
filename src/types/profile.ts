@@ -1,6 +1,8 @@
 /** Saved locally (and optionally synced to Supabase later). */
 export interface EcoverseProfile {
   displayName: string;
+  /** Preferred onboarding depth for pathway planning. */
+  pathwayPlanMode?: "simple" | "detailed";
   /** Role or field the user wants (e.g. environmental consulting, bush regeneration ecologist). */
   targetCareer: string;
   interests: string[];
@@ -17,6 +19,7 @@ export interface EcoverseProfile {
 
 export const defaultProfile = (): EcoverseProfile => ({
   displayName: "",
+  pathwayPlanMode: "simple",
   targetCareer: "",
   interests: [],
   state: "NSW",
