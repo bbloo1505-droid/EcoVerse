@@ -1,8 +1,7 @@
 import { useEffect, useRef } from "react";
-import { useNavigate, useSearchParams } from "react-router-dom";
+import { useNavigate } from "react-router-dom";
 import { Leaf } from "lucide-react";
 import { supabase } from "@/lib/supabase";
-import { safeAuthRedirectPath } from "@/lib/authRedirect";
 
 /**
  * OAuth (and magic-link) return URL. Supabase exchanges the code/hash here; then we redirect into the app.
@@ -10,8 +9,6 @@ import { safeAuthRedirectPath } from "@/lib/authRedirect";
  */
 export default function AuthCallback() {
   const navigate = useNavigate();
-  const [params] = useSearchParams();
-  const next = safeAuthRedirectPath(params.get("next"));
   const done = useRef(false);
 
   useEffect(() => {
@@ -28,18 +25,18 @@ export default function AuthCallback() {
     };
 
     void client.auth.getSession().then(({ data: { session } }) => {
-      if (session) go(next);
+      if (session) go("/home");
     });
 
     const {
       data: { subscription },
     } = client.auth.onAuthStateChange((event, session) => {
-      if (event === "SIGNED_IN" && session) go(next);
+      if (event === "SIGNED_IN" && session) go("/home");
     });
 
     const fallback = window.setTimeout(() => {
       void client.auth.getSession().then(({ data: { session } }) => {
-        if (session) go(next);
+        if (session) go("/home");
         else go("/login");
       });
     }, 15000);
@@ -48,7 +45,7 @@ export default function AuthCallback() {
       subscription.unsubscribe();
       window.clearTimeout(fallback);
     };
-  }, [navigate, next]);
+  }, [navigate]);
 
   return (
     <div className="container-app py-24 text-center">

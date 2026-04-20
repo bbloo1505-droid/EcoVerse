@@ -38,7 +38,7 @@ export default function Auth({ mode }: { mode: "signup" | "login" }) {
             password,
             options: {
               data: { full_name: name.trim() || undefined },
-              emailRedirectTo: authCallbackUrl("/onboarding"),
+              emailRedirectTo: authCallbackUrl(),
             },
           });
           if (signErr) throw signErr;
@@ -73,7 +73,7 @@ export default function Auth({ mode }: { mode: "signup" | "login" }) {
     setGoogleLoading(true);
     const { error: oAuthErr } = await supabase.auth.signInWithOAuth({
       provider: "google",
-      options: { redirectTo: authCallbackUrl("/home") },
+      options: { redirectTo: authCallbackUrl() },
     });
     setGoogleLoading(false);
     if (oAuthErr) setError(oAuthErr.message);
@@ -95,7 +95,7 @@ export default function Auth({ mode }: { mode: "signup" | "login" }) {
       const { error: otpErr } = await supabase.auth.signInWithOtp({
         email: email.trim(),
         options: {
-          emailRedirectTo: authCallbackUrl("/home"),
+          emailRedirectTo: authCallbackUrl(),
         },
       });
       if (otpErr) throw otpErr;
