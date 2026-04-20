@@ -4,10 +4,12 @@ import { Button } from '@/components/ui/button';
 import { FilterChip } from '@/components/common/FilterChip';
 import { interestTopics, auStates, careerStages } from '@/lib/data';
 import { ONBOARDING_SEEN_KEY, useProfile } from '@/context/ProfileContext';
+import { useAuth } from '@/context/AuthContext';
 import { ArrowRight, Sparkles } from 'lucide-react';
 
 export default function Onboarding() {
   const navigate = useNavigate();
+  const { user } = useAuth();
   const { profile, updateProfile } = useProfile();
   const [planMode, setPlanMode] = useState<'simple' | 'detailed'>(profile.pathwayPlanMode || 'simple');
   const [interests, setInterests] = useState<string[]>(profile.interests);
@@ -23,7 +25,9 @@ export default function Onboarding() {
 
   const markSeen = () => {
     try {
-      localStorage.setItem(ONBOARDING_SEEN_KEY, '1');
+      if (user?.id) {
+        localStorage.setItem(`${ONBOARDING_SEEN_KEY}:${user.id}`, '1');
+      }
     } catch {
       // ignore storage failures
     }

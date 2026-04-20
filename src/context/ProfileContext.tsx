@@ -14,6 +14,8 @@ import { useAuth } from "@/context/AuthContext";
 export const PROFILE_STORAGE_KEY = "ecoverse_profile_v1";
 export const ONBOARDING_SEEN_KEY = "ecoverse_onboarding_seen_v1";
 
+const PLACEHOLDER_NAMES = new Set(["ella"]);
+
 function inferredNameFromEmail(email: string | null | undefined): string {
   const local = (email || "").split("@")[0]?.trim();
   if (!local) return "";
@@ -65,12 +67,16 @@ export function ProfileProvider({ children }: { children: ReactNode }) {
     const googleName = typeof user.user_metadata?.full_name === "string" ? user.user_metadata.full_name.trim() : "";
     const fallbackName = inferredNameFromEmail(user.email);
     const nextName = googleName || fallbackName;
-    if (!nextName) return;
+    const clearPlaceholder = (prevName: string) => {
+      const p = prevName.trim().toLowerCase();
+      return !p || PLACEHOLDER_NAMES.has(p);
+    };
+    if (!nextName && !clearPlaceholder(profile.displayName)) return;
     setProfileState((prev) => {
-      if (prev.displayName.trim()) return prev;
-      return { ...prev, displayName: nextName, updatedAt: new Date().toISOString() };
+      if (!clearPlaceholder(prev.displayName)) return prev;
+      return { ...prev, displayName: nextName || prev.displayName, updatedAt: new Date().toISOString() };
     });
-  }, [user]);
+  }, [user, profile.displayName]);
 
   const setProfile = useCallback((next: EcoverseProfile | ((prev: EcoverseProfile) => EcoverseProfile)) => {
     setProfileState(next);

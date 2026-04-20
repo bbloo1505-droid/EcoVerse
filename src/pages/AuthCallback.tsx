@@ -12,13 +12,15 @@ export default function AuthCallback() {
   const navigate = useNavigate();
   const done = useRef(false);
 
-  const postAuthPath = () => {
+  const postAuthPath = (userId: string | null | undefined) => {
     try {
-      const seen = localStorage.getItem(ONBOARDING_SEEN_KEY) === "1";
+      const seenKey = userId ? `${ONBOARDING_SEEN_KEY}:${userId}` : "";
+      const seen = seenKey ? localStorage.getItem(seenKey) === "1" : false;
       const raw = localStorage.getItem(PROFILE_STORAGE_KEY);
-      const parsed = raw ? (JSON.parse(raw) as { targetCareer?: string; interests?: string[] }) : null;
+      const parsed = raw ? (JSON.parse(raw) as { targetCareer?: string; interests?: string[]; displayName?: string }) : null;
       const hasContext = Boolean(parsed?.targetCareer?.trim()) || Boolean(parsed?.interests?.length);
-      return seen || hasContext ? "/home" : "/onboarding";
+      const hasRealName = Boolean(parsed?.displayName?.trim()) && parsed?.displayName?.trim().toLowerCase() !== "ella";
+      return seen || (hasContext && hasRealName) ? "/home" : "/onboarding";
     } catch {
       return "/home";
     }
@@ -38,18 +40,18 @@ export default function AuthCallback() {
     };
 
     void client.auth.getSession().then(({ data: { session } }) => {
-      if (session) go(postAuthPath());
+      if (session) go(postAuthPath(session.user?.id));
     });
 
     const {
       data: { subscription },
     } = client.auth.onAuthStateChange((event, session) => {
-      if (event === "SIGNED_IN" && session) go(postAuthPath());
+      if (event === "SIGNED_IN" && session) go(postAuthPath(session.user?.id));
     });
 
     const fallback = window.setTimeout(() => {
       void client.auth.getSession().then(({ data: { session } }) => {
-        if (session) go(postAuthPath());
+        if (session) go(postAuthPath(session.user?.id));
         else go("/login");
       });
     }, 15000);
