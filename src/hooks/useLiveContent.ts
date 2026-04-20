@@ -28,15 +28,22 @@ export function useLiveContent() {
 
   useEffect(() => {
     let mounted = true;
-    fetchLiveContent().then((content) => {
-      if (!mounted) return;
-      setState({
-        ...content,
-        isLoading: false,
+    const loadContent = () => {
+      fetchLiveContent().then((content) => {
+        if (!mounted) return;
+        setState({
+          ...content,
+          isLoading: false,
+        });
       });
-    });
+    };
+
+    loadContent();
+    const interval = window.setInterval(loadContent, 1000 * 60 * 3);
+
     return () => {
       mounted = false;
+      window.clearInterval(interval);
     };
   }, []);
 

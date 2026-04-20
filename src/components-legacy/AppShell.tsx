@@ -21,9 +21,14 @@ export function AppShell({
     <div className="app-shell-outer">
       <div className="app-shell">
         <header className="top-nav">
-          <div>
-            <p className="brand">EcoVerse</p>
-            <p className="app-subtitle">Environmental careers, simplified</p>
+          <div className="brand-wrap">
+            <span className="brand-mark" aria-hidden="true">
+              🌿
+            </span>
+            <div>
+              <p className="brand">EcoVerse</p>
+              <p className="app-subtitle">Environmental careers, simplified</p>
+            </div>
           </div>
           <div className="top-nav-actions">
             <button
@@ -31,7 +36,7 @@ export function AppShell({
               aria-label="Open notifications"
               onClick={onNotificationsClick}
             >
-              N
+              🔔
               {notificationCount > 0 && <span className="icon-badge">{notificationCount}</span>}
             </button>
             <button

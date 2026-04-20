@@ -16,14 +16,19 @@ export interface Opportunity {
   title: string;
   organization: string;
   location: string;
-  type: "Volunteer" | "Internship" | "Graduate" | "Entry" | "Research" | "Fellowship";
+  type: "Volunteer" | "Internship" | "Graduate" | "Entry" | "Research" | "Fellowship" | "Grant" | "Mid-senior";
   deadline: string;
-  image: string;
+  /** Hero image URL when the source provides one (RSS/API). */
+  image?: string;
   summary: string;
   tags: string[];
   url?: string;
   source?: string;
   publishedAt?: string;
+  /** Aggregator / board name (e.g. GoodWork, Conservation Careers). */
+  listingBoard?: string;
+  /** Career pathway ids aligned with `environmentalPathways.json`. */
+  pathwayIds?: string[];
 }
 
 export interface Event {
@@ -33,7 +38,7 @@ export interface Event {
   date: string;
   format: "In person" | "Online" | "Hybrid";
   location: string;
-  image: string;
+  image?: string;
   summary: string;
   url?: string;
   source?: string;
@@ -45,7 +50,7 @@ export interface Article {
   title: string;
   source: string;
   lastVerified: string;
-  image: string;
+  image?: string;
   summary: string;
   url?: string;
   publishedAt?: string;

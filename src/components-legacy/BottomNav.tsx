@@ -8,10 +8,18 @@ interface BottomNavProps {
 const tabs: { id: NavTab; label: string }[] = [
   { id: "home", label: "Home" },
   { id: "news", label: "News" },
-  { id: "opportunities", label: "Opportunities" },
+  { id: "opportunities", label: "Discover" },
   { id: "mentors", label: "Mentors" },
   { id: "events", label: "Events" },
 ];
+
+const tabIcons: Record<NavTab, string> = {
+  home: "⌂",
+  news: "◉",
+  opportunities: "◈",
+  mentors: "◎",
+  events: "◌",
+};
 
 export function BottomNav({ activeTab, onTabChange }: BottomNavProps) {
   return (
@@ -22,8 +30,10 @@ export function BottomNav({ activeTab, onTabChange }: BottomNavProps) {
           className={activeTab === tab.id ? "nav-item active" : "nav-item"}
           onClick={() => onTabChange(tab.id)}
         >
-          <span className="nav-dot" aria-hidden="true" />
-          {tab.label}
+          <span className="nav-icon" aria-hidden="true">
+            {tabIcons[tab.id]}
+          </span>
+          <span>{tab.label}</span>
         </button>
       ))}
     </nav>

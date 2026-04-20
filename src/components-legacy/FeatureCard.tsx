@@ -32,7 +32,10 @@ export function FeatureCard({
   secondaryDisabled = false,
 }: FeatureCardProps) {
   return (
-    <article className={`feature-card ${layout === "horizontal" ? "horizontal" : ""}`} data-item-id={id}>
+    <article
+      className={`feature-card card-elev ${layout === "horizontal" ? "horizontal" : ""}`}
+      data-item-id={id}
+    >
       <div className="card-media">
         <img src={image} alt={title} className="card-cover" />
       </div>

@@ -1,450 +1,2663 @@
 {
   "articles": [
     {
+      "id": "article-aHR0cHM6Ly93d3cuYWJjLm5ldC5hdS9uZXdzLzIwMjYtMDQtMjAvZQ",
+      "title": "I drove an EV for three days. It saved me money but cost me time",
+      "source": "ABC Environment",
+      "lastVerified": "Verified 1h ago",
+      "image": "https://live-production.wcms.abc-cdn.net.au/28a8ce273ed694f8c91440e02cd1a07c?impolicy=wcms_crop_resize&cropH=2268&cropW=4032&xPos=0&yPos=378&width=862&height=485",
+      "summary": "With no end in sight to soaring fuel prices, 7.30 decided to take an EV for a test drive to see how far it could take our reporter, and if Australia's EV charging network stacks up",
+      "url": "https://www.abc.net.au/news/2026-04-20/electric-vehicles-money-versus-time-charging-network/106573726",
+      "publishedAt": "2026-04-20T05:02:18.000Z"
+    },
+    {
+      "id": "article-aHR0cHM6Ly9uZXdzLm1vbmdhYmF5LmNvbS8yMDI2LzA0L2FzaWFzLQ",
+      "title": "Asia’s longest free-flowing river contaminated by arsenic linked to Myanmar mines",
+      "source": "Mongabay",
+      "lastVerified": "Verified 3h ago",
+      "image": "https://imgs.mongabay.com/wp-content/uploads/sites/20/2026/04/14102130/IMG_0208-768x512.jpg",
+      "summary": "MAE HONG SON, Thailand — Saw Si Paw Rak Salween guns the wooden fishing boat’s engine and steers along the river that inspired his family name. He is ethnic Karen — his parents mig",
+      "url": "https://news.mongabay.com/2026/04/asias-longest-free-flowing-river-contaminated-by-arsenic-linked-to-myanmar-mines/",
+      "publishedAt": "2026-04-20T02:52:18.000Z"
+    },
+    {
+      "id": "article-aHR0cHM6Ly93d3cuYWJjLm5ldC5hdS9uZXdzLzIwMjYtMDQtMjAvcw",
+      "title": "Australia faced the same dilemma as China in 2004 but made the wrong call",
+      "source": "ABC Environment",
+      "lastVerified": "Verified 12h ago",
+      "image": "https://live-production.wcms.abc-cdn.net.au/5bbcc310c8edfb8762b131d62dfeaf94?impolicy=wcms_crop_resize&cropH=2813&cropW=5000&xPos=0&yPos=316&width=862&height=485",
+      "summary": "While the rest of us count the cost in higher fuel costs, higher inflation and a weaker economy, China — the actual winner of the war — will be enjoying a surge of global interest ",
+      "url": "https://www.abc.net.au/news/2026-04-20/strait-of-hormuz-china-renewable-energy/106581226",
+      "publishedAt": "2026-04-19T18:30:00.000Z"
+    },
+    {
+      "id": "article-aHR0cHM6Ly9uZXdzLm1vbmdhYmF5LmNvbS8yMDI2LzA0L3N0dWR5aQ",
+      "title": "Studying the world’s largest gathering of forest elephants with sound and field observation",
+      "source": "Mongabay",
+      "lastVerified": "Verified 15h ago",
+      "image": "https://imgs.mongabay.com/wp-content/uploads/sites/20/2026/04/19152433/ivonne-kienast-2026-16x9-1-768x512.jpg",
+      "summary": "In the far southwest of the Central African Republic, where dense forest gives way to a broad clearing, elephants gather in numbers rarely seen elsewhere. The place is known as Dza",
+      "url": "https://news.mongabay.com/2026/04/studying-the-worlds-largest-gathering-of-forest-elephants-with-sound-and-field-observation/",
+      "publishedAt": "2026-04-19T14:46:29.000Z"
+    },
+    {
+      "id": "article-aHR0cHM6Ly9uZXdzLm1vbmdhYmF5LmNvbS8yMDI2LzA0L3doYXQtdA",
+      "title": "What the grim outlook for Alpine Ash forests tells us about forestry dogma (commentary)",
+      "source": "Mongabay",
+      "lastVerified": "Verified 1d ago",
+      "image": "https://imgs.mongabay.com/wp-content/uploads/sites/20/2026/04/16183627/1-header-Alpine-Ash-forest-Chris-Taylor-768x512.jpg",
+      "summary": "In March, the Australian Government announced that the Alpine Ash forests of mainland Australia have been listed as an Endangered Ecological Community under national environmental ",
+      "url": "https://news.mongabay.com/2026/04/what-the-grim-outlook-for-alpine-ash-forests-tell-us-about-forestry-dogma-commentary/",
+      "publishedAt": "2026-04-19T02:23:55.000Z"
+    },
+    {
+      "id": "article-aHR0cHM6Ly93d3cudGhlZ3VhcmRpYW4uY29tL2Vudmlyb25tZW50Lw",
+      "title": "Australia’s coalmine emissions are increasing. Is this how a major policy to cut climate pollution is meant to work?",
+      "source": "The Guardian Environment",
+      "lastVerified": "Verified 1d ago",
+      "image": "https://i.guim.co.uk/img/media/8a6b78e977fc6f81e57358d8666573cb062d5987/227_0_2440_1952/master/2440.jpg?width=140&quality=85&auto=format&fit=max&s=8fbc0f252d9b44f3e66039a13780a7ac",
+      "summary": "The Albanese government overhauled policy and promised significant pollution cuts – but carbon offsets are still being used as an excuse Sign up for climate and environment editor ",
+      "url": "https://www.theguardian.com/environment/2026/apr/19/australia-emissions-increasing-coalmines-climate-policy-analysis",
+      "publishedAt": "2026-04-18T20:00:22.000Z"
+    },
+    {
+      "id": "article-aHR0cHM6Ly9uZXdzLm1vbmdhYmF5LmNvbS9zaG9ydC1hcnRpY2xlLw",
+      "title": "World’s fattest parrots have mating frenzy",
+      "source": "Mongabay",
+      "lastVerified": "Verified 1d ago",
+      "image": "https://imgs.mongabay.com/wp-content/uploads/sites/20/2026/04/18111619/Kakapo_Sirocco_1-768x512.jpg",
+      "summary": "With an adult population of only 236, the kākāpō—the world’s largest parrot—was teetering on the brink extinction. But this year, they have been mating at a record pace, and hatche",
+      "url": "https://news.mongabay.com/short-article/2026/04/worlds-fattest-parrots-have-mating-frenzy/",
+      "publishedAt": "2026-04-18T11:18:53.000Z"
+    },
+    {
+      "id": "article-aHR0cHM6Ly9uZXdzLm1vbmdhYmF5LmNvbS8yMDI2LzA0L2VuZXJneQ",
+      "title": "Energy crisis revives push to drill in Philippines’ largest intact wetland",
+      "source": "Mongabay",
+      "lastVerified": "Verified 2d ago",
+      "image": "https://imgs.mongabay.com/wp-content/uploads/sites/20/2026/04/17185118/Philippine-Duck-768x512.jpg",
+      "summary": "MINDANAO, Philippines — There’s been a renewed push in the Philippines to develop oil and gas deposits in the southern Liguasan Marsh, prompted by the energy crisis caused by the U",
+      "url": "https://news.mongabay.com/2026/04/energy-crisis-revives-push-to-drill-in-philippines-largest-intact-wetland/",
+      "publishedAt": "2026-04-17T21:11:11.000Z"
+    },
+    {
+      "id": "article-aHR0cHM6Ly9uZXdzLm1vbmdhYmF5LmNvbS9zaG9ydC1hcnRpY2xlLw",
+      "title": "Rehab center opens for Brazil’s golden-headed lion tamarins amid urban sprawl threat",
+      "source": "Mongabay",
+      "lastVerified": "Verified 2d ago",
+      "image": "https://imgs.mongabay.com/wp-content/uploads/sites/20/2026/04/17205612/WhatsApp-Image-2026-04-16-at-03.17.14-768x512.jpeg",
+      "summary": "Brazil has opened its first rehabilitation center for golden-headed lion tamarins, an endangered monkey species threatened by urban expansion and the loss of agroforestry farms to ",
+      "url": "https://news.mongabay.com/short-article/2026/04/rehab-center-opens-for-brazils-golden-headed-lion-tamarins-amid-urban-sprawl-threat/",
+      "publishedAt": "2026-04-17T21:10:22.000Z"
+    },
+    {
+      "id": "article-aHR0cHM6Ly9uZXdzLm1vbmdhYmF5LmNvbS8yMDI2LzA0L2luLXNyaQ",
+      "title": "In Sri Lanka, animals pay the price for overcrowding and speeding jeeps",
+      "source": "Mongabay",
+      "lastVerified": "Verified 2d ago",
+      "image": "https://imgs.mongabay.com/wp-content/uploads/sites/20/2026/04/17164435/1-768x512.jpeg",
+      "summary": "YALA, Sri Lanka — Spotting a leopard at Yala National Park, Sri Lanka’s most famous wildlife park located in the deep south, tops the list of priorities for many local and foreign ",
+      "url": "https://news.mongabay.com/2026/04/in-sri-lanka-animals-pay-the-price-for-overcrowding-and-speeding-jeeps/",
+      "publishedAt": "2026-04-17T17:25:57.000Z"
+    },
+    {
+      "id": "article-aHR0cHM6Ly9uZXdzLm1vbmdhYmF5LmNvbS9zaG9ydC1hcnRpY2xlLw",
+      "title": "Virtus Minerals signs first major deal under US-DRC critical minerals partnership",
+      "source": "Mongabay",
+      "lastVerified": "Verified 2d ago",
+      "image": "https://imgs.mongabay.com/wp-content/uploads/sites/20/2026/02/26144520/image3_IMG_7055bis-1536x1024-1-768x512.jpg",
+      "summary": "In a major advance for the U.S. push to secure critical minerals and compete with Chinese firms in Central Africa, U.S.-based Virtus Minerals has signed a megadeal for copper and c",
+      "url": "https://news.mongabay.com/short-article/2026/04/virtus-minerals-signs-first-major-deal-under-us-drc-critical-minerals-partnership/",
+      "publishedAt": "2026-04-17T15:03:48.000Z"
+    },
+    {
+      "id": "article-aHR0cHM6Ly93d3cudGhlZ3VhcmRpYW4uY29tL2Vudmlyb25tZW50Lw",
+      "title": "Victorian councils rubbish statewide mandate that all homes must have four wheelie bins",
+      "source": "The Guardian Environment",
+      "lastVerified": "Verified 2d ago",
+      "image": "https://i.guim.co.uk/img/media/dd12080ca616e650e36b2c1b5c662fcd773aee56/414_0_4640_3712/master/4640.jpg?width=140&quality=85&auto=format&fit=max&s=669adc11b26b36c83bd4e19b7e2101b3",
+      "summary": "Local governments have until 1 July next year to introduce a four-bin recycling system, but some councils – and waste experts – say it’s unnecessary Get our breaking news email, fr",
+      "url": "https://www.theguardian.com/environment/2026/apr/18/victorian-councils-rubbish-statewide-mandate-that-all-homes-must-have-four-wheelie-bins",
+      "publishedAt": "2026-04-17T15:00:47.000Z"
+    },
+    {
+      "id": "article-aHR0cHM6Ly9uZXdzLm1vbmdhYmF5LmNvbS8yMDI2LzA0L2NoaW1wLQ",
+      "title": "Chimp ‘civil war’ follows rare community split in a Ugandan national park",
+      "source": "Mongabay",
+      "lastVerified": "Verified 2d ago",
+      "image": "https://imgs.mongabay.com/wp-content/uploads/sites/20/2026/04/17012030/4.-Old-male-BF-was-the-last-male-to-go-between-groups-photo-by-Aaron-Sandel-768x512.jpg",
+      "summary": "A chimpanzee community in Uganda’s Kibale National Park that split into rival factions later attacked former allies in what researchers are describing as a rare chimpanzee “civil w",
+      "url": "https://news.mongabay.com/2026/04/chimp-civil-war-follows-rare-community-split-in-a-ugandan-national-park/",
+      "publishedAt": "2026-04-17T13:27:39.000Z"
+    },
+    {
+      "id": "article-aHR0cHM6Ly9uZXdzLm1vbmdhYmF5LmNvbS8yMDI2LzA0L3Rob21hcw",
+      "title": "Thomas J. Walker studied the songs of crickets and katydids",
+      "source": "Mongabay",
+      "lastVerified": "Verified 2d ago",
+      "image": "https://imgs.mongabay.com/wp-content/uploads/sites/20/2026/04/17123030/thomas-j-walker-768x512.jpg",
+      "summary": "Late summer evenings in much of North America carry a particular kind of insistence. It comes not from anything visible, but from a steady, patterned sound: a rasp, a pulse, a sequ",
+      "url": "https://news.mongabay.com/2026/04/thomas-j-walker-studied-the-songs-of-crickets-and-katydids/",
+      "publishedAt": "2026-04-17T12:38:26.000Z"
+    },
+    {
       "id": "article-aHR0cHM6Ly9uZXdzLm1vbmdhYmF5LmNvbS9zaG9ydC1hcnRpY2xlLw",
       "title": "Colombia announces plan to cull Pablo Escobar’s feral hippos",
       "source": "Mongabay",
-      "lastVerified": "Verified 2h ago",
-      "image": "https://images.unsplash.com/photo-1472396961693-142e6e269027?auto=format&fit=crop&w=1200&q=80",
+      "lastVerified": "Verified 2d ago",
+      "image": "https://imgs.mongabay.com/wp-content/uploads/sites/20/2026/04/17075702/Hipopotamo_Vanessa_PTHN-scaled-e1776412757713-768x512.jpg",
       "summary": "The Colombian government has authorized a plan to euthanize dozens of hippos descended from animals smuggled into the country by drug kingpin Pablo Escobar in the 1980s. There are ",
       "url": "https://news.mongabay.com/short-article/2026/04/colombia-announces-plan-to-cull-pablo-escobars-feral-hippos/",
-      "publishedAt": "17 Apr 2026 08:00:02 +0000"
+      "publishedAt": "2026-04-17T08:00:02.000Z"
     },
     {
       "id": "article-aHR0cHM6Ly9uZXdzLm1vbmdhYmF5LmNvbS8yMDI2LzA0L2V1LWRlZg",
       "title": "EU deforestation law nudges timber trade, Indonesia probe shows, but risks persist",
       "source": "Mongabay",
-      "lastVerified": "Verified 5h ago",
-      "image": "https://images.unsplash.com/photo-1472396961693-142e6e269027?auto=format&fit=crop&w=1200&q=80",
+      "lastVerified": "Verified 3d ago",
+      "image": "https://imgs.mongabay.com/wp-content/uploads/sites/20/2026/04/17040959/Picture1-2-768x512.jpg",
       "summary": "JAKARTA — Several European timber firms have cut ties with suppliers linked to deforestation in Indonesia following a 2025 investigation, suggesting that an upcoming European Union",
       "url": "https://news.mongabay.com/2026/04/eu-deforestation-law-nudges-timber-trade-indonesia-probe-shows-but-risks-persist/",
-      "publishedAt": "17 Apr 2026 04:31:26 +0000"
+      "publishedAt": "2026-04-17T04:31:26.000Z"
     },
     {
       "id": "article-aHR0cHM6Ly9uZXdzLm1vbmdhYmF5LmNvbS9zaG9ydC1hcnRpY2xlLw",
       "title": "Community-led ecotourism protects rebounding wild cattle in Thailand",
       "source": "Mongabay",
-      "lastVerified": "Verified 7h ago",
-      "image": "https://images.unsplash.com/photo-1472396961693-142e6e269027?auto=format&fit=crop&w=1200&q=80",
+      "lastVerified": "Verified 3d ago",
+      "image": "https://imgs.mongabay.com/wp-content/uploads/sites/20/2026/04/17025703/Herd-of-banteng-in-the-Huai-Kha-Khaeng-buffer-area.-Image-courtesy-of-KU-Faculty-of-ForestryDNPWCS-1-768x512.jpeg",
       "summary": "The critically endangered banteng is making a comeback in Thailand’s Huai Kha Khaeng Wildlife Sanctuary, and has become a unique community-led conservation icon, reports Mongabay’s",
       "url": "https://news.mongabay.com/short-article/2026/04/community-led-ecotourism-protects-rebounding-wild-cattle-in-thailand/",
-      "publishedAt": "17 Apr 2026 02:57:47 +0000"
+      "publishedAt": "2026-04-17T02:57:47.000Z"
     },
     {
       "id": "article-aHR0cHM6Ly9uZXdzLm1vbmdhYmF5LmNvbS9zaG9ydC1hcnRpY2xlLw",
       "title": "Landmark US Magnuson-Stevens fisheries law turns 50 amid budget cut concerns",
       "source": "Mongabay",
-      "lastVerified": "Verified 11h ago",
-      "image": "https://images.unsplash.com/photo-1472396961693-142e6e269027?auto=format&fit=crop&w=1200&q=80",
+      "lastVerified": "Verified 3d ago",
+      "image": "https://imgs.mongabay.com/wp-content/uploads/sites/20/2026/04/16222307/fis00525-1200x800-1-768x512.jpg",
       "summary": "April 13 marked the 50th anniversary of the U.S. Magnuson-Stevens Act (MSA), a landmark conservation law credited with saving numerous U.S. fisheries from collapse and protecting v",
       "url": "https://news.mongabay.com/short-article/2026/04/landmark-us-magnuson-stevens-fisheries-law-turns-50-amid-budget-cut-concerns/",
-      "publishedAt": "16 Apr 2026 22:27:06 +0000"
+      "publishedAt": "2026-04-16T22:27:06.000Z"
     },
     {
       "id": "article-aHR0cHM6Ly9uZXdzLm1vbmdhYmF5LmNvbS8yMDI2LzA0L2luLXRhcw",
       "title": "In Tasmania, the mines have closed but the rivers remember",
       "source": "Mongabay",
-      "lastVerified": "Verified 13h ago",
-      "image": "https://images.unsplash.com/photo-1472396961693-142e6e269027?auto=format&fit=crop&w=1200&q=80",
+      "lastVerified": "Verified 3d ago",
+      "image": "https://imgs.mongabay.com/wp-content/uploads/sites/20/2026/04/16164414/4-King-River-drone-2-768x512.jpg",
       "summary": "The King River snakes through some of Tasmania’s most dramatic and diverse landscape, flowing past rainforest, button grass plains and the rugged peaks of the West Coast Range befo",
       "url": "https://news.mongabay.com/2026/04/in-tasmania-the-mines-have-closed-but-the-rivers-remember/",
-      "publishedAt": "16 Apr 2026 21:17:55 +0000"
+      "publishedAt": "2026-04-16T21:17:55.000Z"
     },
     {
       "id": "article-aHR0cHM6Ly9uZXdzLm1vbmdhYmF5LmNvbS9zaG9ydC1hcnRpY2xlLw",
       "title": "BP sued in Kenya over alleged toxic waste from 1980s oil exploration",
       "source": "Mongabay",
-      "lastVerified": "Verified 13h ago",
-      "image": "https://images.unsplash.com/photo-1472396961693-142e6e269027?auto=format&fit=crop&w=1200&q=80",
+      "lastVerified": "Verified 3d ago",
+      "image": "https://imgs.mongabay.com/wp-content/uploads/sites/20/2026/04/16203218/AP26106502506670-768x512.jpg",
       "summary": "NAIROBI, Kenya (AP) — The High Court in Kenya ruled Thursday that a class action lawsuit can move forward against multinational oil and gas company BP alleging that decades-long to",
       "url": "https://news.mongabay.com/short-article/2026/04/bp-sued-in-kenya-over-alleged-toxic-waste-from-1980s-oil-exploration/",
-      "publishedAt": "16 Apr 2026 20:33:01 +0000"
+      "publishedAt": "2026-04-16T20:33:01.000Z"
     },
     {
       "id": "article-aHR0cHM6Ly9uZXdzLm1vbmdhYmF5LmNvbS8yMDI2LzA0L2Zyb20tdA",
       "title": "From the Atlantic Forest to the Amazon: Alexandre de Santi on camaraderie and uncovering hidden truths in Brazil",
       "source": "Mongabay",
-      "lastVerified": "Verified 15h ago",
-      "image": "https://images.unsplash.com/photo-1472396961693-142e6e269027?auto=format&fit=crop&w=1200&q=80",
+      "lastVerified": "Verified 3d ago",
+      "image": "https://imgs.mongabay.com/wp-content/uploads/sites/20/2026/04/16182105/20240314_201222-1-768x512.jpg",
       "summary": "When telling stories about nature, Alexandre de Santi’s interest stems from the climate. “Climate collapse is the greatest challenge of my generation,” he says. Before joining Mong",
       "url": "https://news.mongabay.com/2026/04/from-the-atlantic-forest-to-the-amazon-alexandre-de-santi-on-camaraderie-and-uncovering-hidden-truths-in-brazil/",
-      "publishedAt": "16 Apr 2026 18:31:38 +0000"
+      "publishedAt": "2026-04-16T18:31:38.000Z"
     },
     {
       "id": "article-aHR0cHM6Ly9uZXdzLm1vbmdhYmF5LmNvbS8yMDI2LzA0L2Ryb25lcw",
       "title": "Drones aid dugong conservation as threats mount across their range",
       "source": "Mongabay",
-      "lastVerified": "Verified 16h ago",
-      "image": "https://images.unsplash.com/photo-1472396961693-142e6e269027?auto=format&fit=crop&w=1200&q=80",
+      "lastVerified": "Verified 3d ago",
+      "image": "https://imgs.mongabay.com/wp-content/uploads/sites/20/2026/04/16142053/BANNER-Dugong_Marsa_Alam-768x512.jpg",
       "summary": "Drone technology is providing important new insights into the lives of dugongs, while also revealing the vital role they play in managing seagrass meadows, one of the ocean’s most ",
       "url": "https://news.mongabay.com/2026/04/drones-aid-dugong-conservation-as-threats-mount-across-their-range/",
-      "publishedAt": "16 Apr 2026 18:03:02 +0000"
+      "publishedAt": "2026-04-16T18:03:02.000Z"
+    },
+    {
+      "id": "article-aHR0cHM6Ly9uZXdzLm1vbmdhYmF5LmNvbS8yMDI2LzA0L2FtZXJpYw",
+      "title": "Americas flyways atlas maps the routes of 89 at-risk migratory bird species",
+      "source": "Mongabay",
+      "lastVerified": "Verified 3d ago",
+      "image": "https://imgs.mongabay.com/wp-content/uploads/sites/20/2026/04/16153833/4-cerulean-warbler-768x512.jpg",
+      "summary": "Announced at the end of March, the “Atlas for the Americas Flyways” website tracks high concentrations of migratory bird species at risk of major population declines along their ro",
+      "url": "https://news.mongabay.com/2026/04/americas-flyways-atlas-maps-the-routes-of-89-at-risk-migratory-bird-species/",
+      "publishedAt": "2026-04-16T16:51:52.000Z"
+    },
+    {
+      "id": "article-aHR0cHM6Ly9uZXdzLm1vbmdhYmF5LmNvbS8yMDI2LzA0L2xpc3Rlbg",
+      "title": "Listening to forests reveals signs of recovery beyond tree cover",
+      "source": "Mongabay",
+      "lastVerified": "Verified 3d ago",
+      "image": "https://imgs.mongabay.com/wp-content/uploads/sites/20/2026/04/16140215/Banner-Image-768x512.jpg",
+      "summary": "Can listening to forests help us understand if the life inside them is thriving? Apparently, yes. Giacomo Delgado likens it to a doctor examining heart health. “A doctor has listen",
+      "url": "https://news.mongabay.com/2026/04/listening-to-forests-reveals-signs-of-recovery-beyond-tree-cover/",
+      "publishedAt": "2026-04-16T14:12:52.000Z"
+    },
+    {
+      "id": "article-aHR0cHM6Ly9uZXdzLm1vbmdhYmF5LmNvbS9zaG9ydC1hcnRpY2xlLw",
+      "title": "From carp to hippos, 43% of large freshwater animal species spread far beyond native ranges",
+      "source": "Mongabay",
+      "lastVerified": "Verified 3d ago",
+      "image": "https://imgs.mongabay.com/wp-content/uploads/sites/20/2022/05/10042851/6-Nile-perch-768x512.jpg",
+      "summary": "From fish and turtles, to hippos and crocodiles, about 43% of all known large freshwater animal species have been deliberately introduced into ecosystems outside their native range",
+      "url": "https://news.mongabay.com/short-article/2026/04/from-carp-to-hippos-43-of-large-freshwater-animal-species-spread-far-beyond-native-ranges/",
+      "publishedAt": "2026-04-16T09:52:19.000Z"
+    },
+    {
+      "id": "article-aHR0cHM6Ly9uZXdzLm1vbmdhYmF5LmNvbS9zaG9ydC1hcnRpY2xlLw",
+      "title": "Australia declares mainland alpine ash forests endangered",
+      "source": "Mongabay",
+      "lastVerified": "Verified 4d ago",
+      "image": "https://imgs.mongabay.com/wp-content/uploads/sites/20/2026/04/16053049/Aerial_panorama_of_Mount_Donna_Buang._Flurry_of_snow_in_early_spring_lowres-768x512.jpeg",
+      "summary": "The Australian government recently listed the iconic alpine ash forests of mainland Australia as an endangered ecological community, citing ongoing threats from increasingly severe",
+      "url": "https://news.mongabay.com/short-article/2026/04/australia-declares-mainland-alpine-ash-forests-endangered/",
+      "publishedAt": "2026-04-16T05:45:09.000Z"
+    },
+    {
+      "id": "article-aHR0cHM6Ly9uZXdzLm1vbmdhYmF5LmNvbS8yMDI2LzA0L2EtY2hpbQ",
+      "title": "A chimpanzee’s rhythmic drumming with floorboards hints at origins of instruments",
+      "source": "Mongabay",
+      "lastVerified": "Verified 4d ago",
+      "image": "https://imgs.mongabay.com/wp-content/uploads/sites/20/2026/04/16035215/Screenshot-2026-04-15-at-10.45.40-PM-768x512.png",
+      "summary": "Drumming and singing at the same time is impressive, whether you’re Karen Carpenter, Ringo Starr or a chimpanzee. Japanese researchers report that Ayumu, a 26-year-old male chimpan",
+      "url": "https://news.mongabay.com/2026/04/a-chimpanzees-rhythmic-drumming-with-floorboards-hints-at-origins-of-instruments/",
+      "publishedAt": "2026-04-16T03:59:01.000Z"
+    },
+    {
+      "id": "article-aHR0cHM6Ly9uZXdzLm1vbmdhYmF5LmNvbS8yMDI2LzA0LzEwLWZvcg",
+      "title": "10 forces that could reshape the future of the world’s forests",
+      "source": "Mongabay",
+      "lastVerified": "Verified 4d ago",
+      "image": "https://imgs.mongabay.com/wp-content/uploads/sites/20/2025/12/18201846/brunei_251114145219_0263z-768x512.jpg",
+      "summary": "The forces shaping forests in the coming decade extend beyond any single driver. Shifts in politics, finance and technology are unfolding at once, often in ways that reinforce each",
+      "url": "https://news.mongabay.com/2026/04/10-forces-that-could-reshape-the-future-of-the-worlds-forests/",
+      "publishedAt": "2026-04-16T00:59:21.000Z"
     },
     {
       "id": "article-aHR0cHM6Ly93d3cudGhlZ3VhcmRpYW4uY29tL2Vudmlyb25tZW50Lw",
       "title": "Tuvalu, tiny Pacific nation at the forefront of climate crisis, to host world leaders before Cop31 summit",
       "source": "The Guardian Environment",
-      "lastVerified": "Verified 2d ago",
-      "image": "https://images.unsplash.com/photo-1472396961693-142e6e269027?auto=format&fit=crop&w=1200&q=80",
+      "lastVerified": "Verified 5d ago",
+      "image": "https://i.guim.co.uk/img/media/1ce4d35c1277e4f025fbb248f2ab4cb31201ca44/562_0_3861_3092/master/3861.jpg?width=140&quality=85&auto=format&fit=max&s=1474e7d984ebe00df155bd80f7abbd60",
       "summary": "Conference president expresses ‘complete faith’ in Chris Bowen to lead tough negotiations Follow our Australia news live blog for latest updates Get our breaking news email, free a",
       "url": "https://www.theguardian.com/environment/2026/apr/15/tuvalu-cop-31-summer-leaders-meeting",
-      "publishedAt": "Wed, 15 Apr 2026 03:51:23 GMT"
+      "publishedAt": "2026-04-15T03:51:23.000Z"
+    },
+    {
+      "id": "article-aHR0cHM6Ly93d3cudGhlZ3VhcmRpYW4uY29tL2Vudmlyb25tZW50Lw",
+      "title": "Politicians and media can’t imagine a fossil-fuel free world - and it’s holding Australians back from huge EV savings | Adam Morton",
+      "source": "The Guardian Environment",
+      "lastVerified": "Verified 5d ago",
+      "image": "https://i.guim.co.uk/img/media/244d962b1e689539cc03d65a4a10721750068a5d/246_0_2461_1970/master/2461.jpg?width=140&quality=85&auto=format&fit=max&s=ff0968901a72e06d7271904b076937cb",
+      "summary": "Australia is well behind other countries in embracing clean cars – it’s past time we kicked into gear on going electric Want to get this in your inbox when it publishes? Sign up fo",
+      "url": "https://www.theguardian.com/environment/2026/apr/15/australia-fossil-fuels-politics-electric-vehicle-savings-clean-energy",
+      "publishedAt": "2026-04-14T15:00:41.000Z"
     },
     {
       "id": "article-aHR0cHM6Ly93d3cudGhlZ3VhcmRpYW4uY29tL2Vudmlyb25tZW50Lw",
       "title": "Giant echidnas weighing 15kg roamed Victoria – and the evidence was hiding in plain sight",
       "source": "The Guardian Environment",
-      "lastVerified": "Verified 3d ago",
-      "image": "https://images.unsplash.com/photo-1472396961693-142e6e269027?auto=format&fit=crop&w=1200&q=80",
+      "lastVerified": "Verified 6d ago",
+      "image": "https://i.guim.co.uk/img/media/fbab3b1ebf6ed7a45ae7e59cfe80991e82aeb351/231_0_1882_1507/master/1882.jpg?width=140&quality=85&auto=format&fit=max&s=7878d0161aca9cc0c0a51591aa70241a",
       "summary": "A skull fragment found in a tray of unsorted fossils collected more than a century ago leads to discovery Follow our Australia news live blog for latest updates Get our breaking ne",
       "url": "https://www.theguardian.com/environment/2026/apr/14/owens-giant-echidna-fossil-victoria",
-      "publishedAt": "Tue, 14 Apr 2026 05:30:19 GMT"
+      "publishedAt": "2026-04-14T05:30:19.000Z"
     },
     {
       "id": "article-aHR0cHM6Ly93d3cudGhlZ3VhcmRpYW4uY29tL2F1c3RyYWxpYS1uZQ",
       "title": "NSW promises more fast chargers and electric trucks in revamped EV policy",
       "source": "The Guardian Environment",
-      "lastVerified": "Verified 3d ago",
-      "image": "https://images.unsplash.com/photo-1472396961693-142e6e269027?auto=format&fit=crop&w=1200&q=80",
+      "lastVerified": "Verified 6d ago",
+      "image": "https://i.guim.co.uk/img/media/7886cc2ef5b87a38cc7b836f3d8e7773c1dff9e3/177_0_2500_2000/master/2500.jpg?width=140&quality=85&auto=format&fit=max&s=7e9c374196caf2d320e380ba27cabe89",
       "summary": "Premier Chris Minns says policy will help road users save money while making Australia more resilient to future energy shocks Follow our Australia news live blog for latest updates",
       "url": "https://www.theguardian.com/australia-news/2026/apr/14/minns-promises-more-fast-chargers-and-electric-trucks-in-revamped-ev-policy",
-      "publishedAt": "Tue, 14 Apr 2026 04:19:14 GMT"
+      "publishedAt": "2026-04-14T04:19:14.000Z"
     },
     {
       "id": "article-aHR0cHM6Ly93d3cudGhlZ3VhcmRpYW4uY29tL2Vudmlyb25tZW50Lw",
       "title": "Thousands of electric vehicles recalled in Australia due to battery fire risk",
       "source": "The Guardian Environment",
-      "lastVerified": "Verified 7d ago",
-      "image": "https://images.unsplash.com/photo-1472396961693-142e6e269027?auto=format&fit=crop&w=1200&q=80",
+      "lastVerified": "Verified 10d ago",
+      "image": "https://i.guim.co.uk/img/media/a0dc01ee859edcaff3b15ca68113ddad16870dd6/816_625_2247_1798/master/2247.jpg?width=140&quality=85&auto=format&fit=max&s=813fa77c841c4b52687ea083ee58f6db",
       "summary": "Hyundai issues local recall due to a fault with battery management software that could cause a fire while car is recharging or parked Follow our Australia news live blog for latest",
       "url": "https://www.theguardian.com/environment/2026/apr/10/ev-electric-vehicle-recall-australia-battery-fire-risk",
-      "publishedAt": "Fri, 10 Apr 2026 01:57:57 GMT"
+      "publishedAt": "2026-04-10T01:57:57.000Z"
     },
     {
       "id": "article-aHR0cHM6Ly93d3cudGhlZ3VhcmRpYW4uY29tL2Vudmlyb25tZW50Lw",
       "title": "‘Non-survivable’: heatwaves are already breaching human limits, with worse to come, study finds",
       "source": "The Guardian Environment",
-      "lastVerified": "Verified 8d ago",
-      "image": "https://images.unsplash.com/photo-1472396961693-142e6e269027?auto=format&fit=crop&w=1200&q=80",
+      "lastVerified": "Verified 11d ago",
+      "image": "https://i.guim.co.uk/img/media/d6f4dc864bc716bf4510284e1e418077fcea06b0/215_0_2153_1723/master/2153.jpg?width=140&quality=85&auto=format&fit=max&s=37b2605fcec1ec941a6236c7c54c23f5",
       "summary": "Analysis of six extreme heatwaves found when temperature and humidity were accounted for, all were potentially deadly for older people Extreme heat is already creating “non-surviva",
       "url": "https://www.theguardian.com/environment/2026/apr/08/extreme-weather-heatwaves-breaching-human-survival-limits-study-finds",
-      "publishedAt": "Wed, 08 Apr 2026 15:00:45 GMT"
+      "publishedAt": "2026-04-08T15:00:45.000Z"
+    },
+    {
+      "id": "article-aHR0cHM6Ly93d3cudGhlZ3VhcmRpYW4uY29tL2Vudmlyb25tZW50Lw",
+      "title": "Used EV prices rise as Australia’s fuel crisis hits: ‘Doesn’t make sense to hold on to a combustion engine’",
+      "source": "The Guardian Environment",
+      "lastVerified": "Verified 14d ago",
+      "image": "https://i.guim.co.uk/img/media/ade50d12eeb664044dbc5ec1249e1fafc78416b7/0_0_5416_4333/master/5416.jpg?width=140&quality=85&auto=format&fit=max&s=2d40c0d3268f6065500a3e5b5c657893",
+      "summary": "Stock runs low as oil crunch increases enthusiasm for electric vehicles Track current petrol and diesel prices across Australia Get our breaking news email, free app or daily news ",
+      "url": "https://www.theguardian.com/environment/2026/apr/06/secondhand-ev-prices-rise-fuel-crisis-australia",
+      "publishedAt": "2026-04-06T03:34:54.000Z"
     },
     {
       "id": "article-aHR0cHM6Ly93d3cudGhlZ3VhcmRpYW4uY29tL2F1c3RyYWxpYS1uZQ",
       "title": "Bilby boom: breeding trial to reintroduce species to Mallee Cliffs national park shows signs of success",
       "source": "The Guardian Environment",
-      "lastVerified": "Verified 12d ago",
-      "image": "https://images.unsplash.com/photo-1472396961693-142e6e269027?auto=format&fit=crop&w=1200&q=80",
+      "lastVerified": "Verified 15d ago",
+      "image": "https://i.guim.co.uk/img/media/6fd69153f57bd31f81975c3eaf2cce7d0678ac96/212_0_2065_1652/master/2065.jpg?width=140&quality=85&auto=format&fit=max&s=316dbc3fad1c983e215cc835f4b386d8",
       "summary": "Fifty ‘founder’ bilbies were released in fenced breeding area in 2019 with the aim of establishing first wild population there in a century Get our breaking news email, free app or",
       "url": "https://www.theguardian.com/australia-news/2026/apr/05/bilby-breeding-trial-nsw-australia-easter-",
-      "publishedAt": "Sat, 04 Apr 2026 20:00:32 GMT"
+      "publishedAt": "2026-04-04T20:00:32.000Z"
     },
     {
       "id": "article-aHR0cHM6Ly93d3cudGhlZ3VhcmRpYW4uY29tL2Vudmlyb25tZW50Lw",
       "title": "Sydney councils fear new datacentres could cause blackouts, block housing and affect locals’ health",
       "source": "The Guardian Environment",
-      "lastVerified": "Verified 13d ago",
-      "image": "https://images.unsplash.com/photo-1472396961693-142e6e269027?auto=format&fit=crop&w=1200&q=80",
+      "lastVerified": "Verified 16d ago",
+      "image": "https://i.guim.co.uk/img/media/952465ea09c286c2f060d72225e02dca8694c35b/842_0_5588_4471/master/5588.jpg?width=140&quality=85&auto=format&fit=max&s=794fd0b62a92bebcf8ccb0cf1875a286",
       "summary": "Datacentres ‘directly competing’ with possible residential builds near public transport, one council tells NSW inquiry, amid growing concerns Get our breaking news email, free app ",
       "url": "https://www.theguardian.com/environment/2026/apr/04/sydney-councils-fear-new-datacentres-could-cause-blackouts-block-housing-and-affect-locals-health",
-      "publishedAt": "Sat, 04 Apr 2026 02:26:54 GMT"
+      "publishedAt": "2026-04-04T02:26:54.000Z"
     },
     {
       "id": "article-aHR0cHM6Ly93d3cudGhlZ3VhcmRpYW4uY29tL2Vudmlyb25tZW50Lw",
       "title": "Deepwater discoveries: scientists find more than 110 new fish and invertebrate species in the Coral Sea",
       "source": "The Guardian Environment",
-      "lastVerified": "Verified 16d ago",
-      "image": "https://images.unsplash.com/photo-1472396961693-142e6e269027?auto=format&fit=crop&w=1200&q=80",
+      "lastVerified": "Verified 19d ago",
+      "image": "https://i.guim.co.uk/img/media/12f79a107d2e43886efbb08f4635252c9706d634/1893_30_5044_4035/master/5044.jpg?width=140&quality=85&auto=format&fit=max&s=1044139f314a1b80c90b6c86f37cf8d9",
       "summary": "Brittlestars, sea anemones and a catshark among new-to-science species collected during expedition off the Queensland coast Follow our Australia news live blog for latest updates G",
       "url": "https://www.theguardian.com/environment/2026/apr/01/queensland-great-barrier-reef-coral-sea-110-new-fish-species-discovered",
-      "publishedAt": "Tue, 31 Mar 2026 13:01:55 GMT"
+      "publishedAt": "2026-03-31T13:01:55.000Z"
     },
     {
-      "id": "article-aHR0cDovL3d3dy51bmVwLm9yZy9yZXNvdXJjZXMvR2xvYmFsLVJlcw",
-      "title": "Global Resources Outlook 2024",
-      "source": "UNEP",
-      "lastVerified": "Verified 784d ago",
-      "image": "https://images.unsplash.com/photo-1472396961693-142e6e269027?auto=format&fit=crop&w=1200&q=80",
-      "summary": "Global Resources Outlook 2024 salome.mbeyu Thu, 02/22/2024 - 18:33",
-      "url": "http://www.unep.org/resources/Global-Resource-Outlook-2024",
-      "publishedAt": "Thu, 22 Feb 2024 15:33:01 +0000"
+      "id": "article-aHR0cHM6Ly93d3cudGhlZ3VhcmRpYW4uY29tL2NvbW1lbnRpc2ZyZQ",
+      "title": "We’ve been coming to this waterhole for 30 years. Like the creek we’ve been rearranged – ravaged by time but still shining | Jessie Cole",
+      "source": "The Guardian Environment",
+      "lastVerified": "Verified 22d ago",
+      "image": "https://i.guim.co.uk/img/media/2cb021e6c8a3e3691bf8f455a6a7c7b3a9895ca6/0_418_4647_3717/master/4647.jpg?width=140&quality=85&auto=format&fit=max&s=413791075e4c6ca0501ff9476046523d",
+      "summary": "When we strip off, it is all there on our bodies: scars mixed in with the ordinary wear and tear. It’s bolstering – this evidence of life lived Most waterholes in the northern rive",
+      "url": "https://www.theguardian.com/commentisfree/2026/mar/29/australia-waterhole-ravaged-by-time-still-shining",
+      "publishedAt": "2026-03-28T19:00:38.000Z"
     },
     {
-      "id": "article-aHR0cDovL3d3dy51bmVwLm9yZy9yZXNvdXJjZXMvcmVwb3J0L3VzZQ",
-      "title": "Used Heavy- Duty Vehicles and the Environment: A Global Overview of Used Heavy-Duty Vehicles: Flow, Scale and Regulation",
-      "source": "UNEP",
-      "lastVerified": "Verified 792d ago",
-      "image": "https://images.unsplash.com/photo-1472396961693-142e6e269027?auto=format&fit=crop&w=1200&q=80",
-      "summary": "Used Heavy- Duty Vehicles and the Environment: A Global Overview of Used Heavy-Duty Vehicles: Flow, Scale and Regulation This Used Heavy- Duty Vehicles and the Environment: A Globa",
-      "url": "http://www.unep.org/resources/report/used-heavy-duty-vehicles-and-environment-global-overview-used-heavy-duty-vehicles",
-      "publishedAt": "Wed, 14 Feb 2024 13:07:49 +0000"
-    },
-    {
-      "id": "article-aHR0cDovL3d3dy51bmVwLm9yZy9yZXNvdXJjZXMvc3RhdGUtZmluYQ",
-      "title": "State of Finance for Nature 2023",
-      "source": "UNEP",
-      "lastVerified": "Verified 862d ago",
-      "image": "https://images.unsplash.com/photo-1472396961693-142e6e269027?auto=format&fit=crop&w=1200&q=80",
-      "summary": "State of Finance for Nature 2023 salome.mbeyu Thu, 12/07/2023 - 12:24",
-      "url": "http://www.unep.org/resources/state-finance-nature-2023",
-      "publishedAt": "Thu, 07 Dec 2023 09:24:55 +0000"
-    },
-    {
-      "id": "article-aHR0cDovL3d3dy51bmVwLm9yZy9yZXNvdXJjZXMvcmVwb3J0L2V5ZQ",
-      "title": "An Eye on Methane: International Methane Emissions Observatory 2023 Report",
-      "source": "UNEP",
-      "lastVerified": "Verified 875d ago",
-      "image": "https://images.unsplash.com/photo-1472396961693-142e6e269027?auto=format&fit=crop&w=1200&q=80",
-      "summary": "An Eye on Methane: International Methane Emissions Observatory 2023 Report An Eye on Methane: the road to radical transparency takes stock of progress harnessing an imminent data r",
-      "url": "http://www.unep.org/resources/report/eye-methane-international-methane-emissions-observatory-2023-report",
-      "publishedAt": "Thu, 23 Nov 2023 13:12:58 +0000"
-    },
-    {
-      "id": "article-aHR0cDovL3d3dy51bmVwLm9yZy9yZXNvdXJjZXMvZW1pc3Npb25zLQ",
-      "title": "Emissions Gap Report 2023",
-      "source": "UNEP",
-      "lastVerified": "Verified 890d ago",
-      "image": "https://images.unsplash.com/photo-1472396961693-142e6e269027?auto=format&fit=crop&w=1200&q=80",
-      "summary": "Emissions Gap Report 2023 salome.mbeyu Wed, 11/08/2023 - 13:39",
-      "url": "http://www.unep.org/resources/emissions-gap-report-2023",
-      "publishedAt": "Wed, 08 Nov 2023 10:39:57 +0000"
-    },
-    {
-      "id": "article-aHR0cDovL3d3dy51bmVwLm9yZy9yZXNvdXJjZXMvcmVwb3J0L3dhcw",
-      "title": "Wastewater - Turning Problem to Solution",
-      "source": "UNEP",
-      "lastVerified": "Verified 974d ago",
-      "image": "https://images.unsplash.com/photo-1472396961693-142e6e269027?auto=format&fit=crop&w=1200&q=80",
-      "summary": "Wastewater - Turning Problem to Solution Wastewater is a growing health and environmental threat, accounting for almost as many planet warming emissions as the aviation industry. Y",
-      "url": "http://www.unep.org/resources/report/wastewater-turning-problem-solution",
-      "publishedAt": "Thu, 17 Aug 2023 09:01:40 +0000"
-    },
-    {
-      "id": "article-aHR0cDovL3d3dy51bmVwLm9yZy9yZXNvdXJjZXMvcmVwb3J0L2dsbw",
-      "title": "Global Climate Litigation Report: 2023 Status Review",
-      "source": "UNEP",
-      "lastVerified": "Verified 997d ago",
-      "image": "https://images.unsplash.com/photo-1472396961693-142e6e269027?auto=format&fit=crop&w=1200&q=80",
-      "summary": "Global Climate Litigation Report: 2023 Status Review Climate litigation represents a frontier solution to change the dynamics of the fight against climate change. This Global Clima",
-      "url": "http://www.unep.org/resources/report/global-climate-litigation-report-2023-status-review",
-      "publishedAt": "Tue, 25 Jul 2023 08:30:04 +0000"
-    },
-    {
-      "id": "article-aHR0cDovL3d3dy51bmVwLm9yZy9yZXNvdXJjZXMvcmVwb3J0L2NoZQ",
-      "title": "Chemicals in Plastics - A Technical Report",
-      "source": "UNEP",
-      "lastVerified": "Verified 1080d ago",
-      "image": "https://images.unsplash.com/photo-1472396961693-142e6e269027?auto=format&fit=crop&w=1200&q=80",
-      "summary": "Chemicals in Plastics - A Technical Report The report provides state of knowledge on chemicals in plastics and based on compelling scientific evidence calls for urgent action to ad",
-      "url": "http://www.unep.org/resources/report/chemicals-plastics-technical-report",
-      "publishedAt": "Wed, 03 May 2023 09:06:55 +0000"
+      "id": "article-aHR0cHM6Ly93d3cudGhlZ3VhcmRpYW4uY29tL2Vudmlyb25tZW50Lw",
+      "title": "Australia urged to swap diesel for electric buses as fuel costs soar",
+      "source": "The Guardian Environment",
+      "lastVerified": "Verified 24d ago",
+      "image": "https://i.guim.co.uk/img/media/9765cd5e4a11165f0889cba25deaf93937a13195/350_0_3540_2832/master/3540.jpg?width=140&quality=85&auto=format&fit=max&s=0e2e973eabc6fb654da45d9a4371f386",
+      "summary": "Electric buses are just 1% of the Australian fleet compared with 80% in urban China, a quarter in the Netherlands and 12% in the UK Follow our Australia news live blog for latest u",
+      "url": "https://www.theguardian.com/environment/2026/mar/26/australia-electric-buses-transition-from-diesel-fuel-crisis",
+      "publishedAt": "2026-03-26T14:00:39.000Z"
     }
   ],
   "opportunities": [
     {
-      "id": "opp-aHR0cHM6Ly93d3cuY29uc2VydmF0aW9uLWNhcmVlcnMuY29tL3BvZA",
+      "id": "opp-aHR0cHM6Ly93d3cuY29uc2VydmF0aW9uLWNhcmVlcnMuY29tL3BvZGNhc3QvZHIt",
       "title": "Podcast | Snakes, Startups and Saving Nature | Dr Harry Fonseca Williams",
-      "organization": "Conservation Careers",
-      "location": "Australia / Remote",
+      "organization": "Podcast",
+      "location": "Australia (SA)",
       "type": "Entry",
       "deadline": "Apply soon",
-      "image": "https://images.unsplash.com/photo-1469474968028-56623f02e42e?auto=format&fit=crop&w=1200&q=80",
+      "image": "https://conservation-career-stg.s3.amazonaws.com/wp-content/uploads/2026/04/Snakes-Startups-and-Saving-Nature-Dr-Harry-Fonseca-Williams-1-1024x576.png",
       "summary": "How a conservation entrepreneur is tackling snakebite, restoring ecosystems, and building impact from the ground up.",
       "tags": [
         "Live listing",
-        "External source"
+        "Conservation Careers"
       ],
       "url": "https://www.conservation-careers.com/podcast/dr-harry-fonseca-williams/",
-      "source": "Conservation Careers",
-      "publishedAt": "Thu, 16 Apr 2026 08:37:34 +0000"
+      "source": "Conservation Careers · RSS",
+      "listingBoard": "Conservation Careers",
+      "pathwayIds": [],
+      "publishedAt": "2026-04-16T08:37:34.000Z"
     },
     {
-      "id": "opp-aHR0cHM6Ly93d3cuY29uc2VydmF0aW9uLWNhcmVlcnMuY29tL3BvZA",
-      "title": "Podcast | Why Conservation Needs More Than Conservationists with Dr Nick Askew",
-      "organization": "Conservation Careers",
-      "location": "Australia / Remote",
+      "id": "opp-aHR0cHM6Ly93d3cuc3VzdGFpbmFibGVidXNpbmVzcy5jb20vam9iL2Fkdm9jYWN5",
+      "title": "Southern Environmental Law Center, Advocacy Director",
+      "organization": "Green Dream Jobs",
+      "location": "Australia (NT)",
+      "type": "Mid-senior",
+      "deadline": "Apply soon",
+      "summary": "The Southern Environmental Law Center is one of the nation’s most powerful defenders of the environment, rooted in the South. With a long track record, SELC takes on the toughest e",
+      "tags": [
+        "Live listing",
+        "Green Dream Jobs"
+      ],
+      "url": "https://www.sustainablebusiness.com/job/advocacy-director-2/",
+      "source": "Green Dream Jobs · RSS",
+      "listingBoard": "Green Dream Jobs",
+      "pathwayIds": [],
+      "publishedAt": "2026-04-13T00:00:00.000Z",
+      "image": "https://www.sustainablebusiness.com/images/bfly.jpg"
+    },
+    {
+      "id": "opp-aHR0cHM6Ly93d3cuc3VzdGFpbmFibGVidXNpbmVzcy5jb20vam9iL2VuZXJneS1t",
+      "title": "Energy Manager",
+      "organization": "Green Dream Jobs",
+      "location": "Australia (NT)",
+      "type": "Mid-senior",
+      "deadline": "Apply soon",
+      "summary": "The Role The purpose of this position is to manage and support implementation of energy and sustainability initiatives for a CBRE Healthcare account based in Oregon. Role is hybrid",
+      "tags": [
+        "Live listing",
+        "Green Dream Jobs"
+      ],
+      "url": "https://www.sustainablebusiness.com/job/energy-manager-4/",
+      "source": "Green Dream Jobs · RSS",
+      "listingBoard": "Green Dream Jobs",
+      "pathwayIds": [],
+      "publishedAt": "2026-04-13T00:00:00.000Z",
+      "image": "https://www.sustainablebusiness.com/images/bfly.jpg"
+    },
+    {
+      "id": "opp-aHR0cHM6Ly93d3cuc3VzdGFpbmFibGVidXNpbmVzcy5jb20vam9iL3BvcnRzLWFu",
+      "title": "Ports and Community Engagement Campaigner",
+      "organization": "Green Dream Jobs",
+      "location": "Australia (NT)",
       "type": "Entry",
       "deadline": "Apply soon",
-      "image": "https://images.unsplash.com/photo-1469474968028-56623f02e42e?auto=format&fit=crop&w=1200&q=80",
+      "summary": "Friends of the Earth is a hard-hitting, progressive, environmental organization that pulls no punches and speaks sometimes uncomfortable truth to power. It’s an approach that has w",
+      "tags": [
+        "Live listing",
+        "Green Dream Jobs"
+      ],
+      "url": "https://www.sustainablebusiness.com/job/ports-and-community-engagement-campaigner/",
+      "source": "Green Dream Jobs · RSS",
+      "listingBoard": "Green Dream Jobs",
+      "pathwayIds": [
+        "community-education"
+      ],
+      "publishedAt": "2026-04-13T00:00:00.000Z",
+      "image": "https://www.sustainablebusiness.com/images/bfly.jpg"
+    },
+    {
+      "id": "opp-aHR0cHM6Ly93d3cuc3VzdGFpbmFibGVidXNpbmVzcy5jb20vam9iL2dyZWVuLXNw",
+      "title": "Key Account Manager, Natural Food + Grocery",
+      "organization": "Green Dream Jobs",
+      "location": "Australia (SA)",
+      "type": "Mid-senior",
+      "deadline": "Apply soon",
+      "summary": "Green Spoon Sales is the leading natural products sales agency representing innovative CPG brands nationwide. We are a mission-driven organization committed to transforming the ret",
+      "tags": [
+        "Live listing",
+        "Green Dream Jobs"
+      ],
+      "url": "https://www.sustainablebusiness.com/job/green-spoon-sales/",
+      "source": "Green Dream Jobs · RSS",
+      "listingBoard": "Green Dream Jobs",
+      "pathwayIds": [],
+      "publishedAt": "2026-04-12T00:00:00.000Z",
+      "image": "https://www.sustainablebusiness.com/images/bfly.jpg"
+    },
+    {
+      "id": "opp-aHR0cHM6Ly93d3cuc3VzdGFpbmFibGVidXNpbmVzcy5jb20vam9iL2RldmVsb3Bt",
+      "title": "Development Director",
+      "organization": "Green Dream Jobs",
+      "location": "Australia (NT)",
+      "type": "Mid-senior",
+      "deadline": "Apply soon",
+      "summary": "Headquartered in Bloomington, Indiana, Sycamore Land Trust is a nonprofit conservation organization that has been preserving land, restoring habitat, and connecting people to natur",
+      "tags": [
+        "Live listing",
+        "Green Dream Jobs"
+      ],
+      "url": "https://www.sustainablebusiness.com/job/development-director-16-11/",
+      "source": "Green Dream Jobs · RSS",
+      "listingBoard": "Green Dream Jobs",
+      "pathwayIds": [
+        "bush-regen"
+      ],
+      "publishedAt": "2026-04-12T00:00:00.000Z",
+      "image": "https://www.sustainablebusiness.com/images/bfly.jpg"
+    },
+    {
+      "id": "opp-aHR0cHM6Ly93d3cuc3VzdGFpbmFibGVidXNpbmVzcy5jb20vam9iL3NjaWVuY2Ut",
+      "title": "Science & Adventure Instructor",
+      "organization": "Green Dream Jobs",
+      "location": "Australia (NT)",
+      "type": "Entry",
+      "deadline": "Apply soon",
+      "summary": "Catalina Sea Camp is operated by Guided Discoveries, a nonprofit organization whose mission is to: Make a difference in the lives of children through unique opportunities for disco",
+      "tags": [
+        "Live listing",
+        "Green Dream Jobs"
+      ],
+      "url": "https://www.sustainablebusiness.com/job/science-adventure-instructor-3/",
+      "source": "Green Dream Jobs · RSS",
+      "listingBoard": "Green Dream Jobs",
+      "pathwayIds": [],
+      "publishedAt": "2026-04-12T00:00:00.000Z",
+      "image": "https://www.sustainablebusiness.com/images/bfly.jpg"
+    },
+    {
+      "id": "opp-aHR0cHM6Ly9nb29kd29yay5jYS9qb2JzL3N1bW1lci1zdHVkZW50LXBvc2l0aW9u",
+      "title": "Summer job: Rural Ecologist, Butternut Creek Nature Foundation, East of Ottawa, Ontario",
+      "organization": "GoodWork",
+      "location": "Australia (WA)",
+      "type": "Entry",
+      "deadline": "Apply soon",
+      "summary": "Summer job: Rural Ecologist, Butternut Creek Nature Foundation, East of Ottawa, Ontario",
+      "tags": [
+        "Live listing",
+        "GoodWork"
+      ],
+      "url": "https://goodwork.ca/jobs/summer-student-positions-75845",
+      "source": "GoodWork · RSS",
+      "listingBoard": "GoodWork",
+      "pathwayIds": [
+        "ecology-wildlife",
+        "gis-spatial"
+      ],
+      "publishedAt": "2026-04-10T02:00:00.000Z",
+      "image": "https://www.goodwork.ca/photos/w/25-06/73890/bcnr-01.jpg"
+    },
+    {
+      "id": "opp-aHR0cHM6Ly93d3cuY29uc2VydmF0aW9uLWNhcmVlcnMuY29tL3BvZGNhc3QvcG9k",
+      "title": "Podcast | Why Conservation Needs More Than Conservationists with Dr Nick Askew",
+      "organization": "Podcast",
+      "location": "Australia (SA)",
+      "type": "Entry",
+      "deadline": "Apply soon",
+      "image": "https://conservation-career-stg.s3.amazonaws.com/wp-content/uploads/2026/04/PXL_20251213_120711774-2-1024x768.jpg",
       "summary": "I recently had the pleasure of joining Chris Lee on the About Parks and Restoration Podcast for a wide-ranging conversation on conservation careers, leadership, and the future of o",
       "tags": [
         "Live listing",
-        "External source"
+        "Conservation Careers"
       ],
       "url": "https://www.conservation-careers.com/podcast/podcast-why-conservation-needs-more-than-conservationists-with-dr-nick-askew/",
-      "source": "Conservation Careers",
-      "publishedAt": "Tue, 07 Apr 2026 15:31:14 +0000"
+      "source": "Conservation Careers · RSS",
+      "listingBoard": "Conservation Careers",
+      "pathwayIds": [
+        "bush-regen",
+        "fire-land-management"
+      ],
+      "publishedAt": "2026-04-07T15:31:14.000Z"
     },
     {
-      "id": "opp-aHR0cHM6Ly93d3cuY29uc2VydmF0aW9uLWNhcmVlcnMuY29tL2NvYQ",
-      "title": "Be, Do, Have (The shift that changes how your career unfolds)",
-      "organization": "Conservation Careers",
-      "location": "Australia / Remote",
+      "id": "opp-aHR0cHM6Ly93d3cuc3VzdGFpbmFibGVidXNpbmVzcy5jb20vam9iLzM1MC02Lw",
+      "title": "Associate, Investor Network",
+      "organization": "Green Dream Jobs",
+      "location": "Australia (NT)",
       "type": "Entry",
       "deadline": "Apply soon",
-      "image": "https://images.unsplash.com/photo-1469474968028-56623f02e42e?auto=format&fit=crop&w=1200&q=80",
+      "summary": "About Ceres Ceres is a nonprofit advocacy organization working to accelerate the transition to a cleaner, more just and resilient world. For more information about Ceres, please vi",
+      "tags": [
+        "Live listing",
+        "Green Dream Jobs"
+      ],
+      "url": "https://www.sustainablebusiness.com/job/350-6/",
+      "source": "Green Dream Jobs · RSS",
+      "listingBoard": "Green Dream Jobs",
+      "pathwayIds": [],
+      "publishedAt": "2026-04-07T00:00:00.000Z",
+      "image": "https://www.sustainablebusiness.com/images/bfly.jpg"
+    },
+    {
+      "id": "opp-aHR0cHM6Ly93d3cuc3VzdGFpbmFibGVidXNpbmVzcy5jb20vam9iL3Nlbmlvci1t",
+      "title": "Senior Manager, Climate Resilience & Sustainability",
+      "organization": "Green Dream Jobs",
+      "location": "Australia (VIC)",
+      "type": "Mid-senior",
+      "deadline": "Apply soon",
+      "summary": "Building on a lifetime of public service, President Clinton established the Clinton Foundation on the simple belief that everyone deserves a chance to succeed, everyone has a respo",
+      "tags": [
+        "Live listing",
+        "Green Dream Jobs"
+      ],
+      "url": "https://www.sustainablebusiness.com/job/senior-manager-climate-resilience-sustainability/",
+      "source": "Green Dream Jobs · RSS",
+      "listingBoard": "Green Dream Jobs",
+      "pathwayIds": [
+        "climate-energy"
+      ],
+      "publishedAt": "2026-04-07T00:00:00.000Z",
+      "image": "https://www.sustainablebusiness.com/images/bfly.jpg"
+    },
+    {
+      "id": "opp-aHR0cHM6Ly93d3cuc3VzdGFpbmFibGVidXNpbmVzcy5jb20vam9iL2RpcmVjdG9y",
+      "title": "Director, Corporate Decarbonization",
+      "organization": "Green Dream Jobs",
+      "location": "Australia (SA)",
+      "type": "Mid-senior",
+      "deadline": "Apply soon",
+      "summary": "About the Center for Climate and Energy Solutions (C2ES): Our mission is to secure a safe and stable climate by accelerating the transition to a thriving, just, and resilient low-c",
+      "tags": [
+        "Live listing",
+        "Green Dream Jobs"
+      ],
+      "url": "https://www.sustainablebusiness.com/job/director-corporate-decarbonization/",
+      "source": "Green Dream Jobs · RSS",
+      "listingBoard": "Green Dream Jobs",
+      "pathwayIds": [
+        "climate-energy"
+      ],
+      "publishedAt": "2026-04-07T00:00:00.000Z",
+      "image": "https://www.sustainablebusiness.com/images/bfly.jpg"
+    },
+    {
+      "id": "opp-aHR0cHM6Ly93d3cuc3VzdGFpbmFibGVidXNpbmVzcy5jb20vam9iL2VuZXJneS1w",
+      "title": "Energy Policy Analyst",
+      "organization": "Green Dream Jobs",
+      "location": "Australia / Remote",
+      "type": "Mid-senior",
+      "deadline": "Apply soon",
+      "summary": "Gridworks is a non-profit organization with a mission to lead collaboration to build a stronger, more modern energy grid. We specialize in expert facilitation, stakeholder engageme",
+      "tags": [
+        "Live listing",
+        "Green Dream Jobs"
+      ],
+      "url": "https://www.sustainablebusiness.com/job/energy-policy-analyst-3-3/",
+      "source": "Green Dream Jobs · RSS",
+      "listingBoard": "Green Dream Jobs",
+      "pathwayIds": [
+        "policy-planning"
+      ],
+      "publishedAt": "2026-04-07T00:00:00.000Z",
+      "image": "https://www.sustainablebusiness.com/images/bfly.jpg"
+    },
+    {
+      "id": "opp-aHR0cHM6Ly93d3cuc3VzdGFpbmFibGVidXNpbmVzcy5jb20vam9iLzM0OC0zLw",
+      "title": "Executive Director",
+      "organization": "Green Dream Jobs",
+      "location": "Australia (WA)",
+      "type": "Mid-senior",
+      "deadline": "Apply soon",
+      "summary": "The North Country Trail Association (NCTA) is the nonprofit steward of the North Country National Scenic Trail (NCT), the longest National Scenic Trail in the United States. The hi",
+      "tags": [
+        "Live listing",
+        "Green Dream Jobs"
+      ],
+      "url": "https://www.sustainablebusiness.com/job/348-3/",
+      "source": "Green Dream Jobs · RSS",
+      "listingBoard": "Green Dream Jobs",
+      "pathwayIds": [],
+      "publishedAt": "2026-04-07T00:00:00.000Z",
+      "image": "https://www.sustainablebusiness.com/images/bfly.jpg"
+    },
+    {
+      "id": "opp-aHR0cHM6Ly93d3cuY29uc2VydmF0aW9uLWNhcmVlcnMuY29tL2NvYWNoaW5nL2Jl",
+      "title": "Be, Do, Have (The shift that changes how your career unfolds)",
+      "organization": "Conservation Careers",
+      "location": "Australia (NT)",
+      "type": "Entry",
+      "deadline": "Apply soon",
+      "image": "https://conservation-career-stg.s3.amazonaws.com/wp-content/uploads/2026/04/Be-Do-Have-1024x576.png",
       "summary": "There’s a pattern I see in many conservation career paths: Once I have enough experience, then I’ll go for the job, then I’ll feel fulfilled. Once I feel more confident, I’ll apply",
       "tags": [
         "Live listing",
-        "External source"
+        "Conservation Careers"
       ],
       "url": "https://www.conservation-careers.com/coaching/be-do-have-the-shift-that-changes-how-your-career-unfolds/",
-      "source": "Conservation Careers",
-      "publishedAt": "Mon, 06 Apr 2026 18:33:01 +0000"
+      "source": "Conservation Careers · RSS",
+      "listingBoard": "Conservation Careers",
+      "pathwayIds": [],
+      "publishedAt": "2026-04-06T18:33:01.000Z"
     },
     {
-      "id": "opp-aHR0cHM6Ly93d3cuY29uc2VydmF0aW9uLWNhcmVlcnMuY29tL2ludA",
-      "title": "Ink, imagination and impact: How one artist is restoring our relationship with nature through storytelling",
-      "organization": "Conservation Careers",
+      "id": "opp-aHR0cHM6Ly93d3cuc3VzdGFpbmFibGVidXNpbmVzcy5jb20vam9iLzM1MC0zLw",
+      "title": "Friends of the Earth, Major Gift Officer",
+      "organization": "Green Dream Jobs",
+      "location": "Australia (NT)",
+      "type": "Entry",
+      "deadline": "Apply soon",
+      "summary": "Friends of the Earth is a hard-hitting, progressive, environmental organization that pulls no punches and speaks sometimes uncomfortable truth to power. It’s an approach that has w",
+      "tags": [
+        "Live listing",
+        "Green Dream Jobs"
+      ],
+      "url": "https://www.sustainablebusiness.com/job/350-3/",
+      "source": "Green Dream Jobs · RSS",
+      "listingBoard": "Green Dream Jobs",
+      "pathwayIds": [],
+      "publishedAt": "2026-04-06T00:00:00.000Z",
+      "image": "https://www.sustainablebusiness.com/images/bfly.jpg"
+    },
+    {
+      "id": "opp-aHR0cHM6Ly93d3cuc3VzdGFpbmFibGVidXNpbmVzcy5jb20vam9iL2V4ZWN1dGl2",
+      "title": "Executive Director",
+      "organization": "Green Dream Jobs",
+      "location": "Australia (NT)",
+      "type": "Mid-senior",
+      "deadline": "Apply soon",
+      "summary": "Monmouth Conservation Foundation (MCF) is Monmouth’s only county-wide land trust which has been preserving land and protecting the natural habitat of Monmouth County for over 46 ye",
+      "tags": [
+        "Live listing",
+        "Green Dream Jobs"
+      ],
+      "url": "https://www.sustainablebusiness.com/job/executive-director-36-124/",
+      "source": "Green Dream Jobs · RSS",
+      "listingBoard": "Green Dream Jobs",
+      "pathwayIds": [
+        "bush-regen"
+      ],
+      "publishedAt": "2026-04-06T00:00:00.000Z",
+      "image": "https://www.sustainablebusiness.com/images/bfly.jpg"
+    },
+    {
+      "id": "opp-aHR0cHM6Ly93d3cuc3VzdGFpbmFibGVidXNpbmVzcy5jb20vam9iL2NvbW11bmlj",
+      "title": "Communications Director",
+      "organization": "Green Dream Jobs",
+      "location": "Australia / Remote",
+      "type": "Mid-senior",
+      "deadline": "Apply soon",
+      "summary": "NCL is the political voice of Nevada’s conservation community. We advocate for sound conservation policies, organize and train conservation leaders and advocates, work to increase ",
+      "tags": [
+        "Live listing",
+        "Green Dream Jobs"
+      ],
+      "url": "https://www.sustainablebusiness.com/job/communications-director-12/",
+      "source": "Green Dream Jobs · RSS",
+      "listingBoard": "Green Dream Jobs",
+      "pathwayIds": [
+        "community-education"
+      ],
+      "publishedAt": "2026-04-06T00:00:00.000Z",
+      "image": "https://www.sustainablebusiness.com/images/bfly.jpg"
+    },
+    {
+      "id": "opp-aHR0cHM6Ly93d3cuc3VzdGFpbmFibGVidXNpbmVzcy5jb20vam9iL2Fzc29jaWF0",
+      "title": "Associate Director",
+      "organization": "Green Dream Jobs",
+      "location": "Australia (NT)",
+      "type": "Mid-senior",
+      "deadline": "Apply soon",
+      "summary": "The Morro Bay National Estuary Program brings the community, local governments, nonprofits, government agencies, and landowners together to protect and restore Morro Bay. The Estua",
+      "tags": [
+        "Live listing",
+        "Green Dream Jobs"
+      ],
+      "url": "https://www.sustainablebusiness.com/job/associate-director-3/",
+      "source": "Green Dream Jobs · RSS",
+      "listingBoard": "Green Dream Jobs",
+      "pathwayIds": [
+        "marine-coastal",
+        "policy-planning",
+        "community-education"
+      ],
+      "publishedAt": "2026-04-05T00:00:00.000Z",
+      "image": "https://www.sustainablebusiness.com/images/bfly.jpg"
+    },
+    {
+      "id": "opp-aHR0cHM6Ly93d3cuc3VzdGFpbmFibGVidXNpbmVzcy5jb20vam9iL2Vjb2xvZ2lj",
+      "title": "Ecological Project Coordinator",
+      "organization": "Green Dream Jobs",
+      "location": "Australia (NT)",
+      "type": "Research",
+      "deadline": "Apply soon",
+      "summary": "Organizational Summary: Integral Ecology Research Center (IERC) is a 501(c)(3) non-profit dedicated to wildlife conservation and ecosystem health through scientific research. Our m",
+      "tags": [
+        "Live listing",
+        "Green Dream Jobs"
+      ],
+      "url": "https://www.sustainablebusiness.com/job/ecological-project-coordinator/",
+      "source": "Green Dream Jobs · RSS",
+      "listingBoard": "Green Dream Jobs",
+      "pathwayIds": [
+        "ecology-wildlife"
+      ],
+      "publishedAt": "2026-04-05T00:00:00.000Z",
+      "image": "https://www.sustainablebusiness.com/images/bfly.jpg"
+    },
+    {
+      "id": "opp-aHR0cHM6Ly93d3cuc3VzdGFpbmFibGVidXNpbmVzcy5jb20vam9iLzM1MC01Lw",
+      "title": "Hydrology Senior Research Associate",
+      "organization": "Green Dream Jobs",
+      "location": "Australia (ACT)",
+      "type": "Mid-senior",
+      "deadline": "Apply soon",
+      "summary": "The National Audubon Society is a leading nonprofit conservation organization with 120 years of science-based, community-driven impact, dedicated to protecting birds and the places",
+      "tags": [
+        "Live listing",
+        "Green Dream Jobs"
+      ],
+      "url": "https://www.sustainablebusiness.com/job/350-5/",
+      "source": "Green Dream Jobs · RSS",
+      "listingBoard": "Green Dream Jobs",
+      "pathwayIds": [
+        "water-hydrology",
+        "community-education"
+      ],
+      "publishedAt": "2026-04-05T00:00:00.000Z",
+      "image": "https://www.sustainablebusiness.com/images/bfly.jpg"
+    },
+    {
+      "id": "opp-aHR0cHM6Ly9nb29kd29yay5jYS9qb2JzL2hvbWUtY29uc3RydWN0aW9uLWNhcnBl",
+      "title": "Construction Skills Trainers, contract or full-time, Keepers of the Circle, Northern Ontario / travel (Kirkland Lake / New Liskeard / Temiskaming Shores)",
+      "organization": "GoodWork",
+      "location": "Australia (NT)",
+      "type": "Entry",
+      "deadline": "Apply soon",
+      "summary": "Construction Skills Trainers, contract or full-time, Keepers of the Circle, Northern Ontario / travel (Kirkland Lake / New Liskeard / Temiskaming Shores)",
+      "tags": [
+        "Live listing",
+        "GoodWork"
+      ],
+      "url": "https://goodwork.ca/jobs/home-construction-carpenter-and-carpentry-teaching-and-trainer-jobs-75839",
+      "source": "GoodWork · RSS",
+      "listingBoard": "GoodWork",
+      "pathwayIds": [],
+      "publishedAt": "2026-04-04T02:00:00.000Z",
+      "image": "https://www.goodwork.ca/photos/w/23-08/68992/kotc-01.jpg"
+    },
+    {
+      "id": "opp-aHR0cHM6Ly93d3cuc3VzdGFpbmFibGVidXNpbmVzcy5jb20vam9iL2xlZ2FsLWNv",
+      "title": "Legal Counsel",
+      "organization": "Green Dream Jobs",
       "location": "Australia / Remote",
       "type": "Entry",
       "deadline": "Apply soon",
-      "image": "https://images.unsplash.com/photo-1469474968028-56623f02e42e?auto=format&fit=crop&w=1200&q=80",
+      "summary": "American Rivers is championing a national effort to protect and restore all rivers, from remote mountain streams to urban waterways. Healthy rivers provide people and nature with c",
+      "tags": [
+        "Live listing",
+        "Green Dream Jobs"
+      ],
+      "url": "https://www.sustainablebusiness.com/job/legal-counsel-2/",
+      "source": "Green Dream Jobs · RSS",
+      "listingBoard": "Green Dream Jobs",
+      "pathwayIds": [
+        "water-hydrology"
+      ],
+      "publishedAt": "2026-04-04T00:00:00.000Z",
+      "image": "https://www.sustainablebusiness.com/images/bfly.jpg"
+    },
+    {
+      "id": "opp-aHR0cHM6Ly93d3cuc3VzdGFpbmFibGVidXNpbmVzcy5jb20vam9iL2RpcmVjdG9y",
+      "title": "Director of Development and Partnerships",
+      "organization": "Green Dream Jobs",
+      "location": "Australia (NT)",
+      "type": "Mid-senior",
+      "deadline": "Apply soon",
+      "summary": "About Larkspur Conservation is a Tennessee-based nonprofit protecting land through conservation burial and re-imagining how we care for the dead, the grieving, and the living world",
+      "tags": [
+        "Live listing",
+        "Green Dream Jobs"
+      ],
+      "url": "https://www.sustainablebusiness.com/job/director-of-development-and-partnerships/",
+      "source": "Green Dream Jobs · RSS",
+      "listingBoard": "Green Dream Jobs",
+      "pathwayIds": [],
+      "publishedAt": "2026-04-04T00:00:00.000Z",
+      "image": "https://www.sustainablebusiness.com/images/bfly.jpg"
+    },
+    {
+      "id": "opp-aHR0cHM6Ly93d3cuc3VzdGFpbmFibGVidXNpbmVzcy5jb20vam9iL3ZpY2UtcHJl",
+      "title": "Vice President of Finance and Administration",
+      "organization": "Green Dream Jobs",
+      "location": "Australia (VIC)",
+      "type": "Entry",
+      "deadline": "Apply soon",
+      "summary": "About Forest Society of Maine: Forest Society of Maine (FSM) is a statewide land trust with the mission to conserve Maine’s forestlands to sustain their ecological, economic, cultu",
+      "tags": [
+        "Live listing",
+        "Green Dream Jobs"
+      ],
+      "url": "https://www.sustainablebusiness.com/job/vice-president-of-finance-and-administration-2/",
+      "source": "Green Dream Jobs · RSS",
+      "listingBoard": "Green Dream Jobs",
+      "pathwayIds": [
+        "ecology-wildlife"
+      ],
+      "publishedAt": "2026-04-04T00:00:00.000Z",
+      "image": "https://www.sustainablebusiness.com/images/bfly.jpg"
+    },
+    {
+      "id": "opp-aHR0cHM6Ly93d3cuc3VzdGFpbmFibGVidXNpbmVzcy5jb20vam9iL2V4ZWN1dGl2",
+      "title": "Executive Director",
+      "organization": "Green Dream Jobs",
+      "location": "Australia (NT)",
+      "type": "Mid-senior",
+      "deadline": "Apply soon",
+      "summary": "The Clean Energy Transition Institute (CETI) seeks an Executive Director to lead the organization into its next chapter. CETI has established itself as a trusted source of independ",
+      "tags": [
+        "Live listing",
+        "Green Dream Jobs"
+      ],
+      "url": "https://www.sustainablebusiness.com/job/executive-director-36-126/",
+      "source": "Green Dream Jobs · RSS",
+      "listingBoard": "Green Dream Jobs",
+      "pathwayIds": [
+        "climate-energy"
+      ],
+      "publishedAt": "2026-04-04T00:00:00.000Z",
+      "image": "https://www.sustainablebusiness.com/images/bfly.jpg"
+    },
+    {
+      "id": "opp-aHR0cHM6Ly93d3cuY29uc2VydmF0aW9uLWNhcmVlcnMuY29tL2ludGVydmlld3Mv",
+      "title": "Ink, imagination and impact: How one artist is restoring our relationship with nature through storytelling",
+      "organization": "Conservation Careers",
+      "location": "Australia (NT)",
+      "type": "Entry",
+      "deadline": "Apply soon",
+      "image": "https://conservation-career-stg.s3.amazonaws.com/wp-content/uploads/2026/03/Cover-Image-An-elephant-moving-through-a-luminous-forest-rendered-in-layered-greens-and-golds.png",
       "summary": "Discover how conservation-driven artist Jade Shepherd uses ink, storytelling, and spirituality to reconnect people with nature and inspire environmental action.",
       "tags": [
         "Live listing",
-        "External source"
+        "Conservation Careers"
       ],
       "url": "https://www.conservation-careers.com/interviews/jade-shepherd-creative-conservation-storytelling/",
-      "source": "Conservation Careers",
-      "publishedAt": "Fri, 27 Mar 2026 14:39:33 +0000"
+      "source": "Conservation Careers · RSS",
+      "listingBoard": "Conservation Careers",
+      "pathwayIds": [],
+      "publishedAt": "2026-03-27T14:39:33.000Z"
     },
     {
-      "id": "opp-aHR0cHM6Ly93d3cuY29uc2VydmF0aW9uLWNhcmVlcnMuY29tL2ludA",
+      "id": "opp-aHR0cHM6Ly93d3cuY29uc2VydmF0aW9uLWNhcmVlcnMuY29tL2ludGVydmlld3Mv",
       "title": "Hills Wildlife Sanctuary | Saving Australia’s Wildlife Together",
-      "organization": "Conservation Careers",
-      "location": "Australia / Remote",
-      "type": "Entry",
+      "organization": "Hills Wildlife Sanctuary",
+      "location": "Australia (SA)",
+      "type": "Mid-senior",
       "deadline": "Apply soon",
-      "image": "https://images.unsplash.com/photo-1469474968028-56623f02e42e?auto=format&fit=crop&w=1200&q=80",
+      "image": "https://conservation-career-stg.s3.amazonaws.com/wp-content/uploads/2026/03/1-1024x683.jpg",
       "summary": "Hills Wildlife Sanctuary is led by Sanctuary Manager and Director Ben Dessen, who is a passionate conservationist, wildlife advocate, author and educator.",
       "tags": [
         "Live listing",
-        "External source"
+        "Conservation Careers"
       ],
       "url": "https://www.conservation-careers.com/interviews/hills-wildlife-sanctuary/",
-      "source": "Conservation Careers",
-      "publishedAt": "Fri, 27 Mar 2026 14:33:00 +0000"
+      "source": "Conservation Careers · RSS",
+      "listingBoard": "Conservation Careers",
+      "pathwayIds": [
+        "ecology-wildlife"
+      ],
+      "publishedAt": "2026-03-27T14:33:00.000Z"
     },
     {
-      "id": "opp-aHR0cHM6Ly93d3cuY29uc2VydmF0aW9uLWNhcmVlcnMuY29tL3dlYg",
+      "id": "opp-aHR0cHM6Ly93d3cuY29uc2VydmF0aW9uLWNhcmVlcnMuY29tL3dlYmluYXJzL3dl",
       "title": "Webinar | Rewilding Project Planning Masterclass",
-      "organization": "Conservation Careers",
-      "location": "Australia / Remote",
+      "organization": "Webinar",
+      "location": "Australia (SA)",
       "type": "Entry",
       "deadline": "Apply soon",
-      "image": "https://images.unsplash.com/photo-1469474968028-56623f02e42e?auto=format&fit=crop&w=1200&q=80",
+      "image": "https://conservation-career-stg.s3.amazonaws.com/wp-content/uploads/2026/03/Designing-Conservation-Projects-That-Deliver-Real-Impact-1-1024x576.jpg",
       "summary": "Discover the step-by-step process used by conservation professionals to turn ideas into real, funded rewilding projects - and how you can do the same.",
       "tags": [
         "Live listing",
-        "External source"
+        "Conservation Careers"
       ],
       "url": "https://www.conservation-careers.com/webinars/webinar-rewilding/",
-      "source": "Conservation Careers",
-      "publishedAt": "Fri, 27 Mar 2026 11:53:34 +0000"
+      "source": "Conservation Careers · RSS",
+      "listingBoard": "Conservation Careers",
+      "pathwayIds": [
+        "policy-planning"
+      ],
+      "publishedAt": "2026-03-27T11:53:34.000Z"
     },
     {
-      "id": "opp-aHR0cHM6Ly93d3cuY29uc2VydmF0aW9uLWNhcmVlcnMuY29tL3BvZA",
+      "id": "opp-aHR0cHM6Ly93d3cuY29uc2VydmF0aW9uLWNhcmVlcnMuY29tL3BvZGNhc3QvcGFy",
       "title": "Podcast | Leadership in Conservation Organisations | Chris Lee",
-      "organization": "Conservation Careers",
-      "location": "Australia / Remote",
+      "organization": "Podcast",
+      "location": "Australia (SA)",
       "type": "Entry",
       "deadline": "Apply soon",
-      "image": "https://images.unsplash.com/photo-1469474968028-56623f02e42e?auto=format&fit=crop&w=1200&q=80",
+      "image": "https://conservation-career-stg.s3.amazonaws.com/wp-content/uploads/2026/03/Leadership-in-Conservation-Organisations-Chris-Lee-1024x576.png",
       "summary": "How conservation professionals can build strong teams, positive cultures, and deliver greater impact, with our guest Chris Lee.",
       "tags": [
         "Live listing",
-        "External source"
+        "Conservation Careers"
       ],
       "url": "https://www.conservation-careers.com/podcast/parks-and-restoration-podcast/",
-      "source": "Conservation Careers",
-      "publishedAt": "Fri, 27 Mar 2026 10:01:51 +0000"
+      "source": "Conservation Careers · RSS",
+      "listingBoard": "Conservation Careers",
+      "pathwayIds": [],
+      "publishedAt": "2026-03-27T10:01:51.000Z"
     },
     {
-      "id": "opp-aHR0cHM6Ly93d3cuY29uc2VydmF0aW9uLWNhcmVlcnMuY29tL3dlYg",
+      "id": "opp-aHR0cHM6Ly93d3cuY29uc2VydmF0aW9uLWNhcmVlcnMuY29tL3dlYmluYXJzL3dl",
       "title": "Webinar | Designing Conservation Projects That Deliver Real Impact",
-      "organization": "Conservation Careers",
-      "location": "Australia / Remote",
+      "organization": "Webinar",
+      "location": "Australia (NT)",
       "type": "Entry",
       "deadline": "Apply soon",
-      "image": "https://images.unsplash.com/photo-1469474968028-56623f02e42e?auto=format&fit=crop&w=1200&q=80",
+      "image": "https://conservation-career-stg.s3.amazonaws.com/wp-content/uploads/2026/02/Designing-Conservation-Projects-That-Deliver-Real-Impact-1024x576.jpg",
       "summary": "Explore what good conservation project management really looks like, why so many projects struggle, and how the Conservation Standards provide a practical, proven framework for doi",
       "tags": [
         "Live listing",
-        "External source"
+        "Conservation Careers"
       ],
       "url": "https://www.conservation-careers.com/webinars/webinar-conservation-standards/",
-      "source": "Conservation Careers",
-      "publishedAt": "Thu, 26 Mar 2026 08:30:15 +0000"
+      "source": "Conservation Careers · RSS",
+      "listingBoard": "Conservation Careers",
+      "pathwayIds": [],
+      "publishedAt": "2026-03-26T08:30:15.000Z"
     },
     {
-      "id": "opp-aHR0cHM6Ly93d3cuY29uc2VydmF0aW9uLWNhcmVlcnMuY29tL3BvZA",
+      "id": "opp-aHR0cHM6Ly93d3cuc3VzdGFpbmFibGVidXNpbmVzcy5jb20vam9iL21haW50ZW5h",
+      "title": "Maintenance Manager",
+      "organization": "Green Dream Jobs",
+      "location": "Australia (NT)",
+      "type": "Mid-senior",
+      "deadline": "Apply soon",
+      "summary": "If a company is going to make a difference in today’s world, it’s going to have to think differently. At Organic Valley, our philosophy and decisions are based on the health and we",
+      "tags": [
+        "Live listing",
+        "Green Dream Jobs"
+      ],
+      "url": "https://www.sustainablebusiness.com/job/maintenance-manager-2/",
+      "source": "Green Dream Jobs · RSS",
+      "listingBoard": "Green Dream Jobs",
+      "pathwayIds": [],
+      "publishedAt": "2026-03-26T00:00:00.000Z",
+      "image": "https://www.sustainablebusiness.com/images/bfly.jpg"
+    },
+    {
+      "id": "opp-aHR0cHM6Ly93d3cuc3VzdGFpbmFibGVidXNpbmVzcy5jb20vam9iL2FyYXZhaXBh",
+      "title": "Aravaipa Canyon Preserve Steward",
+      "organization": "Green Dream Jobs",
+      "location": "Australia (WA)",
+      "type": "Entry",
+      "deadline": "Apply soon",
+      "summary": "What We Can Achieve Together: The Aravaipa Canyon Preserve Steward (ACPS) performs and participates in construction and maintenance of Preserve buildings, infrastructure, and equip",
+      "tags": [
+        "Live listing",
+        "Green Dream Jobs"
+      ],
+      "url": "https://www.sustainablebusiness.com/job/aravaipa-canyon-preserve-steward/",
+      "source": "Green Dream Jobs · RSS",
+      "listingBoard": "Green Dream Jobs",
+      "pathwayIds": [],
+      "publishedAt": "2026-03-26T00:00:00.000Z",
+      "image": "https://www.sustainablebusiness.com/images/bfly.jpg"
+    },
+    {
+      "id": "opp-aHR0cHM6Ly93d3cuc3VzdGFpbmFibGVidXNpbmVzcy5jb20vam9iL2FuaW1hbC1j",
+      "title": "Animal Caregiver",
+      "organization": "Green Dream Jobs",
+      "location": "Australia (NT)",
+      "type": "Entry",
+      "deadline": "Apply soon",
+      "summary": "At Chimp Haven we believe we’re not that different, humans and chimpanzees. Chimps have personalities, emotions and relationships, just like us, and we’re on a mission to connect t",
+      "tags": [
+        "Live listing",
+        "Green Dream Jobs"
+      ],
+      "url": "https://www.sustainablebusiness.com/job/animal-caregiver/",
+      "source": "Green Dream Jobs · RSS",
+      "listingBoard": "Green Dream Jobs",
+      "pathwayIds": [],
+      "publishedAt": "2026-03-25T00:00:00.000Z",
+      "image": "https://www.sustainablebusiness.com/images/bfly.jpg"
+    },
+    {
+      "id": "opp-aHR0cHM6Ly93d3cuc3VzdGFpbmFibGVidXNpbmVzcy5jb20vam9iL3Byb2plY3Qt",
+      "title": "Project Manager, Oregon Fuels, Forests & Funding",
+      "organization": "Green Dream Jobs",
+      "location": "Australia (WA)",
+      "type": "Mid-senior",
+      "deadline": "Apply soon",
+      "summary": "ABOUT PACIFIC FOREST TRUST Pacific Forest Trust is a nationally recognized leader in forest conservation, championing innovative solutions that reward forest landowners for deliver",
+      "tags": [
+        "Live listing",
+        "Green Dream Jobs"
+      ],
+      "url": "https://www.sustainablebusiness.com/job/project-manager-24/",
+      "source": "Green Dream Jobs · RSS",
+      "listingBoard": "Green Dream Jobs",
+      "pathwayIds": [],
+      "publishedAt": "2026-03-25T00:00:00.000Z",
+      "image": "https://www.sustainablebusiness.com/images/bfly.jpg"
+    },
+    {
+      "id": "opp-aHR0cHM6Ly93d3cuc3VzdGFpbmFibGVidXNpbmVzcy5jb20vam9iL3Nlbmlvci1h",
+      "title": "Officer, Pew Marine Fellows",
+      "organization": "Green Dream Jobs",
+      "location": "Australia (NT)",
+      "type": "Grant",
+      "deadline": "Apply soon",
+      "summary": "Philadelphia and Scientific Advancement The evidence project is part of the Philadelphia and Scientific Advancement portfolio, which houses all of Pew’s grantmaking initiatives, in",
+      "tags": [
+        "Live listing",
+        "Green Dream Jobs"
+      ],
+      "url": "https://www.sustainablebusiness.com/job/senior-associate-private-sector-safer-chemicals-project/",
+      "source": "Green Dream Jobs · RSS",
+      "listingBoard": "Green Dream Jobs",
+      "pathwayIds": [
+        "marine-coastal"
+      ],
+      "publishedAt": "2026-03-25T00:00:00.000Z",
+      "image": "https://www.sustainablebusiness.com/images/bfly.jpg"
+    },
+    {
+      "id": "opp-aHR0cHM6Ly93d3cuc3VzdGFpbmFibGVidXNpbmVzcy5jb20vam9iL2tlZXBlci1h",
+      "title": "Keeper/Aquarist",
+      "organization": "Green Dream Jobs",
+      "location": "Australia (NT)",
+      "type": "Entry",
+      "deadline": "Apply soon",
+      "summary": "Who We Are Audubon Nature Institute comprises Audubon Park, Audubon Zoo, Audubon Aquarium, Audubon Insectarium, Audubon Louisiana Nature Center, Freeport-McMoRan Audubon Species Su",
+      "tags": [
+        "Live listing",
+        "Green Dream Jobs"
+      ],
+      "url": "https://www.sustainablebusiness.com/job/keeper-aquarist/",
+      "source": "Green Dream Jobs · RSS",
+      "listingBoard": "Green Dream Jobs",
+      "pathwayIds": [
+        "fire-land-management"
+      ],
+      "publishedAt": "2026-03-25T00:00:00.000Z",
+      "image": "https://www.sustainablebusiness.com/images/bfly.jpg"
+    },
+    {
+      "id": "opp-aHR0cHM6Ly93d3cuc3VzdGFpbmFibGVidXNpbmVzcy5jb20vam9iL2J1dHRlcmZs",
+      "title": "Butterfly Keeper at Chatfield ",
+      "organization": "Butterfly Keeper",
+      "location": "Australia (WA)",
+      "type": "Entry",
+      "deadline": "Apply soon",
+      "summary": "About Butterfly Pavilion: At Butterfly Pavilion, (BP) we transform the way people think about invertebrates. These small but mighty animals that surround us are so much more than p",
+      "tags": [
+        "Live listing",
+        "Green Dream Jobs"
+      ],
+      "url": "https://www.sustainablebusiness.com/job/butterfly-keeper-at-chatfield/",
+      "source": "Green Dream Jobs · RSS",
+      "listingBoard": "Green Dream Jobs",
+      "pathwayIds": [],
+      "publishedAt": "2026-03-25T00:00:00.000Z",
+      "image": "https://www.sustainablebusiness.com/images/bfly.jpg"
+    },
+    {
+      "id": "opp-aHR0cHM6Ly93d3cuc3VzdGFpbmFibGVidXNpbmVzcy5jb20vam9iL2ludGVybi1j",
+      "title": "Intern, Conservation Management & Welfare Sciences",
+      "organization": "Green Dream Jobs",
+      "location": "Australia (VIC)",
+      "type": "Internship",
+      "deadline": "Apply soon",
+      "summary": "The Association of Zoos and Aquariums is committed to providing the highest quality member services to advance the zoo and aquarium movement. AZA is also committed to being a globa",
+      "tags": [
+        "Live listing",
+        "Green Dream Jobs"
+      ],
+      "url": "https://www.sustainablebusiness.com/job/intern-conservation-management-welfare-sciences/",
+      "source": "Green Dream Jobs · RSS",
+      "listingBoard": "Green Dream Jobs",
+      "pathwayIds": [],
+      "publishedAt": "2026-03-25T00:00:00.000Z",
+      "image": "https://www.sustainablebusiness.com/images/bfly.jpg"
+    },
+    {
+      "id": "opp-aHR0cHM6Ly93d3cuY29uc2VydmF0aW9uLWNhcmVlcnMuY29tL3BvZGNhc3Qvc2Vl",
       "title": "Podcast | Community-Led Conservation in Madagascar | Dr Aubrey Alamshah",
-      "organization": "Conservation Careers",
+      "organization": "Podcast",
       "location": "Australia / Remote",
       "type": "Entry",
       "deadline": "Apply soon",
-      "image": "https://images.unsplash.com/photo-1469474968028-56623f02e42e?auto=format&fit=crop&w=1200&q=80",
+      "image": "https://conservation-career-stg.s3.amazonaws.com/wp-content/uploads/2026/03/Community-Led-Conservation-in-Madagascar-Dr-Aubrey-Alamshah-1024x576.png",
       "summary": "How SEED Madagascar is working with local communities is key to protecting wildlife and ecosystems, with our guest Dr Aubrey Alamshah.",
       "tags": [
         "Live listing",
-        "External source"
+        "Conservation Careers"
       ],
       "url": "https://www.conservation-careers.com/podcast/seed-madagascar-dr-aubrey-alamshah/",
-      "source": "Conservation Careers",
-      "publishedAt": "Tue, 24 Mar 2026 10:01:13 +0000"
+      "source": "Conservation Careers · RSS",
+      "listingBoard": "Conservation Careers",
+      "pathwayIds": [
+        "ecology-wildlife",
+        "community-education"
+      ],
+      "publishedAt": "2026-03-24T10:01:13.000Z"
     },
     {
-      "id": "opp-aHR0cHM6Ly93d3cuY29uc2VydmF0aW9uLWNhcmVlcnMuY29tL2ZvdQ",
+      "id": "opp-aHR0cHM6Ly93d3cuc3VzdGFpbmFibGVidXNpbmVzcy5jb20vam9iL2NvbnNlcnZh",
+      "title": "Conservation Exhibit Specialist",
+      "organization": "Green Dream Jobs",
+      "location": "Australia (NT)",
+      "type": "Entry",
+      "deadline": "Apply soon",
+      "summary": "The National Mississippi River Museum &amp; Aquarium is an outgrowth of the Dubuque County Historical Society, which also operates the Mathias Ham Historic Site, is home to the Nat",
+      "tags": [
+        "Live listing",
+        "Green Dream Jobs"
+      ],
+      "url": "https://www.sustainablebusiness.com/job/conservation-exhibit-specialist/",
+      "source": "Green Dream Jobs · RSS",
+      "listingBoard": "Green Dream Jobs",
+      "pathwayIds": [
+        "water-hydrology"
+      ],
+      "publishedAt": "2026-03-24T00:00:00.000Z",
+      "image": "https://www.sustainablebusiness.com/images/bfly.jpg"
+    },
+    {
+      "id": "opp-aHR0cHM6Ly93d3cuc3VzdGFpbmFibGVidXNpbmVzcy5jb20vam9iL2ludGVncmF0",
+      "title": "Integrated Communications Manager",
+      "organization": "Green Dream Jobs",
+      "location": "Australia (NT)",
+      "type": "Internship",
+      "deadline": "Apply soon",
+      "summary": "Overview: The Integrated Communications Manager serves as the lead for internal and external communications for the Omaha Zoological Society and its two attraction brands, Omaha’s ",
+      "tags": [
+        "Live listing",
+        "Green Dream Jobs"
+      ],
+      "url": "https://www.sustainablebusiness.com/job/integrated-communications-manager/",
+      "source": "Green Dream Jobs · RSS",
+      "listingBoard": "Green Dream Jobs",
+      "pathwayIds": [],
+      "publishedAt": "2026-03-24T00:00:00.000Z",
+      "image": "https://www.sustainablebusiness.com/images/bfly.jpg"
+    },
+    {
+      "id": "opp-aHR0cHM6Ly93d3cuc3VzdGFpbmFibGVidXNpbmVzcy5jb20vam9iL21hbmFnaW5n",
+      "title": "Managing Director of Philanthropic Partnership",
+      "organization": "Green Dream Jobs",
+      "location": "Australia (NT)",
+      "type": "Mid-senior",
+      "deadline": "Apply soon",
+      "summary": "About this position: The Managing Director of Philanthropic Partnership is responsible for the overall plan and implementation of relationship building with and resource mobilizati",
+      "tags": [
+        "Live listing",
+        "Green Dream Jobs"
+      ],
+      "url": "https://www.sustainablebusiness.com/job/managing-director-of-philanthropic-partnership/",
+      "source": "Green Dream Jobs · RSS",
+      "listingBoard": "Green Dream Jobs",
+      "pathwayIds": [],
+      "publishedAt": "2026-03-24T00:00:00.000Z",
+      "image": "https://www.sustainablebusiness.com/images/bfly.jpg"
+    },
+    {
+      "id": "opp-aHR0cHM6Ly93d3cuc3VzdGFpbmFibGVidXNpbmVzcy5jb20vam9iL2RpcmVjdG9y",
+      "title": "Director of Strategic Partnerships, Climate – Asia Region",
+      "organization": "Green Dream Jobs",
+      "location": "Australia (NT)",
+      "type": "Mid-senior",
+      "deadline": "Apply soon",
+      "summary": "About Pacific Environment Pacific Environment works to stop climate change and ensure healthy ecosystems around the Pacific Rim for the benefit of people and our planet. For more t",
+      "tags": [
+        "Live listing",
+        "Green Dream Jobs"
+      ],
+      "url": "https://www.sustainablebusiness.com/job/director-of-strategic-partnerships-climate-asia-region/",
+      "source": "Green Dream Jobs · RSS",
+      "listingBoard": "Green Dream Jobs",
+      "pathwayIds": [
+        "climate-energy",
+        "policy-planning"
+      ],
+      "publishedAt": "2026-03-24T00:00:00.000Z",
+      "image": "https://www.sustainablebusiness.com/images/bfly.jpg"
+    },
+    {
+      "id": "opp-aHR0cHM6Ly93d3cuc3VzdGFpbmFibGVidXNpbmVzcy5jb20vam9iL3BhcnRuZXJz",
+      "title": "Partnerships and Communications Director",
+      "organization": "Green Dream Jobs",
+      "location": "Australia (NT)",
+      "type": "Internship",
+      "deadline": "Apply soon",
+      "summary": "About the Organization: Environmental Law Alliance Worldwide (ELAW) is an international NGO, registered in Oregon as a nonprofit. At ELAW, we believe that environmental protection ",
+      "tags": [
+        "Live listing",
+        "Green Dream Jobs"
+      ],
+      "url": "https://www.sustainablebusiness.com/job/partnerships-and-communications-director/",
+      "source": "Green Dream Jobs · RSS",
+      "listingBoard": "Green Dream Jobs",
+      "pathwayIds": [
+        "gis-spatial"
+      ],
+      "publishedAt": "2026-03-23T00:00:00.000Z",
+      "image": "https://www.sustainablebusiness.com/images/bfly.jpg"
+    },
+    {
+      "id": "opp-aHR0cHM6Ly93d3cuc3VzdGFpbmFibGVidXNpbmVzcy5jb20vam9iL2Jpb2xvZ2lz",
+      "title": "Biologist I (Plants and Biological Soil Crusts)",
+      "organization": "Green Dream Jobs",
+      "location": "Australia (WA)",
+      "type": "Entry",
+      "deadline": "Apply soon",
+      "summary": "The Walker Basin Conservancy (WBC) works to restore and maintain Walker Lake while protecting agricultural, environmental, and recreational interests throughout the Walker Basin. T",
+      "tags": [
+        "Live listing",
+        "Green Dream Jobs"
+      ],
+      "url": "https://www.sustainablebusiness.com/job/biologist-i-plants-and-biological-soil-crusts/",
+      "source": "Green Dream Jobs · RSS",
+      "listingBoard": "Green Dream Jobs",
+      "pathwayIds": [
+        "soil-contamination",
+        "agriculture-food",
+        "gis-spatial"
+      ],
+      "publishedAt": "2026-03-23T00:00:00.000Z",
+      "image": "https://www.sustainablebusiness.com/images/bfly.jpg"
+    },
+    {
+      "id": "opp-aHR0cHM6Ly93d3cuc3VzdGFpbmFibGVidXNpbmVzcy5jb20vam9iL2dyZWF0LWxh",
+      "title": "Great Lakes Senior Field Representative",
+      "organization": "Green Dream Jobs",
+      "location": "Australia (NT)",
+      "type": "Mid-senior",
+      "deadline": "Apply soon",
+      "summary": "THE CONSERVATION FUND The Conservation Fund protects the land that sustains us all. We are in the business of conservation, creating innovative solutions that drive nature-based ac",
+      "tags": [
+        "Live listing",
+        "Green Dream Jobs"
+      ],
+      "url": "https://www.sustainablebusiness.com/job/great-lakes-senior-field-representative/",
+      "source": "Green Dream Jobs · RSS",
+      "listingBoard": "Green Dream Jobs",
+      "pathwayIds": [],
+      "publishedAt": "2026-03-23T00:00:00.000Z",
+      "image": "https://www.sustainablebusiness.com/images/bfly.jpg"
+    },
+    {
+      "id": "opp-aHR0cHM6Ly93d3cuc3VzdGFpbmFibGVidXNpbmVzcy5jb20vam9iL2dpcy1hbmFs",
+      "title": "GIS Analyst",
+      "organization": "Green Dream Jobs",
+      "location": "Australia (WA)",
+      "type": "Entry",
+      "deadline": "Apply soon",
+      "summary": "BACKGROUND ON THE ENVIRONMENTAL INTEGRITY PROJECT: The Environmental Integrity Project (EIP) is America’s environmental watchdog. We are a nonprofit organization dedicated to prote",
+      "tags": [
+        "Live listing",
+        "Green Dream Jobs"
+      ],
+      "url": "https://www.sustainablebusiness.com/job/gis-analyst-2/",
+      "source": "Green Dream Jobs · RSS",
+      "listingBoard": "Green Dream Jobs",
+      "pathwayIds": [
+        "gis-spatial"
+      ],
+      "publishedAt": "2026-03-22T00:00:00.000Z",
+      "image": "https://www.sustainablebusiness.com/images/bfly.jpg"
+    },
+    {
+      "id": "opp-aHR0cHM6Ly93d3cuc3VzdGFpbmFibGVidXNpbmVzcy5jb20vam9iL21vbnRhbmEt",
+      "title": "Montana State Director",
+      "organization": "Green Dream Jobs",
+      "location": "Australia (NT)",
+      "type": "Mid-senior",
+      "deadline": "Apply soon",
+      "summary": "The Nature Conservancy (TNC) seeks its next Montana State Director to lead the Montana Business Unit (BU) and serve as a partner with colleagues in TNC’s Western US and Canada Divi",
+      "tags": [
+        "Live listing",
+        "Green Dream Jobs"
+      ],
+      "url": "https://www.sustainablebusiness.com/job/montana-state-director/",
+      "source": "Green Dream Jobs · RSS",
+      "listingBoard": "Green Dream Jobs",
+      "pathwayIds": [],
+      "publishedAt": "2026-03-22T00:00:00.000Z",
+      "image": "https://www.sustainablebusiness.com/images/bfly.jpg"
+    },
+    {
+      "id": "opp-aHR0cHM6Ly93d3cuc3VzdGFpbmFibGVidXNpbmVzcy5jb20vam9iL2RpcmVjdG9y",
+      "title": "Director, Economics Analysis Hub",
+      "organization": "Green Dream Jobs",
+      "location": "Australia (NT)",
+      "type": "Mid-senior",
+      "deadline": "Apply soon",
+      "summary": "Overall Function The Economics Analysis Hub (Hub) is a new unit at the Environmental Defense Fund that conducts rapid analysis of climate economics questions to inform organization",
+      "tags": [
+        "Live listing",
+        "Green Dream Jobs"
+      ],
+      "url": "https://www.sustainablebusiness.com/job/director-economics-analysis-hub/",
+      "source": "Green Dream Jobs · RSS",
+      "listingBoard": "Green Dream Jobs",
+      "pathwayIds": [
+        "climate-energy"
+      ],
+      "publishedAt": "2026-03-22T00:00:00.000Z",
+      "image": "https://www.sustainablebusiness.com/images/bfly.jpg"
+    },
+    {
+      "id": "opp-aHR0cHM6Ly93d3cuc3VzdGFpbmFibGVidXNpbmVzcy5jb20vam9iL3dpbGRlcm5l",
+      "title": "Wilderness Corps and Volunteer Crew Leader",
+      "organization": "Green Dream Jobs",
+      "location": "Australia (NT)",
+      "type": "Volunteer",
+      "deadline": "Apply soon",
+      "summary": "About Siskiyou Mountain Club We are a small nonprofit organization dedicated to preserving trails in the backcountry of Southwest Oregon and Northwest California. The Siskiyou Moun",
+      "tags": [
+        "Live listing",
+        "Green Dream Jobs"
+      ],
+      "url": "https://www.sustainablebusiness.com/job/wilderness-corps-and-volunteer-crew-leader/",
+      "source": "Green Dream Jobs · RSS",
+      "listingBoard": "Green Dream Jobs",
+      "pathwayIds": [],
+      "publishedAt": "2026-03-21T00:00:00.000Z",
+      "image": "https://www.sustainablebusiness.com/images/bfly.jpg"
+    },
+    {
+      "id": "opp-aHR0cHM6Ly93d3cuY29uc2VydmF0aW9uLWNhcmVlcnMuY29tL2ZvdW5kZXJzLWRl",
       "title": "AI in job applications – are we asking the right question?",
-      "organization": "Conservation Careers",
+      "organization": "AI in job applications",
       "location": "Australia / Remote",
       "type": "Entry",
       "deadline": "Apply soon",
-      "image": "https://images.unsplash.com/photo-1469474968028-56623f02e42e?auto=format&fit=crop&w=1200&q=80",
+      "image": "https://conservation-career-stg.s3.amazonaws.com/wp-content/uploads/2026/03/alex-shuper-OFxYMp8VkdI-unsplash-1024x576.jpg",
       "summary": "Applications are one of the hardest parts of landing a conservation job. But what role is AI starting to play in this process for people in this sector?",
       "tags": [
         "Live listing",
-        "External source"
+        "Conservation Careers"
       ],
       "url": "https://www.conservation-careers.com/founders-desk/ai-in-job-applications/",
-      "source": "Conservation Careers",
-      "publishedAt": "Thu, 19 Mar 2026 14:54:10 +0000"
+      "source": "Conservation Careers · RSS",
+      "listingBoard": "Conservation Careers",
+      "pathwayIds": [],
+      "publishedAt": "2026-03-19T14:54:10.000Z"
     },
     {
-      "id": "opp-aHR0cHM6Ly93d3cuY29uc2VydmF0aW9uLWNhcmVlcnMuY29tL2NvYQ",
+      "id": "opp-aHR0cHM6Ly93d3cuc3VzdGFpbmFibGVidXNpbmVzcy5jb20vam9iL2NoaWVmLWV4",
+      "title": "Chief Executive Officer",
+      "organization": "Green Dream Jobs",
+      "location": "Australia (NT)",
+      "type": "Entry",
+      "deadline": "Apply soon",
+      "summary": "LightHawk is seeking an exceptional leader to serve as its next Chief Executive Officer and guide the organization into its next chapter of growth and conservation impact. About Li",
+      "tags": [
+        "Live listing",
+        "Green Dream Jobs"
+      ],
+      "url": "https://www.sustainablebusiness.com/job/chief-executive-officer-5-9/",
+      "source": "Green Dream Jobs · RSS",
+      "listingBoard": "Green Dream Jobs",
+      "pathwayIds": [],
+      "publishedAt": "2026-03-19T00:00:00.000Z",
+      "image": "https://www.sustainablebusiness.com/images/bfly.jpg"
+    },
+    {
+      "id": "opp-aHR0cHM6Ly9nb29kd29yay5jYS9wb3N0LWEtam9i",
+      "title": "Post an opportunity",
+      "organization": "GoodWork",
+      "location": "Australia / Remote",
+      "type": "Entry",
+      "deadline": "Apply soon",
+      "summary": "Post an opportunity",
+      "tags": [
+        "Live listing",
+        "GoodWork"
+      ],
+      "url": "https://goodwork.ca/post-a-job",
+      "source": "GoodWork · RSS",
+      "listingBoard": "GoodWork",
+      "pathwayIds": [],
+      "publishedAt": "2026-03-17T02:00:00.000Z",
+      "image": "https://www.goodwork.ca/images/goodwork-fb-03b.jpg"
+    },
+    {
+      "id": "opp-aHR0cHM6Ly9nb29kd29yay5jYS9qb2Jz",
+      "title": "More...",
+      "organization": "GoodWork",
+      "location": "Australia / Remote",
+      "type": "Entry",
+      "deadline": "Apply soon",
+      "summary": "More...",
+      "tags": [
+        "Live listing",
+        "GoodWork"
+      ],
+      "url": "https://goodwork.ca/jobs",
+      "source": "GoodWork · RSS",
+      "listingBoard": "GoodWork",
+      "pathwayIds": [],
+      "publishedAt": "2026-03-16T02:00:00.000Z",
+      "image": "https://www.goodwork.ca/images/goodwork-fb-03b.jpg"
+    },
+    {
+      "id": "opp-aHR0cHM6Ly93d3cuc3VzdGFpbmFibGVidXNpbmVzcy5jb20vam9iL3Nlbmlvci1k",
+      "title": "Senior Director, Climate and Rights (12-month position)",
+      "organization": "Green Dream Jobs",
+      "location": "Australia (NT)",
+      "type": "Mid-senior",
+      "deadline": "Apply soon",
+      "summary": "ABOUT GREENPEACE Greenpeace is a global, independent campaigning organization that uses peaceful protest, creative communication and people power to expose global environmental pro",
+      "tags": [
+        "Live listing",
+        "Green Dream Jobs"
+      ],
+      "url": "https://www.sustainablebusiness.com/job/senior-director-climate-and-rights-12-month-position/",
+      "source": "Green Dream Jobs · RSS",
+      "listingBoard": "Green Dream Jobs",
+      "pathwayIds": [
+        "climate-energy"
+      ],
+      "publishedAt": "2026-03-16T00:00:00.000Z",
+      "image": "https://www.sustainablebusiness.com/images/bfly.jpg"
+    },
+    {
+      "id": "opp-aHR0cHM6Ly93d3cuc3VzdGFpbmFibGVidXNpbmVzcy5jb20vam9iL2hlYWQtb2Yt",
+      "title": "Head of Fellowship Experience - 26024",
+      "organization": "Head of Fellowship Experience",
+      "location": "Australia / Remote",
+      "type": "Fellowship",
+      "deadline": "Apply soon",
+      "summary": "World Wildlife Fund (WWF), one of the world’s leading conservation organizations, seeks a Head of Fellowship Experience to design and lead the experiences that bring the Boundless ",
+      "tags": [
+        "Live listing",
+        "Green Dream Jobs"
+      ],
+      "url": "https://www.sustainablebusiness.com/job/head-of-fellowship-experience-26024-3/",
+      "source": "Green Dream Jobs · RSS",
+      "listingBoard": "Green Dream Jobs",
+      "pathwayIds": [
+        "ecology-wildlife"
+      ],
+      "publishedAt": "2026-03-13T00:00:00.000Z",
+      "image": "https://www.sustainablebusiness.com/images/bfly.jpg"
+    },
+    {
+      "id": "opp-aHR0cHM6Ly93d3cuc3VzdGFpbmFibGVidXNpbmVzcy5jb20vam9iL25hdHVyYWxp",
+      "title": "Naturalist",
+      "organization": "Green Dream Jobs",
+      "location": "Australia (NT)",
+      "type": "Entry",
+      "deadline": "Apply soon",
+      "summary": "About Us: Pacific Whale Foundation is a 501(c)(3) nonprofit committed to our mission of protecting the ocean through science and advocacy. Since 1980, we have made a significant im",
+      "tags": [
+        "Live listing",
+        "Green Dream Jobs"
+      ],
+      "url": "https://www.sustainablebusiness.com/job/naturalist-4/",
+      "source": "Green Dream Jobs · RSS",
+      "listingBoard": "Green Dream Jobs",
+      "pathwayIds": [
+        "marine-coastal"
+      ],
+      "publishedAt": "2026-03-06T00:00:00.000Z",
+      "image": "https://www.sustainablebusiness.com/images/bfly.jpg"
+    },
+    {
+      "id": "opp-aHR0cHM6Ly93d3cuY29uc2VydmF0aW9uLWNhcmVlcnMuY29tL2NvYWNoaW5nL3do",
       "title": "What colour are your career sunglasses?",
       "organization": "Conservation Careers",
       "location": "Australia / Remote",
       "type": "Entry",
       "deadline": "Apply soon",
-      "image": "https://images.unsplash.com/photo-1469474968028-56623f02e42e?auto=format&fit=crop&w=1200&q=80",
+      "image": "https://conservation-career-stg.s3.amazonaws.com/wp-content/uploads/2026/03/What-colour-are-your-career-sunglasses-1024x576.png",
       "summary": "Quick question: What colour sunglasses are you wearing when you look at your career? Because we all wear them. You might be looking through grey lenses: “There aren’t many jobs.” “",
       "tags": [
         "Live listing",
-        "External source"
+        "Conservation Careers"
       ],
       "url": "https://www.conservation-careers.com/coaching/what-colour-are-your-career-sunglasses-2/",
-      "source": "Conservation Careers",
-      "publishedAt": "Mon, 02 Mar 2026 10:22:15 +0000"
+      "source": "Conservation Careers · RSS",
+      "listingBoard": "Conservation Careers",
+      "pathwayIds": [],
+      "publishedAt": "2026-03-02T10:22:15.000Z"
     },
     {
-      "id": "opp-aHR0cHM6Ly93d3cuY29uc2VydmF0aW9uLWNhcmVlcnMuY29tL25ldw",
+      "id": "opp-aHR0cHM6Ly93d3cuY29uc2VydmF0aW9uLWNhcmVlcnMuY29tL25ld3Mvb3Blbi1j",
       "title": "OPEN | Certificate in Conservation Standards Project Management and Design",
+      "organization": "OPEN",
+      "location": "Australia (NT)",
+      "type": "Entry",
+      "deadline": "Apply soon",
+      "image": "https://conservation-career-stg.s3.amazonaws.com/wp-content/uploads/2026/02/kulli-kittus-qyt0cPByJjs-unsplash-copy-1024x528.jpg",
+      "summary": "Gain key skills in managing and designing conservation projects using the Conservation Standards – the leading approach within the sector. Enrolment is currently open for Conservat",
+      "tags": [
+        "Live listing",
+        "Conservation Careers"
+      ],
+      "url": "https://www.conservation-careers.com/news/open-certificate-in-conservation-standards-project-management-and-design-2/",
+      "source": "Conservation Careers · RSS",
+      "listingBoard": "Conservation Careers",
+      "pathwayIds": [],
+      "publishedAt": "2026-03-01T14:47:37.000Z"
+    },
+    {
+      "id": "opp-aHR0cHM6Ly93d3cuY29uc2VydmF0aW9uLWNhcmVlcnMuY29tL2ludGVydmlld3Mv",
+      "title": "A Different Kind of Farming: Riccardo Pavesi’s Reflections on Agroforestry and Conservation",
+      "organization": "Conservation Careers",
+      "location": "Australia (NT)",
+      "type": "Entry",
+      "deadline": "Apply soon",
+      "image": "https://conservation-career-stg.s3.amazonaws.com/wp-content/uploads/2026/02/FEATURED_IMAGE-1024x773.jpg",
+      "summary": "From Mexico to Cameroon, Riccardo Pavesi has worked in almost ten countries across three continents. As an agronomist, his role bridges the critical sectors of agriculture and envi",
+      "tags": [
+        "Live listing",
+        "Conservation Careers"
+      ],
+      "url": "https://www.conservation-careers.com/interviews/riccardo-pavesi/",
+      "source": "Conservation Careers · RSS",
+      "listingBoard": "Conservation Careers",
+      "pathwayIds": [
+        "agriculture-food"
+      ],
+      "publishedAt": "2026-02-26T10:54:19.000Z"
+    },
+    {
+      "id": "opp-aHR0cHM6Ly9nb29kd29yay5jYS9qb2JzL3Jlc2VhcmNoLWFzc2lzdGFudC1qb2Jz",
+      "title": "Summer job: Fieldwork Research Assistant,,  (impact of pesticides on pollinators), University of Guelph, School of Environmental Sciences, Peterborough, Ontario",
+      "organization": "GoodWork",
+      "location": "Australia (NT)",
+      "type": "Research",
+      "deadline": "Apply soon",
+      "summary": "Summer job: Fieldwork Research Assistant,, (impact of pesticides on pollinators), University of Guelph, School of Environmental Sciences, Peterborough, Ontario",
+      "tags": [
+        "Live listing",
+        "GoodWork"
+      ],
+      "url": "https://goodwork.ca/jobs/research-assistant-jobs-75857",
+      "source": "GoodWork · RSS",
+      "listingBoard": "GoodWork",
+      "pathwayIds": [],
+      "publishedAt": "2026-02-26T02:00:00.000Z",
+      "image": "https://www.goodwork.ca/photos/w/18-04/45305/ug-01.jpg"
+    },
+    {
+      "id": "opp-aHR0cHM6Ly93d3cuY29uc2VydmF0aW9uLWNhcmVlcnMuY29tL3BvZGNhc3Qvb3Bl",
+      "title": "Podcast | Inside Operation Wallacea – Field Expeditions, Biodiversity Research and Career Pathways | Dr Tom Martin",
+      "organization": "Podcast",
+      "location": "Australia (WA)",
+      "type": "Mid-senior",
+      "deadline": "Apply soon",
+      "image": "https://conservation-career-stg.s3.amazonaws.com/wp-content/uploads/2026/02/Inside-Operation-Wallacea-Field-Expeditions-Biodiversity-Research-and-Career-Pathways-1024x576.jpg",
+      "summary": "From cloud forests to coral reefs – how Opwall blends science, education and conservation impact with Dr Tom Martin, Head of Research at Opwall. Did you know that Operation Wallace",
+      "tags": [
+        "Live listing",
+        "Conservation Careers"
+      ],
+      "url": "https://www.conservation-careers.com/podcast/operation-wallacea/",
+      "source": "Conservation Careers · RSS",
+      "listingBoard": "Conservation Careers",
+      "pathwayIds": [
+        "ecology-wildlife",
+        "marine-coastal",
+        "community-education"
+      ],
+      "publishedAt": "2026-02-25T10:18:33.000Z"
+    },
+    {
+      "id": "opp-aHR0cHM6Ly93d3cuc3VzdGFpbmFibGVidXNpbmVzcy5jb20vam9iL2FkdmVudHVy",
+      "title": "Adventure 'Citizen' Scientists",
+      "organization": "Green Dream Jobs",
+      "location": "Australia (NT)",
+      "type": "Entry",
+      "deadline": "Apply soon",
+      "summary": "Adventure Scientists focuses on four impact areas aligned with our mission and strengths. Each impact area interacts with the others, building momentum for effective coalition-buil",
+      "tags": [
+        "Live listing",
+        "Green Dream Jobs"
+      ],
+      "url": "https://www.sustainablebusiness.com/job/adventure-scientists-volunteer/",
+      "source": "Green Dream Jobs · RSS",
+      "listingBoard": "Green Dream Jobs",
+      "pathwayIds": [],
+      "publishedAt": "2026-02-25T00:00:00.000Z",
+      "image": "https://www.sustainablebusiness.com/images/bfly.jpg"
+    },
+    {
+      "id": "opp-aHR0cHM6Ly93d3cuY29uc2VydmF0aW9uLWNhcmVlcnMuY29tL2ludGVydmlld3Mv",
+      "title": "From Hippie Dreams to Marine Stewardship",
+      "organization": "Conservation Careers",
+      "location": "Australia (WA)",
+      "type": "Entry",
+      "deadline": "Apply soon",
+      "image": "https://conservation-career-stg.s3.amazonaws.com/wp-content/uploads/2026/02/Cover-Image-Ilizna-inspiring-the-next-generation-to-learn-observe-and-contribute-to-protecting-biodiversity.jpg",
+      "summary": "Discover how marine guide Ilizna turned a love for the ocean into a career in conservation, storytelling, and marine stewardship along South Africa’s Garden Route.",
+      "tags": [
+        "Live listing",
+        "Conservation Careers"
+      ],
+      "url": "https://www.conservation-careers.com/interviews/marine-conservation-career-ilizna-garden-route/",
+      "source": "Conservation Careers · RSS",
+      "listingBoard": "Conservation Careers",
+      "pathwayIds": [
+        "marine-coastal"
+      ],
+      "publishedAt": "2026-02-24T11:16:43.000Z"
+    },
+    {
+      "id": "opp-aHR0cHM6Ly93d3cuY29uc2VydmF0aW9uLWNhcmVlcnMuY29tL3dlYmluYXJzL3dl",
+      "title": "Webinar | Communications That Change Conservation",
+      "organization": "Webinar",
+      "location": "Australia (NT)",
+      "type": "Entry",
+      "deadline": "Apply soon",
+      "image": "https://conservation-career-stg.s3.amazonaws.com/wp-content/uploads/2026/02/Communications-That-Change-Conservation-1-1024x576.png",
+      "summary": "Communications is one of the most powerful – and most overlooked – skills in conservation. In this webinar, you will discover why strong communication is essential for modern conse",
+      "tags": [
+        "Live listing",
+        "Conservation Careers"
+      ],
+      "url": "https://www.conservation-careers.com/webinars/webinar-communications-that-change-conservation-2/",
+      "source": "Conservation Careers · RSS",
+      "listingBoard": "Conservation Careers",
+      "pathwayIds": [],
+      "publishedAt": "2026-02-24T10:00:19.000Z"
+    },
+    {
+      "id": "opp-aHR0cHM6Ly9nb29kd29yay5jYS9qb2JzL2Zvb2QtbWFuYWdlbWVudC1idXNpbmVz",
+      "title": "Community Market Manager, full-time, Roots Community Food Centre, Thunder Bay, Ontario",
+      "organization": "GoodWork",
+      "location": "Australia (NT)",
+      "type": "Mid-senior",
+      "deadline": "Apply soon",
+      "summary": "Community Market Manager, full-time, Roots Community Food Centre, Thunder Bay, Ontario",
+      "tags": [
+        "Live listing",
+        "GoodWork"
+      ],
+      "url": "https://goodwork.ca/jobs/food-management-business-administration-community-development-and-retail-manager-jobs-75863",
+      "source": "GoodWork · RSS",
+      "listingBoard": "GoodWork",
+      "pathwayIds": [
+        "community-education"
+      ],
+      "publishedAt": "2026-02-21T02:00:00.000Z",
+      "image": "https://www.goodwork.ca/photos/w/22-06/64749/thunder-01.jpg"
+    },
+    {
+      "id": "opp-aHR0cHM6Ly93d3cuY29uc2VydmF0aW9uLWNhcmVlcnMuY29tL2ludGVydmlld3Mv",
+      "title": "Juliana Ferreira on Wildlife Trafficking, Power, and Building a Conservation Career Beyond the Lab",
+      "organization": "Conservation Careers",
+      "location": "Australia / Remote",
+      "type": "Mid-senior",
+      "deadline": "Apply soon",
+      "image": "https://conservation-career-stg.s3.amazonaws.com/wp-content/uploads/2026/02/FEATURED-IMAGE-1024x682.jpeg",
+      "summary": "“Is it love to possess and restrict other beings?” The question comes from Juliana Ferreira, Executive Director of Freeland South America, and it is not rhetorical. It is an invita",
+      "tags": [
+        "Live listing",
+        "Conservation Careers"
+      ],
+      "url": "https://www.conservation-careers.com/interviews/juliana-ferreira-on-wildlife-trafficking/",
+      "source": "Conservation Careers · RSS",
+      "listingBoard": "Conservation Careers",
+      "pathwayIds": [
+        "ecology-wildlife"
+      ],
+      "publishedAt": "2026-02-13T17:04:10.000Z"
+    },
+    {
+      "id": "opp-aHR0cHM6Ly9nb29kd29yay5jYS9qb2JzL3lvdXRoLWpvYnMtd29ya2luZy1vdXRk",
+      "title": "Organic Vegetable and Animal Farm Hand, 30 & under, Equilibrium Acres, near Dundas, Hamilton & Burlington, Ontario",
+      "organization": "GoodWork",
+      "location": "Australia (NT)",
+      "type": "Entry",
+      "deadline": "Apply soon",
+      "summary": "Organic Vegetable and Animal Farm Hand, 30 & under, Equilibrium Acres, near Dundas, Hamilton & Burlington, Ontario",
+      "tags": [
+        "Live listing",
+        "GoodWork"
+      ],
+      "url": "https://goodwork.ca/jobs/youth-jobs-working-outdoors-organic-farming-and-community-supported-agriculture-75853",
+      "source": "GoodWork · RSS",
+      "listingBoard": "GoodWork",
+      "pathwayIds": [
+        "agriculture-food"
+      ],
+      "publishedAt": "2026-02-12T02:00:00.000Z",
+      "image": "https://www.goodwork.ca/photos/w/24-06/71401/equi-01.jpg"
+    },
+    {
+      "id": "opp-aHR0cHM6Ly93d3cuY29uc2VydmF0aW9uLWNhcmVlcnMuY29tL3BvZGNhc3QvcG9k",
+      "title": "Podcast | What it really takes to build a career in marine conservation | Dr Lissa Batey",
+      "organization": "Podcast",
+      "location": "Australia (SA)",
+      "type": "Entry",
+      "deadline": "Apply soon",
+      "image": "https://conservation-career-stg.s3.amazonaws.com/wp-content/uploads/2026/02/What-it-really-takes-to-build-a-career-in-marine-conservation-Lissa-Batey-1024x576.jpg",
+      "summary": "How to build a meaningful career protecting the ocean by working with people, communities, and partners, with our guest Lissa Batey. If you’re interested in building a career in ma",
+      "tags": [
+        "Live listing",
+        "Conservation Careers"
+      ],
+      "url": "https://www.conservation-careers.com/podcast/podcast-what-it-really-takes-to-build-a-career-in-marine-conservation-dr-lissa-batey/",
+      "source": "Conservation Careers · RSS",
+      "listingBoard": "Conservation Careers",
+      "pathwayIds": [
+        "marine-coastal"
+      ],
+      "publishedAt": "2026-02-11T15:13:05.000Z"
+    },
+    {
+      "id": "opp-aHR0cHM6Ly93d3cuY29uc2VydmF0aW9uLWNhcmVlcnMuY29tL3BvZGNhc3Qvam9o",
+      "title": "Podcast | Butterflies, Brazil Nuts and Biodiversity – Protecting the Peruvian Amazon with Johana Reyes",
+      "organization": "Podcast",
+      "location": "Australia (ACT)",
+      "type": "Entry",
+      "deadline": "Apply soon",
+      "image": "https://conservation-career-stg.s3.amazonaws.com/wp-content/uploads/2026/02/Butterflies-Brazil-Nuts-and-Biodiversity-%E2%80%93-Protecting-the-Peruvian-Amazon-Johana-Reyes-1024x576.jpg",
+      "summary": "How the Alliance for a Sustainable Amazon is combining science, education and community action to keep the forest standing, with Johana Reyes. If you’ve ever wondered what a sustai",
+      "tags": [
+        "Live listing",
+        "Conservation Careers"
+      ],
+      "url": "https://www.conservation-careers.com/podcast/johana-reyes/",
+      "source": "Conservation Careers · RSS",
+      "listingBoard": "Conservation Careers",
+      "pathwayIds": [
+        "ecology-wildlife",
+        "community-education"
+      ],
+      "publishedAt": "2026-02-05T17:23:08.000Z"
+    },
+    {
+      "id": "opp-aHR0cHM6Ly9nb29kd29yay5jYS9qb2JzL29yZ2FuaWMtZ2FyZGVuaW5nLWFuZC1m",
+      "title": "Summer student: Community Garden & Food Assistant, Valley Community Learning Association, Kentville, Annapolis Valley, Nova Scotia",
+      "organization": "GoodWork",
+      "location": "Australia (NT)",
+      "type": "Entry",
+      "deadline": "Apply soon",
+      "summary": "Summer student: Community Garden & Food Assistant, Valley Community Learning Association, Kentville, Annapolis Valley, Nova Scotia",
+      "tags": [
+        "Live listing",
+        "GoodWork"
+      ],
+      "url": "https://goodwork.ca/jobs/organic-gardening-and-food-production-organic-farming-community-based-learning-75858",
+      "source": "GoodWork · RSS",
+      "listingBoard": "GoodWork",
+      "pathwayIds": [
+        "community-education"
+      ],
+      "publishedAt": "2026-02-05T02:00:00.000Z",
+      "image": "https://www.goodwork.ca/photos/w/23-01/66448/kentville-01.jpg"
+    },
+    {
+      "id": "opp-aHR0cHM6Ly93d3cuY29uc2VydmF0aW9uLWNhcmVlcnMuY29tL2NvYWNoaW5nL3Jl",
+      "title": "Resistance is doing its job – are you?",
+      "organization": "Resistance is doing its job",
+      "location": "Australia (WA)",
+      "type": "Entry",
+      "deadline": "Apply soon",
+      "image": "https://conservation-career-stg.s3.amazonaws.com/wp-content/uploads/2026/01/Resistance-is-doing-its-job.are-you-1024x576.png",
+      "summary": "There’s a quiet battle most of us fight every day, often without realising it. It’s the tug-of-war between what you really want, and what’s standing in the way: fear, discomfort, r",
+      "tags": [
+        "Live listing",
+        "Conservation Careers"
+      ],
+      "url": "https://www.conservation-careers.com/coaching/resistance-is-doing-its-job-are-you-2/",
+      "source": "Conservation Careers · RSS",
+      "listingBoard": "Conservation Careers",
+      "pathwayIds": [],
+      "publishedAt": "2026-02-01T10:00:47.000Z"
+    },
+    {
+      "id": "opp-aHR0cHM6Ly93d3cuY29uc2VydmF0aW9uLWNhcmVlcnMuY29tL2ludGVydmlld3Mv",
+      "title": "Healing the soil, healing the soul: How one grassroots leader is restoring land, dignity and hope",
+      "organization": "Conservation Careers",
+      "location": "Australia (NT)",
+      "type": "Entry",
+      "deadline": "Apply soon",
+      "image": "https://conservation-career-stg.s3.amazonaws.com/wp-content/uploads/2026/01/Cover-Image-Bruno-holding-freshly-harvested-cassava-roots-an-essential-staple-crop-supporting-household-nutrition-and-income-resilience.-1-1024x577.jpeg",
+      "summary": "What does conservation look like when it begins not in boardrooms or policy documents, but in the soil beside a grandmother’s home? For Bruno Omondi Otieno, founder of the K’ombija",
+      "tags": [
+        "Live listing",
+        "Conservation Careers"
+      ],
+      "url": "https://www.conservation-careers.com/interviews/bruno-omondi-otieno-community-led-conservation-kenya/",
+      "source": "Conservation Careers · RSS",
+      "listingBoard": "Conservation Careers",
+      "pathwayIds": [
+        "soil-contamination",
+        "policy-planning"
+      ],
+      "publishedAt": "2026-01-30T10:53:51.000Z"
+    },
+    {
+      "id": "opp-aHR0cHM6Ly93d3cuY29uc2VydmF0aW9uLWNhcmVlcnMuY29tL25ld3MvbmV3LWhv",
+      "title": "New! How to get Conservation Experience",
+      "organization": "Conservation Careers",
+      "location": "Australia (NT)",
+      "type": "Internship",
+      "deadline": "Apply soon",
+      "image": "https://conservation-career-stg.s3.amazonaws.com/wp-content/uploads/2026/01/jet-kim-xvXvZ8JKswk-unsplash-copy-1-1024x768.jpg",
+      "summary": "Find and secure conservation volunteering and internships that fit your goals – no matter your background, budget or career stage. Course Outline Conservation experience, like volu",
+      "tags": [
+        "Live listing",
+        "Conservation Careers"
+      ],
+      "url": "https://www.conservation-careers.com/news/new-how-to-get-conservation-experience-2/",
+      "source": "Conservation Careers · RSS",
+      "listingBoard": "Conservation Careers",
+      "pathwayIds": [],
+      "publishedAt": "2026-01-27T15:36:29.000Z"
+    },
+    {
+      "id": "opp-aHR0cHM6Ly93d3cuY29uc2VydmF0aW9uLWNhcmVlcnMuY29tL3dlYmluYXJzL25h",
+      "title": "Navigating Your Conservation Career",
+      "organization": "Conservation Careers",
+      "location": "Australia (NT)",
+      "type": "Entry",
+      "deadline": "Apply soon",
+      "image": "https://conservation-career-stg.s3.amazonaws.com/wp-content/uploads/2026/02/Navigating-Your-Conservation-Career-in-2026-4-1024x576.png",
+      "summary": "Are you feeling unsure about your next step in conservation? Whether you’re an aspiring conservationist, career switcher, student, job seeker, or already working in the sector, thi",
+      "tags": [
+        "Live listing",
+        "Conservation Careers"
+      ],
+      "url": "https://www.conservation-careers.com/webinars/navigating-your-conservation-career/",
+      "source": "Conservation Careers · RSS",
+      "listingBoard": "Conservation Careers",
+      "pathwayIds": [],
+      "publishedAt": "2026-01-26T10:38:07.000Z"
+    },
+    {
+      "id": "opp-aHR0cHM6Ly9nb29kd29yay5jYS9qb2JzL2Vjby10b3VyaXNtLWFuZC1ob3NwaXRh",
+      "title": "Summer job: Eco-tourism Assistant, Hearts Content Organic Farm, near Brantford ON (option to live on-site)",
+      "organization": "GoodWork",
+      "location": "Australia (NT)",
+      "type": "Entry",
+      "deadline": "Apply soon",
+      "summary": "Summer job: Eco-tourism Assistant, Hearts Content Organic Farm, near Brantford ON (option to live on-site)",
+      "tags": [
+        "Live listing",
+        "GoodWork"
+      ],
+      "url": "https://goodwork.ca/jobs/eco-tourism-and-hospitality-75835",
+      "source": "GoodWork · RSS",
+      "listingBoard": "GoodWork",
+      "pathwayIds": [
+        "agriculture-food"
+      ],
+      "publishedAt": "2026-01-26T02:00:00.000Z",
+      "image": "https://www.goodwork.ca/photos/w/18-08/47966/hcontent-03.jpg"
+    },
+    {
+      "id": "opp-aHR0cHM6Ly93d3cuY29uc2VydmF0aW9uLWNhcmVlcnMuY29tL2ZvdW5kZXJzLWRl",
+      "title": "Most of your life is work – so it had better matter",
+      "organization": "Most of your life is work",
+      "location": "Australia (WA)",
+      "type": "Entry",
+      "deadline": "Apply soon",
+      "image": "https://conservation-career-stg.s3.amazonaws.com/wp-content/uploads/2026/01/alex-shuper-61BvGAMSt0w-unsplash-1024x683.jpg",
+      "summary": "I came across something this week that stopped me in my tracks. It wasn’t an article or a big idea. Just a simple visual that quietly changes how you see time, work, and the way we",
+      "tags": [
+        "Live listing",
+        "Conservation Careers"
+      ],
+      "url": "https://www.conservation-careers.com/founders-desk/most-of-your-life-is-work-so-it-had-better-matter/",
+      "source": "Conservation Careers · RSS",
+      "listingBoard": "Conservation Careers",
+      "pathwayIds": [],
+      "publishedAt": "2026-01-21T15:19:43.000Z"
+    },
+    {
+      "id": "opp-aHR0cHM6Ly93d3cuY29uc2VydmF0aW9uLWNhcmVlcnMuY29tL2ludGVydmlld3Mv",
+      "title": "Breaking into Marine Conservation: Career Advice From a Marine Biologist (With or Without a Degree)",
+      "organization": "Conservation Careers",
+      "location": "Australia (VIC)",
+      "type": "Entry",
+      "deadline": "Apply soon",
+      "image": "https://conservation-career-stg.s3.amazonaws.com/wp-content/uploads/2026/01/IMAGE1-1024x682.jpg",
+      "summary": "The world of marine conservation often looks glamorous on screen, but the reality is very different. “In documentaries, they show Earth as a pristine Eden” explains marine biologis",
+      "tags": [
+        "Live listing",
+        "Conservation Careers"
+      ],
+      "url": "https://www.conservation-careers.com/interviews/breaking-into-marine-conservation-career-advice-from-a-marine-biologist-with-or-without-a-degree/",
+      "source": "Conservation Careers · RSS",
+      "listingBoard": "Conservation Careers",
+      "pathwayIds": [
+        "marine-coastal",
+        "gis-spatial"
+      ],
+      "publishedAt": "2026-01-16T09:37:08.000Z"
+    },
+    {
+      "id": "opp-aHR0cHM6Ly9nb29kd29yay5jYS9qb2JzL2Vudmlyb25tZW50YWwtZWR1Y2F0aW9u",
+      "title": "Environmental Education & Stewardship Assistant (Co-op), full-time, The Loon Foundation, Sunshine Coast BC",
+      "organization": "GoodWork",
+      "location": "Australia (WA)",
+      "type": "Entry",
+      "deadline": "Apply soon",
+      "summary": "Environmental Education & Stewardship Assistant (Co-op), full-time, The Loon Foundation, Sunshine Coast BC",
+      "tags": [
+        "Live listing",
+        "GoodWork"
+      ],
+      "url": "https://goodwork.ca/jobs/environmental-education-stewardship-assistant-co-op-jobs-75831",
+      "source": "GoodWork · RSS",
+      "listingBoard": "GoodWork",
+      "pathwayIds": [
+        "community-education"
+      ],
+      "publishedAt": "2026-01-13T02:00:00.000Z",
+      "image": "https://www.goodwork.ca/photos/w/26-02/75309/loon-01.jpg"
+    },
+    {
+      "id": "opp-aHR0cHM6Ly93d3cuY29uc2VydmF0aW9uLWNhcmVlcnMuY29tL2ludGVydmlld3Mv",
+      "title": "From Desert Roots to Global Impact: Alexandria’s Conservation Journey",
+      "organization": "Conservation Careers",
+      "location": "Australia (NT)",
+      "type": "Entry",
+      "deadline": "Apply soon",
+      "image": "https://conservation-career-stg.s3.amazonaws.com/wp-content/uploads/2026/01/FEATURED_-IMAGE-IMG_1628-1024x861.jpg",
+      "summary": "Growing up in Bahrain, a small island nation in the Middle East, Alexandria first fell in love with animals through frequent vet visits with the family cats. Wildlife is rare in th",
+      "tags": [
+        "Live listing",
+        "Conservation Careers"
+      ],
+      "url": "https://www.conservation-careers.com/interviews/from-desert-roots-to-global-impact-alexandrias-conservation-journey/",
+      "source": "Conservation Careers · RSS",
+      "listingBoard": "Conservation Careers",
+      "pathwayIds": [
+        "ecology-wildlife"
+      ],
+      "publishedAt": "2026-01-09T12:17:56.000Z"
+    },
+    {
+      "id": "opp-aHR0cHM6Ly93d3cuY29uc2VydmF0aW9uLWNhcmVlcnMuY29tL25ld3MvbmF2aWdh",
+      "title": "Navigating Your Conservation Career in 2026",
+      "organization": "Conservation Careers",
+      "location": "Australia (NT)",
+      "type": "Entry",
+      "deadline": "Apply soon",
+      "image": "https://conservation-career-stg.s3.amazonaws.com/wp-content/uploads/2026/01/Navigating-Your-Conservation-Career-in-2026-1024x576.png",
+      "summary": "Are you feeling unsure about your next step in conservation as 2026 begins? Whether you’re an aspiring conservationist, career switcher, student, job seeker, or already working in ",
+      "tags": [
+        "Live listing",
+        "Conservation Careers"
+      ],
+      "url": "https://www.conservation-careers.com/news/navigating-your-conservation-career-in-2026-3/",
+      "source": "Conservation Careers · RSS",
+      "listingBoard": "Conservation Careers",
+      "pathwayIds": [],
+      "publishedAt": "2026-01-07T16:39:31.000Z"
+    },
+    {
+      "id": "opp-aHR0cHM6Ly9nb29kd29yay5jYS9qb2JzL3dvcmstb3V0ZG9vcnMtZ3Jvdy1mb29k",
+      "title": "Summer job: Organic Farm Assistant, Hearts Content Organic Farm, near Brantford ON (option to live on-site)",
+      "organization": "GoodWork",
+      "location": "Australia (NT)",
+      "type": "Entry",
+      "deadline": "Apply soon",
+      "summary": "Summer job: Organic Farm Assistant, Hearts Content Organic Farm, near Brantford ON (option to live on-site)",
+      "tags": [
+        "Live listing",
+        "GoodWork"
+      ],
+      "url": "https://goodwork.ca/jobs/work-outdoors-grow-food-learn-organic-farming-75834",
+      "source": "GoodWork · RSS",
+      "listingBoard": "GoodWork",
+      "pathwayIds": [
+        "agriculture-food"
+      ],
+      "publishedAt": "2025-12-31T02:00:00.000Z",
+      "image": "https://www.goodwork.ca/photos/w/18-08/47966/hcontent-02.jpg"
+    },
+    {
+      "id": "opp-aHR0cHM6Ly9nb29kd29yay5jYS9qb2JzL2RpZ2l0YWwtY29tbXVuaWNhdGlvbnMt",
+      "title": "Digital Communications and Marketing Coordinator, The Loon Foundation, Sunshine Coast BC (remote or hybrid)",
+      "organization": "GoodWork",
+      "location": "Australia / Remote",
+      "type": "Entry",
+      "deadline": "Apply soon",
+      "summary": "Digital Communications and Marketing Coordinator, The Loon Foundation, Sunshine Coast BC (remote or hybrid)",
+      "tags": [
+        "Live listing",
+        "GoodWork"
+      ],
+      "url": "https://goodwork.ca/jobs/digital-communications-and-marketing-75830",
+      "source": "GoodWork · RSS",
+      "listingBoard": "GoodWork",
+      "pathwayIds": [],
+      "publishedAt": "2025-12-30T02:00:00.000Z",
+      "image": "https://www.goodwork.ca/photos/w/26-02/75309/loon-01.jpg"
+    },
+    {
+      "id": "opp-aHR0cHM6Ly93d3cuY29uc2VydmF0aW9uLWNhcmVlcnMuY29tL2ludGVydmlld3Mv",
+      "title": "Attenborough’s Animals: Ryan Eddowes’ Journey to Honour a Legacy and Spotlight Conservation Accessibility",
+      "organization": "Conservation Careers",
+      "location": "Australia (NT)",
+      "type": "Entry",
+      "deadline": "Apply soon",
+      "image": "https://conservation-career-stg.s3.amazonaws.com/wp-content/uploads/2025/12/FEATURED_IMAGE-1024x576.jpeg",
+      "summary": "In his new documentary project, Attenborough’s Animals: An Accessible Adventure, Ryan Eddowes is on a mission to search the globe for the over 40 lifeforms named in honour of Sir D",
+      "tags": [
+        "Live listing",
+        "Conservation Careers"
+      ],
+      "url": "https://www.conservation-careers.com/interviews/attenboroughs-animals-ryan-eddowes/",
+      "source": "Conservation Careers · RSS",
+      "listingBoard": "Conservation Careers",
+      "pathwayIds": [],
+      "publishedAt": "2025-12-18T11:41:25.000Z"
+    },
+    {
+      "id": "opp-aHR0cHM6Ly93d3cuY29uc2VydmF0aW9uLWNhcmVlcnMuY29tL2ludGVydmlld3Mv",
+      "title": "Urban roots, wild futures: inspiring the next generation of conservationists",
+      "organization": "Conservation Careers",
+      "location": "Australia (WA)",
+      "type": "Entry",
+      "deadline": "Apply soon",
+      "image": "https://conservation-career-stg.s3.amazonaws.com/wp-content/uploads/2025/12/FEATUREDIMAGE_MYABAMBRICK_CREDIT_SUZY-BUTTRESS-819x1024.jpeg",
+      "summary": "Mya Bambrick is a rising force in UK conservation – an award-winning wildlife conservationist, filmmaker and writer, who’s turning heads and winning hearts. At just 23, she’s out i",
+      "tags": [
+        "Live listing",
+        "Conservation Careers"
+      ],
+      "url": "https://www.conservation-careers.com/interviews/careers-in-outreach-and-education/",
+      "source": "Conservation Careers · RSS",
+      "listingBoard": "Conservation Careers",
+      "pathwayIds": [
+        "ecology-wildlife"
+      ],
+      "publishedAt": "2025-12-18T10:53:28.000Z"
+    },
+    {
+      "id": "opp-aHR0cHM6Ly93d3cuY29uc2VydmF0aW9uLWNhcmVlcnMuY29tL25ld3MvaGlnaGxp",
+      "title": "Highlights from 2025: Looking Back, Moving Forward",
+      "organization": "Conservation Careers",
+      "location": "Australia (WA)",
+      "type": "Entry",
+      "deadline": "Apply soon",
+      "image": "https://conservation-career-stg.s3.amazonaws.com/wp-content/uploads/2025/12/getty-images-5gP_Wadn298-unsplash-1024x683.jpg",
+      "summary": "As we reach the end of 2025, I find myself astonished by how much can happen within twelve months. This year has been one of significant growth for Conservation Careers, fuelled by",
+      "tags": [
+        "Live listing",
+        "Conservation Careers"
+      ],
+      "url": "https://www.conservation-careers.com/news/highlights-2025/",
+      "source": "Conservation Careers · RSS",
+      "listingBoard": "Conservation Careers",
+      "pathwayIds": [],
+      "publishedAt": "2025-12-15T11:30:35.000Z"
+    },
+    {
+      "id": "opp-aHR0cHM6Ly93d3cuY29uc2VydmF0aW9uLWNhcmVlcnMuY29tL2NvbnNlcnZhdGlv",
+      "title": "Make 2026 count with a career-changing internship",
+      "organization": "Conservation Careers",
+      "location": "Australia (NSW)",
+      "type": "Internship",
+      "deadline": "Apply soon",
+      "image": "https://conservation-career-stg.s3.amazonaws.com/wp-content/uploads/2025/12/Make-2026-count-1024x576.png",
+      "summary": "A new year has a way of holding up a mirror. It asks: “Are you doing the things you say you want to do?” And for many aspiring conservationists, the honest answer is often: “Not ye",
+      "tags": [
+        "Live listing",
+        "Conservation Careers"
+      ],
+      "url": "https://www.conservation-careers.com/conservation-jobs-careers-advice/make-2026-count-with-a-career-changing-internship/",
+      "source": "Conservation Careers · RSS",
+      "listingBoard": "Conservation Careers",
+      "pathwayIds": [],
+      "publishedAt": "2025-12-11T20:54:58.000Z"
+    },
+    {
+      "id": "opp-aHR0cHM6Ly93d3cuY29uc2VydmF0aW9uLWNhcmVlcnMuY29tL3BvZGNhc3QvcG9k",
+      "title": "Podcast | The Power of Wildlife Forensics in Conservation | Dr Greg Simpson",
+      "organization": "Podcast",
+      "location": "Australia / Remote",
+      "type": "Entry",
+      "deadline": "Apply soon",
+      "image": "https://conservation-career-stg.s3.amazonaws.com/wp-content/uploads/2025/12/The-Power-of-Wildlife-Forensics-in-Conservation-Dr-Greg-Simpson-1024x576.jpg",
+      "summary": "How the Wildlife Forensic Academy is training the next generation of crime scene investigators for nature, with Dr Greg Simpson. Hi, Nick here from Conservation Careers and welcome",
+      "tags": [
+        "Live listing",
+        "Conservation Careers"
+      ],
+      "url": "https://www.conservation-careers.com/podcast/podcast-the-power-of-wildlife-forensics-in-conservation-dr-greg-simpson/",
+      "source": "Conservation Careers · RSS",
+      "listingBoard": "Conservation Careers",
+      "pathwayIds": [
+        "ecology-wildlife"
+      ],
+      "publishedAt": "2025-12-09T11:28:18.000Z"
+    },
+    {
+      "id": "opp-aHR0cHM6Ly93d3cuY29uc2VydmF0aW9uLWNhcmVlcnMuY29tL2ludGVydmlld3Mv",
+      "title": "From classroom to conservation: How students are redefining stewardship",
+      "organization": "Conservation Careers",
+      "location": "Australia (WA)",
+      "type": "Entry",
+      "deadline": "Apply soon",
+      "image": "https://conservation-career-stg.s3.amazonaws.com/wp-content/uploads/2025/12/True-Blue-Recycling-Club-1024x576.png",
+      "summary": "Who is Tintswalo Mukhari? She’s not a scientist or politician; she’s a high school student from St Catherine’s Convent in South Africa who is proving that youth can drive real envi",
+      "tags": [
+        "Live listing",
+        "Conservation Careers"
+      ],
+      "url": "https://www.conservation-careers.com/interviews/from-classroom-to-conservation-youth-environmental-stewardship-south-africa/",
+      "source": "Conservation Careers · RSS",
+      "listingBoard": "Conservation Careers",
+      "pathwayIds": [],
+      "publishedAt": "2025-12-02T17:45:32.000Z"
+    },
+    {
+      "id": "opp-aHR0cHM6Ly93d3cuY29uc2VydmF0aW9uLWNhcmVlcnMuY29tL2ludGVydmlld3Mv",
+      "title": "Protecting South Africa’s sharks: A conversation with Sharklife’s Grant Smith",
+      "organization": "Conservation Careers",
+      "location": "Australia (SA)",
+      "type": "Grant",
+      "deadline": "Apply soon",
+      "image": "https://conservation-career-stg.s3.amazonaws.com/wp-content/uploads/2025/11/Grant-Smith-1024x576.png",
+      "summary": "“Fear turns into respect the moment you meet a shark on its own terms.” It’s a sentence that neatly captures the arc of Grant’s life, a journey that begins with childhood terror, m",
+      "tags": [
+        "Live listing",
+        "Conservation Careers"
+      ],
+      "url": "https://www.conservation-careers.com/interviews/protecting-south-africas-sharks-a-conversation-with-sharklifes-grant-smith/",
+      "source": "Conservation Careers · RSS",
+      "listingBoard": "Conservation Careers",
+      "pathwayIds": [],
+      "publishedAt": "2025-11-25T19:30:41.000Z"
+    },
+    {
+      "id": "opp-aHR0cHM6Ly93d3cuY29uc2VydmF0aW9uLWNhcmVlcnMuY29tL2ludGVydmlld3Mv",
+      "title": "Sharks, stories and stewardship: How one communicator found her calling beneath the surface",
+      "organization": "Conservation Careers",
+      "location": "Australia (WA)",
+      "type": "Entry",
+      "deadline": "Apply soon",
+      "image": "https://conservation-career-stg.s3.amazonaws.com/wp-content/uploads/2025/11/Esther-1024x576.png",
+      "summary": "What does it mean to speak for the ocean? For Esther Jacobs, a conservation storyteller, mother and campaigner whose journey spans from the cold coasts of Scotland to the vibrant m",
+      "tags": [
+        "Live listing",
+        "Conservation Careers"
+      ],
+      "url": "https://www.conservation-careers.com/interviews/sharks-stories-and-stewardship-how-one-communicator-found-her-calling-beneath-the-surface/",
+      "source": "Conservation Careers · RSS",
+      "listingBoard": "Conservation Careers",
+      "pathwayIds": [
+        "marine-coastal"
+      ],
+      "publishedAt": "2025-11-18T17:31:51.000Z"
+    },
+    {
+      "id": "opp-aHR0cHM6Ly93d3cuY29uc2VydmF0aW9uLWNhcmVlcnMuY29tL3BvZGNhc3QvaGVs",
+      "title": "Podcast | Community-Based Conservation in Action | Helen Gibbons",
+      "organization": "Podcast",
+      "location": "Australia (ACT)",
+      "type": "Entry",
+      "deadline": "Apply soon",
+      "image": "https://conservation-career-stg.s3.amazonaws.com/wp-content/uploads/2025/11/Community-Based-Conservation-in-Action-Helen-Gibbons-1-1024x576.png",
+      "summary": "If you’ve ever wondered how conservation can be truly inclusive, collaborative and community-led — this episode is for you. Today I’m joined by Helen Gibbons, an expert in communit",
+      "tags": [
+        "Live listing",
+        "Conservation Careers"
+      ],
+      "url": "https://www.conservation-careers.com/podcast/helen-gibbons-community-based-conservation/",
+      "source": "Conservation Careers · RSS",
+      "listingBoard": "Conservation Careers",
+      "pathwayIds": [
+        "community-education"
+      ],
+      "publishedAt": "2025-11-16T01:00:01.000Z"
+    },
+    {
+      "id": "opp-aHR0cHM6Ly93d3cuY29uc2VydmF0aW9uLWNhcmVlcnMuY29tL2NvbnNlcnZhdGlv",
+      "title": "Start your conservation story with a bold adventure",
+      "organization": "Conservation Careers",
+      "location": "Australia (NT)",
+      "type": "Entry",
+      "deadline": "Apply soon",
+      "image": "https://conservation-career-stg.s3.amazonaws.com/wp-content/uploads/2025/11/Sizing-featured-images-for-CC-Blog-copy-1024x576.png",
+      "summary": "“Life is either a daring adventure or nothing at all” – Helen Keller. Most conservation careers don’t start with a dream job. They start with one slightly scary, slightly exciting ",
+      "tags": [
+        "Live listing",
+        "Conservation Careers"
+      ],
+      "url": "https://www.conservation-careers.com/conservation-jobs-careers-advice/start-your-conservation-story-with-a-bold-adventure/",
+      "source": "Conservation Careers · RSS",
+      "listingBoard": "Conservation Careers",
+      "pathwayIds": [],
+      "publishedAt": "2025-11-13T17:19:57.000Z"
+    },
+    {
+      "id": "opp-aHR0cHM6Ly93d3cuY29uc2VydmF0aW9uLWNhcmVlcnMuY29tL2ludGVydmlld3Mv",
+      "title": "Beyond science: Traits that drive success in marine conservation",
       "organization": "Conservation Careers",
       "location": "Australia / Remote",
       "type": "Entry",
       "deadline": "Apply soon",
-      "image": "https://images.unsplash.com/photo-1469474968028-56623f02e42e?auto=format&fit=crop&w=1200&q=80",
-      "summary": "Gain key skills in managing and designing conservation projects using the Conservation Standards – the leading approach within the sector. Enrolment is currently open for Conservat",
+      "image": "https://conservation-career-stg.s3.amazonaws.com/wp-content/uploads/2025/11/Alex-OBrien-1024x576.png",
+      "summary": "Protecting the planet requires more than data and fieldwork – it’s resilience, curiosity and connection with local communities that truly make the difference. Marine biologist Alex",
       "tags": [
         "Live listing",
-        "External source"
+        "Conservation Careers"
       ],
-      "url": "https://www.conservation-careers.com/news/open-certificate-in-conservation-standards-project-management-and-design-2/",
-      "source": "Conservation Careers",
-      "publishedAt": "Sun, 01 Mar 2026 14:47:37 +0000"
+      "url": "https://www.conservation-careers.com/interviews/beyond-science-traits-that-drive-success-in-marine-conservation/",
+      "source": "Conservation Careers · RSS",
+      "listingBoard": "Conservation Careers",
+      "pathwayIds": [
+        "marine-coastal",
+        "gis-spatial"
+      ],
+      "publishedAt": "2025-11-11T17:56:24.000Z"
+    },
+    {
+      "id": "opp-aHR0cHM6Ly93d3cuY29uc2VydmF0aW9uLWNhcmVlcnMuY29tL3BvZGNhc3Qva2Vl",
+      "title": "Podcast | Keeping Scotland Beautiful: Leadership, Nature & Community with Barry Fisher",
+      "organization": "Podcast",
+      "location": "Australia (NT)",
+      "type": "Entry",
+      "deadline": "Apply soon",
+      "image": "https://conservation-career-stg.s3.amazonaws.com/wp-content/uploads/2025/10/Keeping-Scotland-Beautiful-Leadership-Nature-Community-with-Barry-Fisher-2-1024x576.png",
+      "summary": "Scotland is a land of breathtaking beauty — from its rugged coasts and misty glens to its rich biodiversity and wild spaces. But like all places we love, it needs care, commitment ",
+      "tags": [
+        "Live listing",
+        "Conservation Careers"
+      ],
+      "url": "https://www.conservation-careers.com/podcast/keep-scotland-beautiful/",
+      "source": "Conservation Careers · RSS",
+      "listingBoard": "Conservation Careers",
+      "pathwayIds": [
+        "ecology-wildlife",
+        "community-education"
+      ],
+      "publishedAt": "2025-11-10T01:01:47.000Z"
+    },
+    {
+      "id": "opp-aHR0cHM6Ly93d3cuY29uc2VydmF0aW9uLWNhcmVlcnMuY29tL3VsdGltYXRlLWd1",
+      "title": "Community-based conservation careers",
+      "organization": "Conservation Careers",
+      "location": "Australia / Remote",
+      "type": "Entry",
+      "deadline": "Apply soon",
+      "image": "https://conservation-career-stg.s3.amazonaws.com/wp-content/uploads/2025/11/Community-based-conservation-careers-1024x576.png",
+      "summary": "Are you passionate about protecting nature with people, not from them? A career in community-based conservation could be your calling. Check out this Ultimate Guide to community-ba",
+      "tags": [
+        "Live listing",
+        "Conservation Careers"
+      ],
+      "url": "https://www.conservation-careers.com/ultimate-guides/community-based-conservation-careers-3/",
+      "source": "Conservation Careers · RSS",
+      "listingBoard": "Conservation Careers",
+      "pathwayIds": [
+        "community-education"
+      ],
+      "publishedAt": "2025-11-06T17:26:34.000Z"
+    },
+    {
+      "id": "opp-aHR0cHM6Ly93d3cuY29uc2VydmF0aW9uLWNhcmVlcnMuY29tL2ludGVydmlld3Mv",
+      "title": "See. Feel. Act. Why storytelling is the new science of conservation",
+      "organization": "Conservation Careers",
+      "location": "Australia (WA)",
+      "type": "Entry",
+      "deadline": "Apply soon",
+      "image": "https://conservation-career-stg.s3.amazonaws.com/wp-content/uploads/2025/11/Casper-1024x576.png",
+      "summary": "What happens when a biologist swaps the microscope for a camera, and discovers that storytelling can be just as powerful as science? From Arctic expeditions to coral reefs, from UN",
+      "tags": [
+        "Live listing",
+        "Conservation Careers"
+      ],
+      "url": "https://www.conservation-careers.com/interviews/see-feel-act-why-storytelling-is-the-new-science-of-conservation/",
+      "source": "Conservation Careers · RSS",
+      "listingBoard": "Conservation Careers",
+      "pathwayIds": [
+        "marine-coastal",
+        "gis-spatial"
+      ],
+      "publishedAt": "2025-11-04T19:18:10.000Z"
+    },
+    {
+      "id": "opp-aHR0cHM6Ly93d3cuY29uc2VydmF0aW9uLWNhcmVlcnMuY29tL3BvZGNhc3QvcG9k",
+      "title": "Podcast | Painting Conservation: Rory McCann on Using Art to Connect People and Wildlife",
+      "organization": "Podcast",
+      "location": "Australia (WA)",
+      "type": "Entry",
+      "deadline": "Apply soon",
+      "image": "https://conservation-career-stg.s3.amazonaws.com/wp-content/uploads/2025/11/Painting-Conservation-Rory-McCann-on-Using-Art-to-Connect-People-and-Wildlife-1024x576.png",
+      "summary": "Hi there, Nick here from Conservation Careers, and welcome to the podcast. When was the last time a piece of art changed how you thought or felt about the natural world? Today’s gu",
+      "tags": [
+        "Live listing",
+        "Conservation Careers"
+      ],
+      "url": "https://www.conservation-careers.com/podcast/podcast-painting-conservation-rory-mccann-on-using-art-to-connect-people-and-wildlife/",
+      "source": "Conservation Careers · RSS",
+      "listingBoard": "Conservation Careers",
+      "pathwayIds": [
+        "ecology-wildlife"
+      ],
+      "publishedAt": "2025-11-03T01:01:15.000Z"
+    },
+    {
+      "id": "opp-aHR0cHM6Ly93d3cuY29uc2VydmF0aW9uLWNhcmVlcnMuY29tL3BvZGNhc3QvcG9k",
+      "title": "Podcast | Is Coaching Right for You? With Kristi Foster of Conservation Careers",
+      "organization": "Podcast",
+      "location": "Australia (NT)",
+      "type": "Mid-senior",
+      "deadline": "Apply soon",
+      "image": "https://conservation-career-stg.s3.amazonaws.com/wp-content/uploads/2025/10/Is-Coaching-Right-for-You-With-Kristi-Foster-of-Conservation-Careers-1024x576.png",
+      "summary": "Have you ever felt stuck, burnt out, or unsure of your next move in your career? In this episode we’re joined by Kristi Foster, Head of Programmes at Conservation Careers and an ex",
+      "tags": [
+        "Live listing",
+        "Conservation Careers"
+      ],
+      "url": "https://www.conservation-careers.com/podcast/podcast-is-coaching-right-for-you-with-kristi-foster-of-conservation-careers/",
+      "source": "Conservation Careers · RSS",
+      "listingBoard": "Conservation Careers",
+      "pathwayIds": [],
+      "publishedAt": "2025-10-27T01:01:19.000Z"
+    },
+    {
+      "id": "opp-aHR0cHM6Ly93d3cuY29uc2VydmF0aW9uLWNhcmVlcnMuY29tL2NvYWNoaW5nL3lv",
+      "title": "Your career path doesn’t exist – Here’s what to do instead",
+      "organization": "Your career path doesn’t exist",
+      "location": "Australia (ACT)",
+      "type": "Entry",
+      "deadline": "Apply soon",
+      "image": "https://conservation-career-stg.s3.amazonaws.com/wp-content/uploads/2025/10/Career-Coaching-Conservation-1024x576.png",
+      "summary": "I once read a book called Nice Girls Don’t Get the Corner Office. It promised to teach women how to act to reach that coveted office with a view – society’s symbol of professional ",
+      "tags": [
+        "Live listing",
+        "Conservation Careers"
+      ],
+      "url": "https://www.conservation-careers.com/coaching/your-career-path-doesnt-exist-heres-what-to-do-instead/",
+      "source": "Conservation Careers · RSS",
+      "listingBoard": "Conservation Careers",
+      "pathwayIds": [],
+      "publishedAt": "2025-10-26T10:00:14.000Z"
+    },
+    {
+      "id": "opp-aHR0cHM6Ly93d3cuY29uc2VydmF0aW9uLWNhcmVlcnMuY29tL3dlYmluYXJzL3dl",
+      "title": "Webinar | Mastering postgraduate applications & winning scholarships",
+      "organization": "Webinar",
+      "location": "International",
+      "type": "Grant",
+      "deadline": "Apply soon",
+      "image": "https://conservation-career-stg.s3.amazonaws.com/wp-content/uploads/2025/10/Webinar-Mastering-postgraduate-applications-winning-scholarships-1024x576.png",
+      "summary": "Learn proven strategies for gaining postgraduate admission and securing scholarships with our guest Leo Nyein Zaw Ko, a multi-scholarship winner in the US, UK and Singapore. Learn ",
+      "tags": [
+        "Live listing",
+        "Conservation Careers"
+      ],
+      "url": "https://www.conservation-careers.com/webinars/webinar-mastering-postgraduate-applications-winning-scholarships-2/",
+      "source": "Conservation Careers · RSS",
+      "listingBoard": "Conservation Careers",
+      "pathwayIds": [],
+      "publishedAt": "2025-10-22T01:01:15.000Z"
+    },
+    {
+      "id": "opp-aHR0cHM6Ly9lY29qb2JzLmNvbS9jYWxpZm9ybmlhcy13YXRlci1jb25zZXJ2YXRp",
+      "title": "California’s Water Conservation Initiatives: Navigating Drought Challenges",
+      "organization": "EcoJobs",
+      "location": "Australia (WA)",
+      "type": "Entry",
+      "deadline": "Apply soon",
+      "summary": "California, often revered for its picturesque landscapes and diverse ecosystems, faces a formidable adversary: drought. The Golden State’s water resources have long been strained b",
+      "tags": [
+        "Live listing",
+        "EcoJobs"
+      ],
+      "url": "https://ecojobs.com/californias-water-conservation-initiatives-navigating-drought-challenges/",
+      "source": "EcoJobs · RSS",
+      "listingBoard": "EcoJobs",
+      "pathwayIds": [],
+      "publishedAt": "2025-06-19T15:24:00.000Z",
+      "image": "https://ecojobs.com/wp-content/uploads/2021/05/wplogo-rectangle.png"
+    },
+    {
+      "id": "opp-aHR0cHM6Ly9lY29qb2JzLmNvbS9jb25zZXJ2YXRpb24tY2FyZWVycy1wcm90ZWN0",
+      "title": "Conservation Careers: Protecting Biodiversity and Ecosystems",
+      "organization": "EcoJobs",
+      "location": "Australia (NT)",
+      "type": "Entry",
+      "deadline": "Apply soon",
+      "summary": "For those passionate about the environment and driven to make a tangible difference in the world, a career in conservation offers an opportunity to protect biodiversity, preserve e",
+      "tags": [
+        "Live listing",
+        "EcoJobs"
+      ],
+      "url": "https://ecojobs.com/conservation-careers-protecting-biodiversity-and-ecosystems/",
+      "source": "EcoJobs · RSS",
+      "listingBoard": "EcoJobs",
+      "pathwayIds": [
+        "ecology-wildlife"
+      ],
+      "publishedAt": "2025-05-19T14:04:00.000Z",
+      "image": "https://ecojobs.com/wp-content/uploads/2021/05/wplogo-rectangle.png"
+    },
+    {
+      "id": "opp-aHR0cHM6Ly9lY29qb2JzLmNvbS9lbXBsb3llZS1lbmdhZ2VtZW50LWZvci1lbnZp",
+      "title": "Employee Engagement for Environmental Impact: Green Team Initiatives",
+      "organization": "EcoJobs",
+      "location": "Australia (NT)",
+      "type": "Entry",
+      "deadline": "Apply soon",
+      "summary": "In today’s world, environmental sustainability is no longer just a buzzword—it’s a critical imperative for businesses across all sectors. As companies strive to reduce their carbon",
+      "tags": [
+        "Live listing",
+        "EcoJobs"
+      ],
+      "url": "https://ecojobs.com/employee-engagement-for-environmental-impact-green-team-initiatives/",
+      "source": "EcoJobs · RSS",
+      "listingBoard": "EcoJobs",
+      "pathwayIds": [
+        "climate-energy",
+        "community-education"
+      ],
+      "publishedAt": "2025-04-19T14:58:00.000Z",
+      "image": "https://ecojobs.com/wp-content/uploads/2021/05/wplogo-rectangle.png"
+    },
+    {
+      "id": "opp-aHR0cHM6Ly9lY29qb2JzLmNvbS9yZXZpdGFsaXppbmctdGhlLWNoZXNhcGVha2Ut",
+      "title": "Revitalizing the Chesapeake Bay: A Model for Coastal Restoration",
+      "organization": "EcoJobs",
+      "location": "Australia (SA)",
+      "type": "Entry",
+      "deadline": "Apply soon",
+      "summary": "Nestled along the eastern coast of the United States lies a treasure trove of natural beauty and ecological significance: the Chesapeake Bay. Stretching over 200 miles, the Chesape",
+      "tags": [
+        "Live listing",
+        "EcoJobs"
+      ],
+      "url": "https://ecojobs.com/revitalizing-the-chesapeake-bay-a-model-for-coastal-restoration/",
+      "source": "EcoJobs · RSS",
+      "listingBoard": "EcoJobs",
+      "pathwayIds": [
+        "bush-regen",
+        "ecology-wildlife",
+        "marine-coastal"
+      ],
+      "publishedAt": "2025-04-09T14:57:00.000Z"
+    },
+    {
+      "id": "opp-aHR0cHM6Ly9lY29qb2JzLmNvbS9uYXZpZ2F0aW5nLWVudmlyb25tZW50YWwtcG9s",
+      "title": "Navigating Environmental Policy: Careers in Advocacy and Regulation",
+      "organization": "EcoJobs",
+      "location": "Australia (NT)",
+      "type": "Entry",
+      "deadline": "Apply soon",
+      "summary": "In the face of escalating environmental challenges, the role of environmental policy professionals has never been more critical. From advocating for stronger regulations to analyzi",
+      "tags": [
+        "Live listing",
+        "EcoJobs"
+      ],
+      "url": "https://ecojobs.com/navigating-environmental-policy-careers-in-advocacy-and-regulation/",
+      "source": "EcoJobs · RSS",
+      "listingBoard": "EcoJobs",
+      "pathwayIds": [
+        "policy-planning"
+      ],
+      "publishedAt": "2025-03-26T12:34:00.000Z"
+    },
+    {
+      "id": "opp-aHR0cHM6Ly9lY29qb2JzLmNvbS9jcmVhdGluZy1hLXN1c3RhaW5hYmxlLXdvcmtw",
+      "title": "Creating a Sustainable Workplace: Environmental Initiatives for Companies",
+      "organization": "EcoJobs",
+      "location": "Australia (NT)",
+      "type": "Mid-senior",
+      "deadline": "Apply soon",
+      "summary": "In an era where environmental consciousness is at the forefront of global concerns, companies operating in the environmental field must lead by example. Creating a sustainable work",
+      "tags": [
+        "Live listing",
+        "EcoJobs"
+      ],
+      "url": "https://ecojobs.com/creating-a-sustainable-workplace-environmental-initiatives-for-companies/",
+      "source": "EcoJobs · RSS",
+      "listingBoard": "EcoJobs",
+      "pathwayIds": [],
+      "publishedAt": "2025-03-04T13:18:00.000Z"
+    },
+    {
+      "id": "opp-aHR0cHM6Ly9lY29qb2JzLmNvbS90aGUtcmlzZS1vZi1ncmVlbi10ZWNobm9sb2d5",
+      "title": "The Rise of Green Technology: Jobs Shaping a Sustainable Future",
+      "organization": "EcoJobs",
+      "location": "Australia (WA)",
+      "type": "Entry",
+      "deadline": "Apply soon",
+      "summary": "In recent years, there has been a significant surge in global awareness regarding environmental issues, prompting a shift towards sustainable practices. This shift is not only infl",
+      "tags": [
+        "Live listing",
+        "EcoJobs"
+      ],
+      "url": "https://ecojobs.com/the-rise-of-green-technology-jobs-shaping-a-sustainable-future/",
+      "source": "EcoJobs · RSS",
+      "listingBoard": "EcoJobs",
+      "pathwayIds": [],
+      "publishedAt": "2025-02-20T13:00:00.000Z"
+    },
+    {
+      "id": "opp-aHR0cHM6Ly9lY29qb2JzLmNvbS90aGUtc3VjY2Vzcy1zdG9yeS1vZi15ZWxsb3dz",
+      "title": "The Success Story of Yellowstone National Park’s Gray Wolf Reintroduction",
+      "organization": "EcoJobs",
+      "location": "Australia (NT)",
+      "type": "Entry",
+      "deadline": "Apply soon",
+      "summary": "Yellowstone National Park, a symbol of untamed wilderness and natural beauty, has a success story that echoes through the vast landscapes of conservation efforts — the reintroducti",
+      "tags": [
+        "Live listing",
+        "EcoJobs"
+      ],
+      "url": "https://ecojobs.com/the-success-story-of-yellowstone-national-parks-gray-wolf-reintroduction/",
+      "source": "EcoJobs · RSS",
+      "listingBoard": "EcoJobs",
+      "pathwayIds": [
+        "fire-land-management"
+      ],
+      "publishedAt": "2025-02-06T14:49:00.000Z"
+    },
+    {
+      "id": "opp-aHR0cHM6Ly9lY29qb2JzLmNvbS9idWlsZGluZy1hLWdyZWVuLXdvcmtmb3JjZS1z",
+      "title": "Building a Green Workforce: Strategies for Hiring Environmental Professionals",
+      "organization": "EcoJobs",
+      "location": "Australia (NT)",
+      "type": "Entry",
+      "deadline": "Apply soon",
+      "summary": "As the world grapples with pressing environmental challenges, the need for a skilled and passionate green workforce has never been more critical. Employers in the environmental sec",
+      "tags": [
+        "Live listing",
+        "EcoJobs"
+      ],
+      "url": "https://ecojobs.com/building-a-green-workforce-strategies-for-hiring-environmental-professionals/",
+      "source": "EcoJobs · RSS",
+      "listingBoard": "EcoJobs",
+      "pathwayIds": [],
+      "publishedAt": "2025-01-30T11:29:00.000Z"
+    },
+    {
+      "id": "opp-aHR0cHM6Ly9lY29qb2JzLmNvbS9icmVhdGhpbmctZWFzeS10aGUtdW5pdGVkLXN0",
+      "title": "Breathing Easy: The United States’ Remarkable Effort in Air Quality Conservation",
+      "organization": "EcoJobs",
+      "location": "Australia (NT)",
+      "type": "Entry",
+      "deadline": "Apply soon",
+      "summary": "In the pursuit of a healthier and more sustainable future, the United States has embarked on a commendable conservation effort to tackle one of the most pressing environmental chal",
+      "tags": [
+        "Live listing",
+        "EcoJobs"
+      ],
+      "url": "https://ecojobs.com/breathing-easy-the-united-states-remarkable-effort-in-air-quality-conservation/",
+      "source": "EcoJobs · RSS",
+      "listingBoard": "EcoJobs",
+      "pathwayIds": [],
+      "publishedAt": "2025-01-05T11:53:00.000Z"
     },
     {
       "id": "opp-seed-1",
@@ -453,7 +2666,6 @@
       "location": "Multiple locations, AU",
       "type": "Volunteer",
       "deadline": "Always open",
-      "image": "https://images.unsplash.com/photo-1501004318641-b39e6451bec6?auto=format&fit=crop&w=1200&q=80",
       "summary": "Join local habitat restoration projects and practical conservation days.",
       "tags": [
         "Volunteer",
@@ -462,53 +2674,495 @@
       ],
       "url": "https://landcareaustralia.org.au/",
       "source": "Landcare Australia",
-      "publishedAt": "2026-04-17T10:18:19.298Z"
+      "publishedAt": "2026-01-15T00:00:00.000Z"
+    },
+    {
+      "id": "opp-seed-grad-ghd",
+      "title": "Graduate Program — Environment & Earth Sciences",
+      "organization": "GHD",
+      "location": "Brisbane, Sydney, Melbourne, Perth · AU",
+      "type": "Graduate",
+      "deadline": "Rolling annual intake",
+      "summary": "Structured rotations across contaminated land, water, EIA, and sustainability teams. Mentoring, chartership pathways, and multi-disciplinary projects.",
+      "tags": [
+        "Graduate",
+        "Consulting",
+        "Environmental science"
+      ],
+      "url": "https://www.ghd.com/en/careers/early-careers",
+      "source": "EcoVerse curated",
+      "publishedAt": "2026-02-01T00:00:00.000Z"
+    },
+    {
+      "id": "opp-seed-grad-aecom",
+      "title": "Australia Students & Graduates — Sustainability & Environment",
+      "organization": "AECOM",
+      "location": "Australia-wide",
+      "type": "Graduate",
+      "deadline": "Check intake dates",
+      "summary": "Graduate pathways in environmental planning, impact assessment, resilience, and remediation. Work on major infrastructure and net-zero programs.",
+      "tags": [
+        "Graduate",
+        "EIA",
+        "Sustainability"
+      ],
+      "url": "https://aecom.com/careers/australia-students-and-graduates",
+      "source": "EcoVerse curated",
+      "publishedAt": "2026-02-10T00:00:00.000Z"
+    },
+    {
+      "id": "opp-seed-grad-wsp",
+      "title": "Graduate Program — Environment & Planning",
+      "organization": "WSP in Australia",
+      "location": "Major cities, AU",
+      "type": "Graduate",
+      "deadline": "Annual campaign",
+      "summary": "Graduate roles spanning ecology, approvals, contaminated sites, and climate adaptation on transport, water, and urban projects.",
+      "tags": [
+        "Graduate",
+        "Consulting",
+        "Planning"
+      ],
+      "url": "https://www.wsp.com/en-au/careers",
+      "source": "EcoVerse curated",
+      "publishedAt": "2026-02-12T00:00:00.000Z"
+    },
+    {
+      "id": "opp-seed-grad-arup",
+      "title": "Graduate — Sustainability & Climate (Australia)",
+      "organization": "Arup",
+      "location": "Sydney, Melbourne, Brisbane",
+      "type": "Graduate",
+      "deadline": "Intake varies",
+      "summary": "Sustainability consulting, climate risk, circular economy, and environmental performance on buildings and infrastructure.",
+      "tags": [
+        "Graduate",
+        "Climate",
+        "Consulting"
+      ],
+      "url": "https://www.arup.com/careers/early-careers",
+      "source": "EcoVerse curated",
+      "publishedAt": "2026-02-15T00:00:00.000Z"
+    },
+    {
+      "id": "opp-seed-entry-jacobs",
+      "title": "Environmental Scientist — Early Career (Consulting)",
+      "organization": "Jacobs",
+      "location": "Australia",
+      "type": "Entry",
+      "deadline": "Open listings",
+      "summary": "Field and desk work on impact assessment, monitoring, and compliance for resources, defence, and water clients.",
+      "tags": [
+        "Environmental science",
+        "Consulting",
+        "EIA"
+      ],
+      "url": "https://jacobs.taleo.net/",
+      "source": "EcoVerse curated",
+      "publishedAt": "2026-03-01T00:00:00.000Z"
+    },
+    {
+      "id": "opp-seed-entry-tetra",
+      "title": "Graduate / Junior Consultant — Contaminated Land",
+      "organization": "Tetra Tech",
+      "location": "Sydney · Melbourne",
+      "type": "Graduate",
+      "deadline": "As advertised",
+      "summary": "Site investigations, groundwater, remediation design, and reporting under senior consultants. Strong fit for env. science grads.",
+      "tags": [
+        "Graduate",
+        "Contaminated land",
+        "Consulting"
+      ],
+      "url": "https://www.tetratech.com/en/careers",
+      "source": "EcoVerse curated",
+      "publishedAt": "2026-03-05T00:00:00.000Z"
+    },
+    {
+      "id": "opp-seed-grad-ey",
+      "title": "Graduate — Climate Change & Sustainability Services",
+      "organization": "EY Australia",
+      "location": "Sydney, Melbourne, Brisbane",
+      "type": "Graduate",
+      "deadline": "Graduate recruitment window",
+      "summary": "ESG disclosure, climate risk, decarbonisation, and nature-related advisory for ASX and government clients.",
+      "tags": [
+        "Graduate",
+        "ESG",
+        "Consulting"
+      ],
+      "url": "https://www.ey.com/en_au/careers/students-and-graduates",
+      "source": "EcoVerse curated",
+      "publishedAt": "2026-03-08T00:00:00.000Z"
+    },
+    {
+      "id": "opp-seed-grad-deloitte",
+      "title": "Graduate — Sustainability & Climate Engineering",
+      "organization": "Deloitte Australia",
+      "location": "Australia",
+      "type": "Graduate",
+      "deadline": "Graduate program cycle",
+      "summary": "Climate modelling support, net-zero strategy, sustainable finance, and environmental assurance projects in multidisciplinary teams.",
+      "tags": [
+        "Graduate",
+        "Climate",
+        "Consulting"
+      ],
+      "url": "https://www2.deloitte.com/au/en/pages/careers/topics/graduates.html",
+      "source": "EcoVerse curated",
+      "publishedAt": "2026-03-10T00:00:00.000Z"
+    },
+    {
+      "id": "opp-seed-research-csiro",
+      "title": "CSIRO Early Research Career / Postdoctoral Pathways",
+      "organization": "CSIRO",
+      "location": "Australia",
+      "type": "Research",
+      "deadline": "Rolling",
+      "summary": "Environmental science, land and water, oceans, and climate teams — research support roles and postdoc opportunities across national labs.",
+      "tags": [
+        "Research",
+        "Environmental science",
+        "Graduate"
+      ],
+      "url": "https://www.csiro.au/en/careers",
+      "source": "EcoVerse curated",
+      "publishedAt": "2026-03-12T00:00:00.000Z"
+    },
+    {
+      "id": "opp-seed-grad-aps",
+      "title": "Australian Government Graduate Program — Environment Stream",
+      "organization": "Australian Public Service",
+      "location": "Canberra · national",
+      "type": "Graduate",
+      "deadline": "Annual campaign",
+      "summary": "Rotations in environment, climate, agriculture, and water policy. Policy analysis, legislation, and program delivery.",
+      "tags": [
+        "Graduate",
+        "Policy",
+        "Public sector"
+      ],
+      "url": "https://www.apsjobs.gov.au/",
+      "source": "EcoVerse curated",
+      "publishedAt": "2026-03-15T00:00:00.000Z"
+    },
+    {
+      "id": "opp-seed-grad-nsw",
+      "title": "NSW Government Graduate Program — Environment & Heritage",
+      "organization": "NSW Government",
+      "location": "Sydney · regional NSW",
+      "type": "Graduate",
+      "deadline": "See NSW jobs",
+      "summary": "Graduate roles in national parks, biodiversity, planning, and compliance — mix of policy and operational delivery.",
+      "tags": [
+        "Graduate",
+        "Government",
+        "Environmental science"
+      ],
+      "url": "https://www.nsw.gov.au/working-for-nsw",
+      "source": "EcoVerse curated",
+      "publishedAt": "2026-03-18T00:00:00.000Z"
+    },
+    {
+      "id": "opp-seed-intern-unsw",
+      "title": "Environmental Science — Honours & Industry Placement Partners",
+      "organization": "Australian universities (example pathway)",
+      "location": "NSW · VIC · QLD",
+      "type": "Internship",
+      "deadline": "Semester-based",
+      "summary": "Course-linked placements with consultancies and regulators — use your faculty’s careers office to match environmental science and consulting projects.",
+      "tags": [
+        "Internship",
+        "Environmental science",
+        "Students"
+      ],
+      "url": "https://www.unsw.edu.au/",
+      "source": "EcoVerse curated",
+      "publishedAt": "2026-03-20T00:00:00.000Z"
     }
   ],
   "events": [
     {
-      "id": "event-seed-1",
-      "title": "National Landcare Conference",
+      "id": "event-seed-nsw-landcare-2026",
+      "title": "NSW Landcare and Local Land Services Conference 2026",
+      "host": "Landcare NSW & Local Land Services",
+      "date": "2026-10-27",
+      "format": "In person",
+      "location": "Corowa, NSW",
+      "summary": "Regional conference for Landcare groups, farmers, and volunteers — workshops, field trips, and networking (typically late October; confirm dates on the organiser site).",
+      "url": "https://nswlandcareconference.com.au/",
+      "source": "Landcare NSW",
+      "publishedAt": "2025-09-01T00:00:00.000Z"
+    },
+    {
+      "id": "event-seed-national-landcare-2027",
+      "title": "National Landcare Conference 2027",
       "host": "Landcare Australia",
-      "date": "See event schedule",
+      "date": "2027-09-06",
       "format": "Hybrid",
-      "location": "Australia",
-      "image": "https://images.unsplash.com/photo-1511578314322-379afb476865?auto=format&fit=crop&w=1200&q=80",
-      "summary": "Conference sessions on ecosystem restoration, policy, and community engagement.",
-      "url": "https://landcareaustralia.org.au/events/",
+      "location": "Adelaide Convention Centre, SA",
+      "summary": "National forum for community Landcare, agriculture, and restoration — multi-day program (public schedule: early September 2027 in Adelaide).",
+      "url": "https://nationallandcareconference.org.au/",
       "source": "Landcare Australia",
-      "publishedAt": "2026-04-17T10:18:19.300Z"
+      "publishedAt": "2025-09-01T00:00:00.000Z"
+    },
+    {
+      "id": "event-seed-ozwater-2026",
+      "title": "Ozwater 2026",
+      "host": "Australian Water Association",
+      "date": "2026-05-05",
+      "format": "In person",
+      "location": "Melbourne Convention Centre, VIC",
+      "summary": "Australia’s flagship water conference — technical papers, careers fair, and student sessions.",
+      "url": "https://www.awa.asn.au/",
+      "source": "Australian Water Association",
+      "publishedAt": "2025-10-01T00:00:00.000Z"
+    },
+    {
+      "id": "event-seed-clean-energy-2026",
+      "title": "Clean Energy Summit 2026",
+      "host": "Clean Energy Council",
+      "date": "2026-07-21",
+      "format": "In person",
+      "location": "Sydney, NSW",
+      "summary": "Policy, finance, and technology sessions across renewable energy and storage — major networking for graduates and career changers.",
+      "url": "https://www.cleanenergycouncil.org.au/",
+      "source": "Clean Energy Council",
+      "publishedAt": "2025-10-15T00:00:00.000Z"
+    },
+    {
+      "id": "event-seed-eianz-2026",
+      "title": "EIANZ Annual Conference 2026",
+      "host": "Environment Institute of Australia and New Zealand",
+      "date": "2026-11-12",
+      "format": "Hybrid",
+      "location": "Brisbane, QLD",
+      "summary": "Professional development, technical streams, and early-career meetups for environmental practitioners.",
+      "url": "https://www.eianz.org/",
+      "source": "EIANZ",
+      "publishedAt": "2025-08-01T00:00:00.000Z"
+    },
+    {
+      "id": "event-seed-esa-2026",
+      "title": "Ecological Society of Australia Conference 2026",
+      "host": "Ecological Society of Australia",
+      "date": "2026-11-24",
+      "format": "In person",
+      "location": "Perth, WA",
+      "summary": "Research talks, field excursions, and student awards spanning Australian ecology and conservation science.",
+      "url": "https://www.ecolsoc.org.au/",
+      "source": "Ecological Society of Australia",
+      "publishedAt": "2025-07-01T00:00:00.000Z"
+    },
+    {
+      "id": "event-seed-wed-2026",
+      "title": "World Environment Day — Community planting & talks",
+      "host": "Council & Landcare networks (various)",
+      "date": "2026-06-05",
+      "format": "In person",
+      "location": "Multiple cities, AU",
+      "summary": "Local councils and groups host planting days, clean-ups, and sustainability talks — check your nearest council.",
+      "url": "https://www.unep.org/",
+      "source": "EcoVerse curated",
+      "publishedAt": "2025-12-01T00:00:00.000Z"
+    },
+    {
+      "id": "event-seed-national-tree-day-2026",
+      "title": "National Tree Day — community planting",
+      "host": "Planet Ark & partners",
+      "date": "2026-07-26",
+      "format": "In person",
+      "location": "Nationwide, AU",
+      "summary": "Volunteer planting weekends — ideal for students building practical conservation experience.",
+      "url": "https://treeday.planetark.org/",
+      "source": "Planet Ark",
+      "publishedAt": "2025-11-01T00:00:00.000Z"
+    },
+    {
+      "id": "event-seed-reef-restoration-2026",
+      "title": "Coral reef restoration & monitoring field school",
+      "host": "James Cook University / partners",
+      "date": "2026-09-14",
+      "format": "In person",
+      "location": "Townsville, QLD",
+      "summary": "Hands-on weeks for marine science students — snorkel surveys, lab skills, and career pathways in reef management.",
+      "url": "https://www.jcu.edu.au/",
+      "source": "EcoVerse curated",
+      "publishedAt": "2025-10-20T00:00:00.000Z"
+    },
+    {
+      "id": "event-seed-carbon-webinar-2026",
+      "title": "Carbon markets & biodiversity credits — intro webinar",
+      "host": "Carbon Market Institute",
+      "date": "2026-04-08",
+      "format": "Online",
+      "location": "Online",
+      "summary": "Free webinar for graduates on how carbon and nature markets work in Australia.",
+      "url": "https://carbonmarketinstitute.org/",
+      "source": "Carbon Market Institute",
+      "publishedAt": "2026-01-10T00:00:00.000Z"
+    },
+    {
+      "id": "event-seed-bushfire-resilience-2026",
+      "title": "Community bushfire resilience & cultural burning forum",
+      "host": "Regional NRM / Fire agencies (example)",
+      "date": "2026-08-19",
+      "format": "Hybrid",
+      "location": "Bega, NSW",
+      "summary": "Panel on preparedness, Indigenous cultural burning, and environmental careers in fire-adapted landscapes.",
+      "url": "https://www.rfs.nsw.gov.au/",
+      "source": "EcoVerse curated",
+      "publishedAt": "2025-11-15T00:00:00.000Z"
+    },
+    {
+      "id": "event-seed-wetland-field-day-2026",
+      "title": "Wetland bird ID & water quality field day",
+      "host": "BirdLife Australia & local catchment group",
+      "date": "2026-05-17",
+      "format": "In person",
+      "location": "Werribee, VIC",
+      "summary": "Volunteer training day — surveying, water testing, and pathways into ecology and catchment roles.",
+      "url": "https://www.birdlife.org.au/",
+      "source": "BirdLife Australia",
+      "publishedAt": "2025-12-10T00:00:00.000Z"
+    },
+    {
+      "id": "event-seed-climate-careers-night-2026",
+      "title": "Climate careers night — startups & policy",
+      "host": "Climate Salad",
+      "date": "2026-10-29",
+      "format": "In person",
+      "location": "Carlton, VIC",
+      "summary": "Meet hiring teams from climate tech and advocacy — student-friendly networking.",
+      "url": "https://www.climatesalad.com/",
+      "source": "Climate Salad",
+      "publishedAt": "2025-09-20T00:00:00.000Z"
+    },
+    {
+      "id": "event-seed-student-sustainability-2026",
+      "title": "Student sustainability showcase & careers fair",
+      "host": "UNSW Sustainability Society",
+      "date": "2026-11-15",
+      "format": "In person",
+      "location": "UNSW Sydney, NSW",
+      "summary": "Student projects expo plus employer stalls across consulting, government, and NGOs.",
+      "url": "https://www.unsw.edu.au/",
+      "source": "EcoVerse curated",
+      "publishedAt": "2025-08-15T00:00:00.000Z"
+    },
+    {
+      "id": "event-aHR0cHM6Ly93d3cucmZzLm5zdy5nb3YuYXUvZmlyZS1pbmZvcm1hdA",
+      "title": "No Major Fires",
+      "host": "NSW RFS Major Fire Updates",
+      "date": "16 Feb 2026",
+      "format": "In person",
+      "location": "Australia / Online",
+      "summary": "There are currently no Major Fire Updates. If you see a fire without a fire truck in attendance please call Triple Zero (000).",
+      "url": "https://www.rfs.nsw.gov.au/fire-information/major-fire-updates/",
+      "source": "NSW RFS Major Fire Updates",
+      "publishedAt": "2026-02-16T02:00:00.000Z"
     }
   ],
   "memberships": [
     {
-      "id": "member-1",
+      "id": "member-aHR0cHM6Ly93d3cuZW",
       "organization": "Environment Institute of Australia and New Zealand",
-      "type": "Student & Professional Membership",
-      "benefits": "Events, mentoring programs, member rates, and national professional network access.",
+      "type": "Membership",
+      "benefits": "Membership includes environmental community updates, events, and networking opportunities.",
       "joinLink": "https://www.eianz.org/membership"
     },
     {
-      "id": "member-2",
+      "id": "member-aHR0cHM6Ly9sYW5kYW",
       "organization": "Australasian Land and Groundwater Association",
-      "type": "Emerging Professionals Membership",
-      "benefits": "Technical sessions, conference discounts, and career development workshops.",
+      "type": "Membership",
+      "benefits": "Membership includes environmental community updates, events, and networking opportunities.",
       "joinLink": "https://landandgroundwater.com/membership"
+    },
+    {
+      "id": "member-aHR0cHM6Ly93d3cuZW",
+      "organization": "Ecological Society of Australia",
+      "type": "Membership",
+      "benefits": "Membership includes environmental community updates, events, and networking opportunities.",
+      "joinLink": "https://www.ecolsoc.org.au/membership/"
+    },
+    {
+      "id": "member-aHR0cHM6Ly93d3cuYW",
+      "organization": "Australian Marine Sciences Association",
+      "type": "Membership",
+      "benefits": "Membership includes environmental community updates, events, and networking opportunities.",
+      "joinLink": "https://www.amsa.asn.au/membership/"
+    },
+    {
+      "id": "member-aHR0cHM6Ly93d3cuc2",
+      "organization": "Soil Science Australia",
+      "type": "Membership",
+      "benefits": "Become a Soil Science member today to build your network, advance your career and further the field of soil science.",
+      "joinLink": "https://www.soilscienceaustralia.org.au/membership"
+    },
+    {
+      "id": "member-aHR0cHM6Ly93d3cuYX",
+      "organization": "Australian Water Association",
+      "type": "Student & Professional Membership",
+      "benefits": "Join Australia’s largest water industry professionals network as an individual or an organisation. Ask the AWA.",
+      "joinLink": "https://www.awa.asn.au/Membership"
+    },
+    {
+      "id": "member-aHR0cHM6Ly93d3cuYW",
+      "organization": "Australian Association for Environmental Education",
+      "type": "Membership",
+      "benefits": "Membership includes environmental community updates, events, and networking opportunities.",
+      "joinLink": "https://www.aaee.org.au/join-now/"
+    },
+    {
+      "id": "member-aHR0cHM6Ly93d3cud2",
+      "organization": "Waste Management and Resource Recovery Association of Australia",
+      "type": "Membership",
+      "benefits": "Membership includes environmental community updates, events, and networking opportunities.",
+      "joinLink": "https://www.wmrr.asn.au/Web/Web/Join_WMRR/Become_a_Member.aspx"
+    },
+    {
+      "id": "member-aHR0cHM6Ly93d3cuZW",
+      "organization": "Environmental Health Australia",
+      "type": "Membership",
+      "benefits": "Membership includes environmental community updates, events, and networking opportunities.",
+      "joinLink": "https://www.eh.org.au/membership"
+    },
+    {
+      "id": "member-aHR0cHM6Ly93d3cuaX",
+      "organization": "Institute of Public Works Engineering Australasia",
+      "type": "Membership",
+      "benefits": "Membership includes environmental community updates, events, and networking opportunities.",
+      "joinLink": "https://www.ipwea.org/membership"
+    },
+    {
+      "id": "member-aHR0cHM6Ly93d3cuYm",
+      "organization": "BirdLife Australia",
+      "type": "Membership",
+      "benefits": "Sign up for a BirdLife Australia membership and help shape our future",
+      "joinLink": "https://www.birdlife.org.au/support-us/join-us/"
+    },
+    {
+      "id": "member-aHR0cHM6Ly93d3cuY2",
+      "organization": "Clean Energy Council",
+      "type": "Membership",
+      "benefits": "CEC members play a pivotal role in Australia&#x27;s renewable energy movement. Learn more about Clean Energy Council membership. Become a member.",
+      "joinLink": "https://www.cleanenergycouncil.org.au/membership"
+    },
+    {
+      "id": "member-aHR0cHM6Ly93d3cuYW",
+      "organization": "Australian Institute of Landscape Architects",
+      "type": "Student & Professional Membership",
+      "benefits": "Why join? Do what you couldn’t do alone.  Join the largest community of landscape architects in Australia. Our members benefit from professional development, recognition, and acces",
+      "joinLink": "https://www.aila.org.au/membership"
+    },
+    {
+      "id": "member-aHR0cHM6Ly93d3cucG",
+      "organization": "Planning Institute of Australia",
+      "type": "Membership",
+      "benefits": "Read to join? Learn how you can become a member, what membership grade you’re eligible for and a breakdown of membership fees.",
+      "joinLink": "https://www.planning.org.au/membership"
     }
   ],
-  "lastRefreshedAt": "2026-04-17T10:18:32.820Z",
-  "sourceErrors": [
-    {
-      "source": "Environmentjob",
-      "message": "Status code 404"
-    },
-    {
-      "source": "IUCN News",
-      "message": "Status code 404"
-    },
-    {
-      "source": "WWF Australia",
-      "message": "Status code 404"
-    }
-  ]
+  "lastRefreshedAt": "2026-04-20T06:36:15.171Z",
+  "sourceErrors": []
 }

@@ -10,11 +10,17 @@ type ContentResponse = {
   sourceErrors: Array<{ source: string; message: string }>;
 };
 
-const API_BASE = import.meta.env.VITE_API_BASE_URL || "http://localhost:8787";
+/** In dev, prefer same-origin `/api` so Vite can proxy to the Express server (avoids cross-origin quirks). */
+function contentEndpoint(): string {
+  const explicit = import.meta.env.VITE_API_BASE_URL?.replace(/\/$/, "");
+  if (explicit) return `${explicit}/api/content`;
+  if (import.meta.env.DEV) return "/api/content";
+  return "http://localhost:8787/api/content";
+}
 
 export async function fetchLiveContent(): Promise<ContentResponse> {
   try {
-    const response = await fetch(`${API_BASE}/api/content`);
+    const response = await fetch(contentEndpoint());
     if (!response.ok) {
       throw new Error(`Content request failed (${response.status})`);
     }

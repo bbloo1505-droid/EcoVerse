@@ -9,6 +9,13 @@ lerna-debug.log*
 
 node_modules
 dist
+
+# User-generated community tips (created at runtime)
+backend/cache/community_tips.json
+
+# Community hero photos + metadata
+backend/cache/hero_photos_meta.json
+backend/cache/hero_uploads/
 dist-ssr
 *.local
 .env

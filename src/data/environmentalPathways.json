@@ -1,0 +1,125 @@
+{
+  "categories": [
+    {
+      "id": "bush-regen",
+      "label": "Bush regeneration & restoration",
+      "keywords": [
+        "bush",
+        "regenerat",
+        "restoration",
+        "revegetat",
+        "habitat",
+        "landcare",
+        "remnant",
+        "weed",
+        "bushcare"
+      ]
+    },
+    {
+      "id": "consulting",
+      "label": "Environmental consulting",
+      "keywords": [
+        "consult",
+        "consulting",
+        "eia",
+        "impact assessment",
+        "environmental scientist",
+        "esg",
+        "advisory",
+        "sustainability service",
+        "remediation design"
+      ]
+    },
+    {
+      "id": "ecology-wildlife",
+      "label": "Animal ecology & wildlife",
+      "keywords": [
+        "ecolog",
+        "wildlife",
+        "fauna",
+        "threatened species",
+        "zoology",
+        "ornithology",
+        "survey",
+        "biodiversity"
+      ]
+    },
+    {
+      "id": "marine-coastal",
+      "label": "Marine & coastal",
+      "keywords": ["marine", "coastal", "ocean", "reef", "estuary", "fisheries", "aquatic", "saltmarsh"]
+    },
+    {
+      "id": "climate-energy",
+      "label": "Climate & renewable energy",
+      "keywords": [
+        "climate",
+        "renewable",
+        "decarbon",
+        "carbon",
+        "solar",
+        "wind",
+        "energy transition",
+        "net zero",
+        "emissions"
+      ]
+    },
+    {
+      "id": "water-hydrology",
+      "label": "Water & hydrology",
+      "keywords": ["hydrolog", "catchment", "river", "wetland", "groundwater", "stormwater", "water quality"]
+    },
+    {
+      "id": "soil-contamination",
+      "label": "Soil & contaminated land",
+      "keywords": ["soil", "contaminat", "landfill", "asbestos", "site investigation", "cpss", "acid sulfate"]
+    },
+    {
+      "id": "fire-land-management",
+      "label": "Fire & land management",
+      "keywords": ["fire", "bushfire", "burning", "ranger", "indigenous land", "cultural burn", "park"]
+    },
+    {
+      "id": "policy-planning",
+      "label": "Policy & planning",
+      "keywords": ["policy", "planning", "legislation", "government", "regulation", "strategic", "compliance"]
+    },
+    {
+      "id": "agriculture-food",
+      "label": "Agriculture & food systems",
+      "keywords": ["agricultur", "agronomy", "farm", "food system", "pastoral", "grazing"]
+    },
+    {
+      "id": "waste-circular",
+      "label": "Waste & circular economy",
+      "keywords": ["waste", "circular", "recycl", "resource recovery", "landfill gas"]
+    },
+    {
+      "id": "community-education",
+      "label": "Community & education",
+      "keywords": ["community", "education", "outreach", "engagement", "volunteer coordination", "interpretation"]
+    },
+    {
+      "id": "gis-spatial",
+      "label": "GIS & spatial analysis",
+      "keywords": ["gis", "geospatial", "spatial data", "remote sensing", "mapping", "arcgis", "qgis"]
+    },
+    {
+      "id": "environmental-engineering",
+      "label": "Environmental engineering",
+      "keywords": [
+        "environmental engineer",
+        "civil environmental",
+        "process engineer",
+        "effluent",
+        "treatment plant",
+        "noise modelling"
+      ]
+    },
+    {
+      "id": "offsets-nature-markets",
+      "label": "Offsets & nature markets",
+      "keywords": ["offset", "biodiversity net", "nature repair", "accu", "carbon farming", "blue carbon"]
+    }
+  ]
+}

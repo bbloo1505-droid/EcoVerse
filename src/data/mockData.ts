@@ -25,8 +25,6 @@ export const opportunities: Opportunity[] = [
     location: "Cairns, QLD",
     type: "Internship",
     deadline: "Closes in 6 days",
-    image:
-      "https://images.unsplash.com/photo-1526481280695-3c4690d5e2ac?auto=format&fit=crop&w=1200&q=80",
     summary: "Field and data support role focused on reef monitoring and restoration.",
     tags: ["Paid", "Field Work", "Student Friendly"],
   },
@@ -37,8 +35,6 @@ export const opportunities: Opportunity[] = [
     location: "Sydney, NSW",
     type: "Graduate",
     deadline: "Closes in 10 days",
-    image:
-      "https://images.unsplash.com/photo-1506973035872-a4f23adf7d27?auto=format&fit=crop&w=1200&q=80",
     summary: "Support ESG reporting, stakeholder analysis, and emissions data projects.",
     tags: ["Hybrid", "Graduate", "Consulting"],
   },
@@ -49,8 +45,6 @@ export const opportunities: Opportunity[] = [
     location: "Melbourne, VIC",
     type: "Volunteer",
     deadline: "Always open",
-    image:
-      "https://images.unsplash.com/photo-1469474968028-56623f02e42e?auto=format&fit=crop&w=1200&q=80",
     summary: "Coordinate local restoration volunteers and habitat maintenance days.",
     tags: ["Volunteer", "Community", "Weekend"],
   },
@@ -61,23 +55,61 @@ export const events: Event[] = [
     id: "event-1",
     title: "Future of Environmental Consulting Forum",
     host: "Engineers Australia - Environment College",
-    date: "Tue 28 Apr",
+    date: "2026-04-28",
     format: "Hybrid",
     location: "Sydney + Online",
-    image:
-      "https://images.unsplash.com/photo-1524293581917-878a6d017c71?auto=format&fit=crop&w=1200&q=80",
     summary: "Industry panel on skills pathways for graduates entering consulting.",
+    publishedAt: "2026-01-15T00:00:00.000Z",
   },
   {
     id: "event-2",
     title: "Climate Policy Career Night",
     host: "ANU Environmental Society",
-    date: "Thu 30 Apr",
+    date: "2026-04-30",
     format: "In person",
     location: "Canberra, ACT",
-    image:
-      "https://images.unsplash.com/photo-1545044846-351ba102b6d5?auto=format&fit=crop&w=1200&q=80",
     summary: "Meet policy professionals and learn how to break into impact careers.",
+    publishedAt: "2026-01-10T00:00:00.000Z",
+  },
+  {
+    id: "event-mock-ozwater",
+    title: "Ozwater 2026",
+    host: "Australian Water Association",
+    date: "2026-05-05",
+    format: "In person",
+    location: "Melbourne Convention Centre, VIC",
+    summary: "Australia’s flagship water conference — technical program and careers fair.",
+    publishedAt: "2025-10-01T00:00:00.000Z",
+  },
+  {
+    id: "event-mock-landcare-nsw",
+    title: "NSW Landcare and Local Land Services Conference 2026",
+    host: "Landcare NSW & Local Land Services",
+    date: "2026-10-27",
+    format: "In person",
+    location: "Corowa, NSW",
+    summary: "Regional Landcare conference — workshops and field visits (confirm dates with organisers).",
+    publishedAt: "2025-09-01T00:00:00.000Z",
+  },
+  {
+    id: "event-mock-national-landcare-2027",
+    title: "National Landcare Conference 2027",
+    host: "Landcare Australia",
+    date: "2027-09-06",
+    format: "Hybrid",
+    location: "Adelaide Convention Centre, SA",
+    summary: "National forum — Adelaide, early September 2027 (see official program).",
+    publishedAt: "2025-09-01T00:00:00.000Z",
+  },
+  {
+    id: "event-mock-carbon-webinar",
+    title: "Carbon markets & biodiversity credits — intro webinar",
+    host: "Carbon Market Institute",
+    date: "2026-04-08",
+    format: "Online",
+    location: "Online",
+    summary: "Intro for graduates on how carbon and nature markets work in Australia.",
+    publishedAt: "2026-01-10T00:00:00.000Z",
   },
 ];
 
@@ -87,8 +119,6 @@ export const articles: Article[] = [
     title: "New habitat restoration grants open across Queensland councils",
     source: "Environment Australia News",
     lastVerified: "Verified today",
-    image:
-      "https://images.unsplash.com/photo-1472396961693-142e6e269027?auto=format&fit=crop&w=1200&q=80",
     summary: "Councils announced fresh funding rounds for regeneration and biodiversity.",
   },
   {
@@ -96,8 +126,6 @@ export const articles: Article[] = [
     title: "How entry-level ESG roles are changing in 2026",
     source: "Sustainability Careers AU",
     lastVerified: "Verified 3 hours ago",
-    image:
-      "https://images.unsplash.com/photo-1492321936769-b49830bc1d1e?auto=format&fit=crop&w=1200&q=80",
     summary: "Firms are increasingly hiring graduates with mixed policy and analytics skills.",
   },
 ];
